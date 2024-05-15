@@ -73537,8 +73537,8 @@ s.d=0
 s.a.c.L(0,new A.a6z(s))},
 I(a){var s,r=null,q=A.ht(a).x?440:540,p=this.d
 p===$&&A.a()
-s=A.agb(r,r,new A.tu("assets/assets/images/transparent.png",r,r))
-return A.fU(A.a0b(new A.uF(s,A.agb(r,r,new A.nf("assets/assets/images/background.jpg",1,r)),B.y7,new A.d1(0,p),r),0.3),q,17976931348623157e292)}}
+s=A.agb(r,r,new A.tu("assets/images/transparent.png",r,r))
+return A.fU(A.a0b(new A.uF(s,A.agb(r,r,new A.nf("assets/images/background.jpg",1,r)),B.y7,new A.d1(0,p),r),0.3),q,17976931348623157e292)}}
 A.a6z.prototype={
 $0(){var s=this.a,r=B.b.gbx(s.a.c.f).at
 r.toString
@@ -73708,7 +73708,7 @@ this.a.c.L(0,new A.abM(this))},
 I(a){var s,r,q=null
 if(this.gBe()){s=A.R(B.c.bi(229.5),54,56,72)
 r=t.D
-s=A.f3(B.cW,A.i5(q,A.qf(A.b([new A.uI(1,B.BS,A.ig(A.qf(A.b([B.cH,B.Cm,B.wH,A.nV("edkluivert.com".toUpperCase(),q,B.MG),B.cH],r),B.aR,B.ax,B.c2),B.b1,q,q,q),q),A.ig(this.Wt(),B.b1,q,q,q)],r),B.aR,B.qP,B.b8),B.a_,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.abJ(this),q,q,q,!1,B.b_),B.o,s,q,q,q,56,q,q,q,q,17976931348623157e292)}else s=B.az
+s=A.f3(B.cW,A.i5(q,A.qf(A.b([new A.uI(1,B.BS,A.ig(A.qf(A.b([B.cH,B.Cm,B.wH,A.nV("https://edkluivert.github.io/kluivert_portfolio/".toUpperCase(),q,B.MG),B.cH],r),B.aR,B.ax,B.c2),B.b1,q,q,q),q),A.ig(this.Wt(),B.b1,q,q,q)],r),B.aR,B.qP,B.b8),B.a_,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.abJ(this),q,q,q,!1,B.b_),B.o,s,q,q,q,56,q,q,q,q,17976931348623157e292)}else s=B.az
 return new A.tg(s,B.Q,q)},
 Wt(){var s=null
 return A.i5(B.bm,B.It,B.a_,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.abI(),s,s,s,!1,B.b_)}}
@@ -77669,13 +77669,13 @@ B.cK=new A.da(1,"fuchsia")
 B.cL=new A.da(3,"linux")
 B.cM=new A.da(5,"windows")
 B.Ef=A.b(s([B.ak,B.cK,B.a0,B.cL,B.br,B.cM]),A.ap("x<da>"))
-B.Jv=new A.fk("Yachtall","https://apps.apple.com/us/app/yachtall-com/id977617537","https://play.google.com/store/apps/details?id=com.yachtinogmbh.yachtall&pcampaignid=web_share","assets/assets/images/yachtall.jpg","Sports, Travel")
-B.Js=new A.fk("Boote Yachten","https://apps.apple.com/us/app/boote-yachten/id1243371300","https://play.google.com/store/apps/details?id=com.yachtinogmbh.boote_yachten&pcampaignid=web_share","assets/assets/images/boote_yachten.png","Sports, Travel")
-B.Jy=new A.fk("Happy charter","https://apps.apple.com/us/app/happycharter/id6469506685","https://play.google.com/store/apps/details?id=com.yachtinogmbh.happy_charter&pcampaignid=web_share","assets/assets/images/happy_charter.png","Sports, Travel")
-B.Jt=new A.fk("Liquid Shuttle","https://apps.apple.com/az/app","https://play.google.com/store/apps/details?","assets/assets/images/ecommerce.png","E-commerce")
-B.Ju=new A.fk("Awa Hymn","https://apps.apple.com/az/app/vadi-karqo/id",u.k,"assets/assets/images/awa_hymn.png","Entertainment, Religion")
-B.Jw=new A.fk("Wright right","https://apps.apple.com/ru/app/mashin-al/id",u.k,"assets/assets/images/wright_right.png","E-commerce")
-B.Jx=new A.fk("Drop Orf","https://apps.apple.com/us/app/cib-az/id",u.k,"assets/assets/images/drop_orf.png","Taxi ride, Maps, Travel")
+B.Jv=new A.fk("Yachtall","https://apps.apple.com/us/app/yachtall-com/id977617537","https://play.google.com/store/apps/details?id=com.yachtinogmbh.yachtall&pcampaignid=web_share","assets/images/yachtall.jpg","Sports, Travel")
+B.Js=new A.fk("Boote Yachten","https://apps.apple.com/us/app/boote-yachten/id1243371300","https://play.google.com/store/apps/details?id=com.yachtinogmbh.boote_yachten&pcampaignid=web_share","assets/images/boote_yachten.png","Sports, Travel")
+B.Jy=new A.fk("Happy charter","https://apps.apple.com/us/app/happycharter/id6469506685","https://play.google.com/store/apps/details?id=com.yachtinogmbh.happy_charter&pcampaignid=web_share","assets/images/happy_charter.png","Sports, Travel")
+B.Jt=new A.fk("Liquid Shuttle","https://apps.apple.com/az/app","https://play.google.com/store/apps/details?","assets/images/ecommerce.png","E-commerce")
+B.Ju=new A.fk("Awa Hymn","https://apps.apple.com/az/app/vadi-karqo/id",u.k,"assets/images/awa_hymn.png","Entertainment, Religion")
+B.Jw=new A.fk("Wright right","https://apps.apple.com/ru/app/mashin-al/id",u.k,"assets/images/wright_right.png","E-commerce")
+B.Jx=new A.fk("Drop Orf","https://apps.apple.com/us/app/cib-az/id",u.k,"assets/images/drop_orf.png","Taxi ride, Maps, Travel")
 B.Eh=A.b(s([B.Jv,B.Js,B.Jy,B.Jt,B.Ju,B.Jw,B.Jx]),A.ap("x<fk>"))
 B.iu=A.b(s([!0,!1]),t.HZ)
 B.jK=new A.cK(0,"DoubleQuote")
