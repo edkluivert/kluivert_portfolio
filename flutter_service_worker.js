@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "428c724845032a5061dae517783a9036",
-"assets/AssetManifest.bin.json": "eabbd7c9b520be948813dbb1089f5a48",
-"assets/AssetManifest.json": "897a5713ab7899040ed1f13685fb6be4",
+const RESOURCES = {"assets/AssetManifest.bin": "34fdc0d6f5c4f5003f242af3d54b9474",
+"assets/AssetManifest.bin.json": "52b21c1230a11beb6ea0cd73cf1db5cb",
+"assets/AssetManifest.json": "1889abb5368712af081379641ff40d2f",
 "assets/assets/fonts/Ubuntu/Ubuntu-Bold.ttf": "896a60219f6157eab096825a0c9348a8",
 "assets/assets/fonts/Ubuntu/Ubuntu-Light.ttf": "c9d68f61bf89fde6a24da697bc45d6f9",
 "assets/assets/fonts/Ubuntu/Ubuntu-Medium.ttf": "d3c3b35e6d478ed149f02fad880dd359",
@@ -15,6 +15,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "428c724845032a5061dae517783a9036
 "assets/assets/images/boote_yachten.png": "1a742c27df3d22c0a6b83f2590897f79",
 "assets/assets/images/drop_orf.png": "a19c48b9891fc23473dc46e64de75da6",
 "assets/assets/images/ecommerce.png": "3317557792ece815578a118ed4ad570f",
+"assets/assets/images/gisthouse.jpg": "6a378432504e20d0c655cd4b2d6f880e",
 "assets/assets/images/happy_charter.png": "347c0b6ad150033470487758bf976411",
 "assets/assets/images/logo.png": "127544e5b2d9b5fba5fdecb7319913aa",
 "assets/assets/images/transparent.png": "ebdeac6cb5c5e658f02a51d475177ee4",
@@ -44,9 +45,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "428c724845032a5061dae517783a9036
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cec1b8d69833c1c88a41e35e5e9046a2",
-"/": "cec1b8d69833c1c88a41e35e5e9046a2",
-"main.dart.js": "95875c48f177a134804224ff7a95e7ba",
+"index.html": "8579a4289428510311ca0fbefd6b512c",
+"/": "8579a4289428510311ca0fbefd6b512c",
+"main.dart.js": "4b7b4199266ac07daa9e3e212efed169",
 "manifest.json": "a4b35740708702d6c10fcd2c9c990419",
 "version.json": "d8c26ec7fa8fc19329d2cbe1b4cd0287"};
 // The application shell files that are downloaded before a service worker can
