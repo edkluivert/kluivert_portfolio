@@ -1,45 +1,448 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-
   <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <title>Edegware kluivert</title>
-  <meta name="description" content="My Portfolio">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="my_web_porfolio">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <link rel="manifest" href="manifest.json">
-
-  <script>
-    // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2207285368";
-  </script>
-  <!-- This script adds the flutter initialization JS code -->
-  <script src="flutter.js" defer></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kluivert Edegware</title>
+  <meta name="description" content="Kluivert Edegware — mobile app engineer. Six years of Flutter and native Android for fintech, EV charging, property, schools and boat marketplaces. Eight apps on Google Play.">
+  <meta property="og:title" content="Kluivert Edegware — apps that shipped">
+  <meta property="og:description" content="Mobile app engineer. Six years of Flutter and native Android, eight apps on Google Play.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232451f5'/%3E%3Ctext x='32' y='43' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-weight='800' font-size='34' fill='white'%3EK%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <script>
-    window.addEventListener('load', function(ev) {
-      // Download main.dart.js
-      _flutter.loader.loadEntrypoint({
-        serviceWorker: {
-          serviceWorkerVersion: serviceWorkerVersion,
-        },
-        onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
-            appRunner.runApp();
-          });
-        }
-      });
-    });
-  </script>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#"><span class="mark">K</span> Kluivert Edegware</a>
+    <nav class="nav" aria-label="Sections">
+      <span class="pill" aria-hidden="true"></span>
+      <a href="#work">Shipped</a>
+      <a href="#products">Own products</a>
+      <a href="#oss">Open source</a>
+      <a href="#experience">Experience</a>
+    </nav>
+    <div class="top-actions">
+      <button class="btn icon" id="theme" type="button" aria-label="Switch theme">☾</button>
+      <a class="btn primary magnetic" href="mailto:edkluivert@gmail.com">Get in touch</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="hero" style="border-top:0">
+    <div class="hero-bg" aria-hidden="true"><i></i><i></i><i></i></div>
+    <div class="hero-copy">
+      <div class="eyebrow reveal" style="--d:0">Mobile app engineer · Rivers, Nigeria · Remote</div>
+      <h1><span class="line" style="--d:1"><span>Apps that</span></span><span class="line" style="--d:2"><span><em>shipped.</em></span></span></h1>
+      <p class="lede reveal" style="--d:3">Six years of Flutter and native Android for fintech, EV charging, property,
+        schools and boat marketplaces. I take an app from architecture and API design through to
+        store release, then keep it fast and crash-free once real people are on it.</p>
+      <div class="hero-cta reveal" style="--d:4">
+        <a class="btn primary magnetic" href="#work">See the work</a>
+        <a class="btn" href="assets/Kluivert-Edegware-Resume.docx" download>Download résumé</a>
+      </div>
+      <div class="facts reveal" style="--d:5">
+        <span><b data-count="8">8</b> apps on Google Play</span>
+        <span><b data-count="10" data-suffix="K+">10K+</b> installs on Yachtall</span>
+        <span><b data-count="6" data-suffix="+">6+</b> years Flutter &amp; Android</span>
+        <span><b data-count="3">3</b> packages on pub.dev</span>
+      </div>
+    </div>
+
+    <div class="shelf-wrap"><div class="shelf" aria-label="Launcher icons of apps I built">
+      <a href="#custovia" title="Custovia"><img src="assets/apps/custovia.png" alt="Custovia icon"></a>
+      <a href="#acire23" title="Acire23 Network"><img src="assets/apps/acire23.png" alt="Acire23 Network icon"></a>
+      <a href="#myslates" title="MySlates"><img src="assets/apps/myslates.png" alt="MySlates icon"></a>
+      <a href="#swayspa" title="SwaySpa"><img src="assets/apps/swayspa.png" alt="SwaySpa icon"></a>
+      <a href="#yachtall" title="Yachtall"><img src="assets/apps/yachtall.png" alt="Yachtall icon"></a>
+      <a href="#boote" title="Boote Yachten"><img src="assets/apps/boote-yachten.png" alt="Boote Yachten icon"></a>
+      <a href="#happycharter" title="Happycharter"><img src="assets/apps/happycharter.png" alt="Happycharter icon"></a>
+      <a href="#limpiador" title="Limpiador"><img src="assets/apps/limpiador.png" alt="Limpiador icon"></a>
+    </div></div>
+  </section>
+
+  <div class="ticker" aria-hidden="true">
+    <div class="ticker-track">
+      <span>Flutter</span><span>Kotlin</span><span>Firebase</span><span>Bloc</span><span>Clean architecture</span><span>Google Play</span><span>App Store</span><span>Passkeys</span><span>Payments</span><span>Google Maps</span><span>Jetpack Compose</span><span>REST &amp; sockets</span><span>CI/CD</span><span>Fintech</span><span>EdTech</span><span>Marketplaces</span><span>EV charging</span><span>Nigeria · US · Germany</span>
+      <span>Flutter</span><span>Kotlin</span><span>Firebase</span><span>Bloc</span><span>Clean architecture</span><span>Google Play</span><span>App Store</span><span>Passkeys</span><span>Payments</span><span>Google Maps</span><span>Jetpack Compose</span><span>REST &amp; sockets</span><span>CI/CD</span><span>Fintech</span><span>EdTech</span><span>Marketplaces</span><span>EV charging</span><span>Nigeria · US · Germany</span>
+    </div>
+  </div>
+
+  <!-- ============ SHIPPED ============ -->
+  <section id="work">
+    <div class="sec-head">
+      <div>
+        <div class="eyebrow">Shipped</div>
+        <h2>On the store, in people's hands.</h2>
+      </div>
+      <p>Every app here is live on Google Play, four of them on the App Store too. Roles ranged from owning
+        the whole build to taking over and overhauling an existing codebase.</p>
+    </div>
+
+    <div class="apps">
+
+      <article class="app" id="custovia">
+        <div class="icon"><img src="assets/apps/custovia.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Custovia</h3><span class="client">Concept Colony · 2025–2026</span></div>
+          <div class="meta"><span>com.conceptcolony.custovia</span><span class="stat">Google Play</span><span>Android · iOS</span></div>
+          <p>A marketplace that connects customers with service providers. Built from the ground up and owned
+            through every release: authentication with passkeys and cross-device revocation, wallet and
+            payments, bookings, chat, dispute handling and push-driven notification routing.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Bloc</span><span class="tag">Clean architecture</span><span class="tag">Passkeys</span><span class="tag">Payments</span><span class="tag">Firebase</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.conceptcolony.custovia" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="app" id="acire23">
+        <div class="icon"><img src="assets/apps/acire23.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Acire23 Network</h3><span class="client">Bitex Consultancy, US · 2024–2026</span></div>
+          <div class="meta"><span>com.acire.app</span><span class="stat">Google Play</span><span>User app + provider app</span></div>
+          <p>A two-sided real-estate and home-services platform. Led both apps end to end: property discovery and
+            requests for users, structured listing uploads, notifications and job management for providers.
+            Property posting time dropped by half and search engagement rose 40%.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Real-time notifications</span><span class="tag">Very Good CLI</span><span class="tag">REST</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.acire.app" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="app" id="myslates">
+        <div class="icon"><img src="assets/apps/myslates.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>MySlates</h3><span class="client">Asataura Technology Services · 2024–2026</span></div>
+          <div class="meta"><span>com.ATS.MySlates</span><span class="stat">Google Play · 5K+ installs · 4.1★</span><span>Students · Parents · Teachers · Admin</span></div>
+          <p>A school platform in four apps. Built the results and report-card system parents and teachers rely on,
+            gamified quizzes for students, and real-time reporting dashboards for administrators. Course
+            completion rose 40% after the gamified modules landed.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">EdTech</span><span class="tag">Gamification</span><span class="tag">Dashboards</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.ATS.MySlates" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="app with-shot" id="yachtall">
+        <div class="icon"><img src="assets/apps/yachtall.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Yachtall boat exchange</h3><span class="client">Yachtino GmbH, Germany · via Expectoo · 2022–2024</span></div>
+          <div class="meta"><span>com.yachtinogmbh.yachtall</span><span class="stat">Google Play · 10K+ installs · App Store 4.2★</span><span>7 languages</span></div>
+          <p>Europe's boat marketplace on mobile. Took over the app, fixed the design flaws, rebuilt the API
+            integration and worked with the web team on shared services. Feature adoption rose 30% and data
+            errors fell by a quarter.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Marketplace</span><span class="tag">Localisation</span><span class="tag">Legacy modernisation</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.yachtinogmbh.yachtall" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+            <a class="store apple" href="https://apps.apple.com/app/yachtall-com/id977617537" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.4.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.2zM13.9 4.9c.7-.9 1.2-2.1 1-3.3-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.2 1.2.1 2.4-.6 3.1-1.5z"/></svg>
+              App Store</a>
+          </div>
+        </div>
+        <div class="shot"><img src="assets/shots/boote_yachten.png" alt="Boats-for-sale screen with category tiles"></div>
+      </article>
+
+      <article class="app" id="boote">
+        <div class="icon"><img src="assets/apps/boote-yachten.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Boote Yachten</h3><span class="client">Yachtino GmbH, Germany · 2022–2024</span></div>
+          <div class="meta"><span>com.yachtinogmbh.boote_yachten</span><span class="stat">Google Play · 1K+ installs · App Store</span></div>
+          <p>The German-market sister of Yachtall. Brought Yachtall's core across as reusable components, tuned
+            search and filtering, and tightened responsiveness across the catalogue.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Reusable components</span><span class="tag">Search</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.yachtinogmbh.boote_yachten" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+            <a class="store apple" href="https://apps.apple.com/app/boote-yachten/id1243371300" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.4.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.2zM13.9 4.9c.7-.9 1.2-2.1 1-3.3-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.2 1.2.1 2.4-.6 3.1-1.5z"/></svg>
+              App Store</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="app with-shot" id="happycharter">
+        <div class="icon"><img src="assets/apps/happycharter.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Happycharter</h3><span class="client">Yachtino GmbH, Germany · 2022–2024</span></div>
+          <div class="meta"><span>com.yachtinogmbh.happy_charter</span><span class="stat">Google Play · App Store</span><span>Charter boats worldwide</span></div>
+          <p>Charter search across Croatia, Italy, France, Spain, Greece and beyond. Led the project setup and the
+            API framework, then built the search and bookmark flows that carry most of the usage.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">API framework</span><span class="tag">Search</span><span class="tag">Bookmarks</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.yachtinogmbh.happy_charter" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+            <a class="store apple" href="https://apps.apple.com/app/happycharter/id6469506685" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.4.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.2zM13.9 4.9c.7-.9 1.2-2.1 1-3.3-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.2 1.2.1 2.4-.6 3.1-1.5z"/></svg>
+              App Store</a>
+          </div>
+        </div>
+        <div class="shot"><img src="assets/shots/happy_charter.png" alt="Happycharter destinations screen"></div>
+      </article>
+
+      <article class="app" id="swayspa">
+        <div class="icon"><img src="assets/apps/swayspa.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>SwaySpa</h3><span class="client">Asataura Technology Services · 2024–2026</span></div>
+          <div class="meta"><span>com.ats.sway_spa</span><span class="stat">Google Play 4.6★ · App Store</span></div>
+          <p>Spa discovery and booking. Automated the backend processes behind listings and content delivery,
+            which cut the client's operating cost on the platform by a quarter.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Bookings</span><span class="tag">Automation</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.ats.sway_spa" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+            <a class="store apple" href="https://apps.apple.com/app/swayspa/id6759058782" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.4.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.2zM13.9 4.9c.7-.9 1.2-2.1 1-3.3-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.2 1.2.1 2.4-.6 3.1-1.5z"/></svg>
+              App Store</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="app" id="limpiador">
+        <div class="icon"><img src="assets/apps/limpiador.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Limpiador: Property Service</h3><span class="client">Limpiar · 2024</span></div>
+          <div class="meta"><span>com.limpiador.agent2</span><span class="stat">Google Play</span></div>
+          <p>The agent-side app for a cleaning and property-services company. Secure sign-in with a guest mode,
+            task tracking, analytics and e-wallet payments. Retention rose 25% and login support requests fell.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Guest mode</span><span class="tag">E-wallet</span><span class="tag">Analytics</span></div>
+          <div class="links">
+            <a class="store" href="https://play.google.com/store/apps/details?id=com.limpiador.agent2" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
+              Google Play</a>
+          </div>
+        </div>
+      </article>
+
+
+    </div>
+  </section>
+
+  <!-- ============ OWN PRODUCTS ============ -->
+  <section id="products">
+    <div class="sec-head">
+      <div>
+        <div class="eyebrow">Own products</div>
+        <h2>Things I'm building for myself.</h2>
+      </div>
+      <p>Things I build for myself, from a hymn book to Android internals, sandboxing, media pipelines and
+        local networking.</p>
+    </div>
+
+    <div class="apps" style="margin-bottom:14px">
+      <article class="app with-shot" id="awahymn">
+        <div class="icon">A</div>
+        <div>
+          <div class="app-head"><h3>Awa Hymn</h3><span class="client">Personal project · Android</span></div>
+          <div class="meta"><span>com.jitae.awa_hymn</span><span class="stat">Released</span></div>
+          <p>My own hymn book: search by number, word or lyric, favourites, classifications and a hymn of the day.
+            Rebuilt it from GetX to Bloc with clean architecture and dependency injection without changing what
+            users see.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Bloc</span><span class="tag">GoRouter</span><span class="tag">Migration</span></div>
+        </div>
+        <div class="shot"><img src="assets/shots/awa_hymn.png" alt="Awa Hymn home screen"></div>
+      </article>
+    </div>
+
+    <div class="grid">
+      <article class="card">
+        <div class="top-row">
+          <div class="icon">C</div>
+          <div><h3>Cordon</h3><span class="client">Android · privacy guard</span></div>
+        </div>
+        <p>Protects people from data-harvesting loan apps. Runs a suspect app inside a sandbox that hands it
+          fabricated contacts, messages, call logs and location instead of the real thing, and logs every
+          access attempt.</p>
+        <div class="tags"><span class="tag status">In development · private</span><span class="tag">Kotlin</span><span class="tag">App virtualisation</span></div>
+      </article>
+
+
+      <article class="card">
+        <div class="top-row">
+          <div class="icon">Cr</div>
+          <div><h3>Crisp</h3><span class="client">HD to WhatsApp Status</span></div>
+        </div>
+        <p>Post photos and video to WhatsApp Status without them turning to mush. Encodes on-device to survive
+          the compressor, then delivers through the WhatsApp Cloud API.</p>
+        <div class="tags"><span class="tag status">Complete · open source</span><span class="tag">Flutter</span><span class="tag">Media encoding</span><span class="tag">WhatsApp Cloud API</span></div>
+        <div class="links"><a class="store" href="https://github.com/edkluivert/crisp" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5A11.5 11.5 0 0 0 .5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.56v-2c-3.2.7-3.87-1.37-3.87-1.37-.53-1.33-1.28-1.69-1.28-1.69-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.7 1.25 3.36.96.1-.75.4-1.25.73-1.54-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.8 1.19 1.83 1.19 3.09 0 4.42-2.7 5.4-5.26 5.68.41.36.78 1.05.78 2.12v3.14c0 .31.21.67.8.56A11.5 11.5 0 0 0 23.5 12 11.5 11.5 0 0 0 12 .5z"/></svg> Source on GitHub</a></div>
+      </article>
+
+      <article class="card">
+        <div class="top-row">
+          <div class="icon">S</div>
+          <div><h3>Shuttle</h3><span class="client">Local file transfer</span></div>
+        </div>
+        <p>Move files between the devices in front of you over the network they're already on, or over USB when
+          there is none. No account, nothing leaves the LAN, and the other device needs nothing installed.</p>
+        <div class="tags"><span class="tag status">Complete · open source</span><span class="tag">Flutter</span><span class="tag">LAN &amp; USB</span><span class="tag">Networking</span></div>
+        <div class="links"><a class="store" href="https://github.com/edkluivert/Shuttle" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5A11.5 11.5 0 0 0 .5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.56v-2c-3.2.7-3.87-1.37-3.87-1.37-.53-1.33-1.28-1.69-1.28-1.69-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.7 1.25 3.36.96.1-.75.4-1.25.73-1.54-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.8 1.19 1.83 1.19 3.09 0 4.42-2.7 5.4-5.26 5.68.41.36.78 1.05.78 2.12v3.14c0 .31.21.67.8.56A11.5 11.5 0 0 0 23.5 12 11.5 11.5 0 0 0 12 .5z"/></svg> Source on GitHub</a></div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ============ OPEN SOURCE ============ -->
+  <section id="oss">
+    <div class="sec-head">
+      <div>
+        <div class="eyebrow">Open source</div>
+        <h2>Packages on pub.dev.</h2>
+      </div>
+      <p>Small, focused Flutter libraries pulled out of production apps. All three score the full 160 pub points.</p>
+    </div>
+
+    <div class="packages">
+      <article class="pkg">
+        <div class="name">translation_manager <span>v2.0.5</span></div>
+        <p>A lightweight, GetX-inspired translation library with automatic locale detection and Bloc integration.
+          The <code>.tr</code> ergonomics without the GetX dependency.</p>
+        <div class="foot"><span>160 pub points</span><a href="https://pub.dev/packages/translation_manager" target="_blank" rel="noopener">pub.dev ↗</a></div>
+      </article>
+      <article class="pkg">
+        <div class="name">solid_x <span>v2.1.3</span></div>
+        <p>A reactive state-management library inspired by Kotlin's ViewModel and StateFlow. Clean architecture
+          with zero code generation.</p>
+        <div class="foot"><span>160 pub points</span><a href="https://pub.dev/packages/solid_x" target="_blank" rel="noopener">pub.dev ↗</a></div>
+      </article>
+      <article class="pkg">
+        <div class="name">getx_exten <span>v2.0.6</span></div>
+        <p>GetListener and GetConsumer for GetX: Bloc-style listener and consumer widgets on top of GetX's
+          reactive state.</p>
+        <div class="foot"><span>160 pub points</span><a href="https://pub.dev/packages/getx_exten" target="_blank" rel="noopener">pub.dev ↗</a></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ EXPERIENCE ============ -->
+  <section id="experience">
+    <div class="sec-head">
+      <div>
+        <div class="eyebrow">Experience</div>
+        <h2>Where I've worked.</h2>
+      </div>
+      <p>Remote for teams in Nigeria, the US and Germany. I studied Mathematics and Statistics at the University
+        of Port Harcourt.</p>
+    </div>
+
+    <div class="timeline">
+      <div class="job">
+        <div class="when">May 2025 – present</div>
+        <div>
+          <h3>Mobile App Developer</h3>
+          <span class="client">Funkash · Remote</span>
+          <p>Build and run Flowpense and Tharwa across Android and iOS. Clean architecture and reusable components
+            lifted stability 35% and cut feature time 30%; payments, e-wallet, Firebase auth and analytics
+            throughout.</p>
+        </div>
+      </div>
+      <div class="job">
+        <div class="when">Sep 2024 – Feb 2026</div>
+        <div>
+          <h3>Mobile App Developer</h3>
+          <span class="client">Bitex Consultancy · Remote, US</span>
+          <p>Designed and shipped the Acire23 user and provider apps and an events app for property launches.
+            Performance monitoring and systematic fixes cut support tickets 30%.</p>
+        </div>
+      </div>
+      <div class="job">
+        <div class="when">Aug 2024 – Jan 2026</div>
+        <div>
+          <h3>Mobile App / Flutter Developer</h3>
+          <span class="client">Asataura · Remote, Kano</span>
+          <p>MySlates for students, parents, teachers and admins, plus SwaySpa and FluxesSpark Parents. Gamified
+            learning, real-time reporting and redesigned onboarding.</p>
+        </div>
+      </div>
+      <div class="job">
+        <div class="when">May 2022 – Sep 2024</div>
+        <div>
+          <h3>Flutter Developer</h3>
+          <span class="client">Expectoo · Remote, Germany</span>
+          <p>Modernised legacy Flutter codebases for Yachtino's marketplace apps, cutting maintenance cost 20%
+            and improving responsiveness 30% across production releases.</p>
+        </div>
+      </div>
+      <div class="job">
+        <div class="when">Apr 2021 – Jul 2021</div>
+        <div>
+          <h3>Mobile App Developer</h3>
+          <span class="client">Helixgade · Remote</span>
+          <p>A secure electronic-voting app on Flutter and Firebase, a marketplace rebuilt from scratch on Cloud
+            Firestore, and a real-time task manager.</p>
+        </div>
+      </div>
+      <div class="job">
+        <div class="when">Jan 2021 – Mar 2021</div>
+        <div>
+          <h3>Android Developer</h3>
+          <span class="client">Zebulon Developers · Remote</span>
+          <p>A photography app with image-processing pipelines and redesigned event discovery, delivered on
+            native Android.</p>
+        </div>
+      </div>
+      <div class="job">
+        <div class="when">May 2019 – Nov 2019</div>
+        <div>
+          <h3>Mentor, Google Developers Program</h3>
+          <span class="client">Andela</span>
+          <p>Mentored Android learners with weekly tasks and code reviews, lifting completion rates 30%.</p>
+        </div>
+      </div>
+      <div class="job">
+        <div class="when">Education</div>
+        <div>
+          <h3>B.Sc. Mathematics and Statistics</h3>
+          <span class="client">University of Port Harcourt · Rivers, Nigeria</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CONTACT ============ -->
+  <section class="contact" id="contact">
+    <div class="contact-box">
+      <div>
+        <div class="eyebrow" style="opacity:.7">Contact</div>
+        <h2>Have an app that needs shipping?</h2>
+        <p>I work remotely with product teams and founders. Send a note about what you're building and where it's
+          stuck.</p>
+      </div>
+      <div class="contact-list">
+        <a href="mailto:edkluivert@gmail.com">edkluivert@gmail.com <span>email</span></a>
+        <a href="https://www.linkedin.com/in/kluivert-edegware-913882172" target="_blank" rel="noopener">Kluivert Edegware <span>linkedin</span></a>
+        <a href="https://github.com/edkluivert" target="_blank" rel="noopener">edkluivert <span>github</span></a>
+        <a href="tel:+2349047550339">+234 904 755 0339 <span>phone</span></a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <span>© <span id="year">2026</span> Kluivert Edegware</span>
+    <span>Flutter · Kotlin · Firebase · Rivers, Nigeria</span>
+  </footer>
+
+</main>
+
+<script src="main.js"></script>
 </body>
 </html>
