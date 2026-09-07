@@ -9,14 +9,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
   <style>
-    /* Print-first. A4, two pages max, clickable links. Same voice as the site. */
+    /* Print-first. A4, single column, two pages, room to breathe. */
     :root {
       --ink: #0e1512;
       --ink-2: #3a4540;
       --dim: #6b776f;
-      --line: #d5dbd6;
+      --line: #d9ded9;
       --accent: #2451f5;
-      --tint: #eef1ff;
       --display: "Syne", "Avenir Next", "Segoe UI", sans-serif;
       --body: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
       --mono: "IBM Plex Mono", Menlo, monospace;
@@ -24,61 +23,45 @@
 
     @page {
       size: A4;
-      margin: 14mm 14mm 16mm;
+      margin: 13mm 17mm 14mm;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
-    html,
-    body {
+    html, body {
       margin: 0;
       background: #fff;
       color: var(--ink);
       font-family: var(--body);
-      font-size: 10.4pt;
-      line-height: 1.42;
+      font-size: 10pt;
+      line-height: 1.46;
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
     }
 
-    a {
-      color: inherit;
-      text-decoration: none;
-    }
+    a { color: inherit; text-decoration: none; }
+    p { margin: 0; }
+    h1, h2, h3 { margin: 0; font-family: var(--display); letter-spacing: -0.02em; }
 
-    .page {
-      width: 182mm;
-      margin: 0 auto;
-      padding: 10mm 0;
-    }
+    .page { width: 176mm; margin: 0 auto; }
 
     @media screen {
-      body {
-        background: #eef0ec;
-      }
-
+      body { background: #eef0ec; }
       .page {
         background: #fff;
-        padding: 16mm 14mm;
+        padding: 13mm 17mm 14mm;
         margin: 24px auto;
-        box-shadow: 0 20px 60px -30px rgba(0, 0, 0, 0.35);
         width: 210mm;
+        box-shadow: 0 20px 60px -30px rgba(0, 0, 0, 0.35);
       }
-
       .toolbar {
         width: 210mm;
         margin: 18px auto -6px;
         display: flex;
         justify-content: flex-end;
         gap: 8px;
-        font-family: var(--body);
-        font-size: 13px;
       }
-
-      .toolbar a,
-      .toolbar button {
+      .toolbar a, .toolbar button {
         padding: 8px 14px;
         border-radius: 999px;
         border: 1px solid var(--line);
@@ -87,311 +70,115 @@
         cursor: pointer;
         font: 500 13px var(--body);
       }
-
-      .toolbar button {
-        background: var(--accent);
-        color: #fff;
-        border-color: var(--accent);
-      }
+      .toolbar button { background: var(--accent); color: #fff; border-color: var(--accent); }
     }
 
-    @media print {
-      .toolbar {
-        display: none;
-      }
-    }
-
-    h1,
-    h2,
-    h3 {
-      margin: 0;
-      font-family: var(--display);
-      letter-spacing: -0.02em;
-    }
-
-    p {
-      margin: 0;
-    }
+    @media print { .toolbar { display: none; } }
 
     /* ---- header ---- */
-    .head {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 8mm;
-      align-items: end;
-      padding-bottom: 5mm;
-      border-bottom: 2px solid var(--ink);
-    }
+    .head { padding-bottom: 4.2mm; border-bottom: 2px solid var(--ink); }
 
-    .head h1 {
-      font-size: 26pt;
-      font-weight: 800;
-      line-height: 1;
-      letter-spacing: -0.03em;
-    }
+    .head h1 { font-size: 27pt; font-weight: 800; line-height: 1; letter-spacing: -0.03em; }
 
-    .head .title {
-      margin-top: 4px;
-      font-size: 11.5pt;
-      font-weight: 500;
-      color: var(--ink-2);
-    }
-
-    .head .title b {
-      color: var(--accent);
-      font-weight: 600;
-    }
+    .head .title { margin-top: 2.5mm; font-size: 12pt; font-weight: 500; color: var(--ink-2); }
+    .head .title b { color: var(--accent); font-weight: 600; }
 
     .contact {
+      margin-top: 3mm;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5mm 7mm;
       font-family: var(--mono);
-      font-size: 8.3pt;
+      font-size: 8.6pt;
       color: var(--ink-2);
-      text-align: right;
-      line-height: 1.6;
     }
 
-    .contact a {
-      display: block;
-    }
-
-    /* ---- body grid ---- */
-    .body {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) 52mm;
-      gap: 9mm;
-      margin-top: 5mm;
-    }
-
-    section {
-      margin-bottom: 5.5mm;
-      break-inside: avoid-page;
-    }
-
-    section.allow-break {
-      break-inside: auto;
-    }
+    /* ---- sections ---- */
+    section { margin-top: 4.6mm; }
+    section.keep { break-inside: avoid; }
 
     h2 {
       break-after: avoid;
       font-family: var(--mono);
-      font-size: 7.8pt;
+      font-size: 8.2pt;
       font-weight: 500;
-      letter-spacing: 0.14em;
+      letter-spacing: 0.16em;
       text-transform: uppercase;
       color: var(--dim);
-      margin-bottom: 2.6mm;
+      margin-bottom: 3mm;
       padding-bottom: 1.4mm;
       border-bottom: 1px solid var(--line);
     }
 
-    .summary {
-      font-size: 10.6pt;
-      line-height: 1.5;
-      color: var(--ink);
+    .summary { font-size: 10.4pt; line-height: 1.5; }
+
+    /* ---- experience ---- */
+    .job { margin-bottom: 3.4mm; break-inside: auto; }
+    .job-head { break-after: avoid; }
+    .job ul { orphans: 2; widows: 2; }
+    .job:last-child { margin-bottom: 0; }
+
+    .job-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 6mm;
     }
 
-    /* selected work */
-    .work {
+    .job h3 { font-size: 12pt; font-weight: 700; }
+    .job h3 .role { font-family: var(--body); font-weight: 500; font-size: 10.2pt; color: var(--ink-2); letter-spacing: 0; }
+    .job h3 .role::before { content: "·"; margin: 0 7px; color: var(--dim); }
+
+    .job .when { font-family: var(--mono); font-size: 8.6pt; color: var(--dim); white-space: nowrap; }
+
+    .job ul { margin: 2mm 0 0; padding-left: 4.5mm; color: var(--ink-2); }
+    .job li { margin-bottom: 0.7mm; }
+    .job li::marker { color: var(--accent); }
+
+
+    /* ---- apps table ---- */
+    .apps { display: grid; row-gap: 2.4mm; }
+    .app {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 2.6mm 6mm;
-    }
-
-    .work .item {
+      grid-template-columns: 46mm minmax(0, 1fr) 30mm;
+      column-gap: 5mm;
+      align-items: baseline;
       break-inside: avoid;
     }
+    .app b { font-family: var(--display); font-size: 10.8pt; font-weight: 700; letter-spacing: -0.01em; }
+    .app small { display: block; font-family: var(--mono); font-size: 8pt; color: var(--dim); margin-top: 0.5mm; }
+    .app p { font-size: 9.6pt; color: var(--ink-2); }
+    .app .links { font-family: var(--mono); font-size: 8.4pt; color: var(--accent); text-align: right; line-height: 1.7; }
+    .app .links a { display: block; }
 
-    .work h3 {
-      font-size: 10.4pt;
-      font-weight: 700;
-      display: flex;
-      flex-wrap: wrap;
+    /* ---- skills / lists ---- */
+    .rows { display: grid; row-gap: 1.8mm; }
+    .row {
+      display: grid;
+      grid-template-columns: 40mm minmax(0, 1fr);
+      column-gap: 5mm;
       align-items: baseline;
-      gap: 2px 6px;
+      break-inside: avoid;
     }
+    .row b { font-weight: 600; font-size: 10pt; }
+    .row span { color: var(--ink-2); font-size: 10pt; }
+    .row b.mono { font-family: var(--mono); font-weight: 500; font-size: 9.4pt; }
+    .row a { color: var(--accent); font-weight: 500; }
 
-    .work .where {
-      font-family: var(--body);
-      font-weight: 400;
-      font-size: 8.6pt;
-      color: var(--dim);
-      letter-spacing: 0;
-    }
-
-    .work p {
-      font-size: 9.3pt;
-      color: var(--ink-2);
-      margin-top: 1px;
-    }
-
-    .work .links {
-      font-family: var(--mono);
-      font-size: 7.8pt;
-      color: var(--accent);
-      margin-top: 2px;
-      display: flex;
-      gap: 8px;
-    }
-
-    /* experience */
-    .job {
-      display: grid;
-      grid-template-columns: 33mm minmax(0, 1fr);
-      gap: 3.5mm;
-      margin-bottom: 3.4mm;
-      break-inside: auto;
-    }
-
-    .job .when,
-    .job h3 {
-      break-after: avoid;
-    }
-
-    .job ul {
-      orphans: 2;
-      widows: 2;
-    }
-
-    .job .when {
-      font-family: var(--mono);
-      font-size: 8.2pt;
-      color: var(--dim);
-      padding-top: 2px;
-      line-height: 1.5;
-      white-space: nowrap;
-    }
-
-    .job h3 {
-      font-size: 10.8pt;
-      font-weight: 700;
-    }
-
-    .job .role {
-      font-family: var(--body);
-      font-weight: 500;
-      font-size: 9.4pt;
-      color: var(--ink-2);
-      letter-spacing: 0;
-    }
-
-    .job .role::before {
-      content: "·";
-      margin: 0 6px;
-      color: var(--dim);
-    }
-
-    .job ul {
-      margin: 1.4mm 0 0;
-      padding-left: 4mm;
-      color: var(--ink-2);
-      font-size: 9.4pt;
-    }
-
-    .job li {
-      margin-bottom: 0.8mm;
-    }
-
-    .job li::marker {
-      color: var(--accent);
-    }
-
-    /* sidebar */
-    aside section {
-      margin-bottom: 5mm;
-    }
-
-    .skills {
-      display: flex;
-      flex-direction: column;
-      gap: 2.2mm;
-    }
-
-    .skills .group b {
-      display: block;
-      font-size: 8.8pt;
-      font-weight: 600;
-      color: var(--ink);
-      margin-bottom: 0.6mm;
-    }
-
-    .skills .group span {
-      font-size: 8.8pt;
-      color: var(--ink-2);
-      line-height: 1.45;
-    }
-
-    .stats {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 2mm;
-    }
-
-    .stat {
-      background: var(--tint);
-      border-radius: 6px;
-      padding: 2.4mm 2.6mm;
-    }
-
-    .stat b {
-      display: block;
-      font-family: var(--display);
-      font-size: 15pt;
-      font-weight: 800;
-      color: var(--accent);
-      line-height: 1;
-      letter-spacing: -0.02em;
-    }
-
-    .stat span {
-      font-size: 7.8pt;
-      color: var(--ink-2);
-      line-height: 1.3;
-      display: block;
-      margin-top: 1.2mm;
-    }
-
-    .pkg {
-      margin-bottom: 2mm;
-    }
-
-    .pkg b {
-      font-family: var(--mono);
-      font-weight: 500;
-      font-size: 8.8pt;
-      display: block;
-    }
-
-    .pkg span {
-      font-size: 8.6pt;
-      color: var(--ink-2);
-    }
-
-    .edu b {
-      display: block;
-      font-weight: 600;
-      font-size: 9.2pt;
-    }
-
-    .edu span {
-      font-size: 8.8pt;
-      color: var(--ink-2);
-    }
+    .edu { font-size: 10pt; color: var(--ink-2); }
+    .edu b { color: var(--ink); font-weight: 600; }
 
     .foot {
       margin-top: 4mm;
-      padding-top: 2.5mm;
+      padding-top: 2mm;
       border-top: 1px solid var(--line);
       font-family: var(--mono);
-      font-size: 7.6pt;
+      font-size: 7.8pt;
       color: var(--dim);
       display: flex;
-      flex-wrap: wrap;
       justify-content: space-between;
-      gap: 1mm 8mm;
-    }
-
-    .foot span {
-      white-space: nowrap;
+      gap: 6mm;
+      flex-wrap: wrap;
     }
   </style>
 </head>
@@ -405,10 +192,8 @@
 <main class="page">
 
   <header class="head">
-    <div>
-      <h1>Kluivert Edegware</h1>
-      <p class="title">Mobile App Engineer · <b>Flutter</b> and native Android · Rivers, Nigeria · Remote</p>
-    </div>
+    <h1>Kluivert Edegware</h1>
+    <p class="title">Mobile App Engineer · <b>Flutter</b> and native Android · Rivers, Nigeria · Remote</p>
     <div class="contact">
       <a href="mailto:edkluivert@gmail.com">edkluivert@gmail.com</a>
       <a href="tel:+2349047550339">+234 904 755 0339</a>
@@ -418,197 +203,178 @@
     </div>
   </header>
 
-  <div class="body">
-    <div class="main">
+  <section>
+    <p class="summary">Mobile engineer with six years shipping Flutter and native Android apps for fintech, property,
+      education and marketplaces, remotely for teams in Nigeria, the United States and Germany. Eight apps live on
+      Google Play, four also on the App Store. I own the whole lifecycle: architecture, payments and security,
+      store release, and the crash-free rate once real users are on it.</p>
+  </section>
 
-      <section>
-        <p class="summary">Mobile engineer with six years shipping Flutter and native Android apps for fintech,
-          property, education and marketplaces, for teams in Nigeria, the United States and Germany. Eight apps
-          live on Google Play, four of them on the App Store too, one with 10K+ installs. I own the whole
-          lifecycle: architecture and API design, payments and security, store release, and the crash-free
-          rate once real users are on it.</p>
-      </section>
+  <section>
+    <h2>Experience</h2>
 
-      <section>
-        <h2>Selected work</h2>
-        <div class="work">
-          <div class="item">
-            <h3>Custovia <span class="where">Concept Colony · 2025–26</span></h3>
-            <p>Service marketplace built from scratch: passkey sign-in with cross-device revocation, wallet and
-              payments, bookings, chat and disputes.</p>
-            <div class="links"><a href="https://play.google.com/store/apps/details?id=com.conceptcolony.custovia">Google Play</a></div>
-          </div>
-          <div class="item">
-            <h3>Acire23 Network <span class="where">Bitex Consultancy, US · 2024–26</span></h3>
-            <p>Two-sided real-estate platform, user and provider apps, led end to end. Listing time halved,
-              search engagement up 40%.</p>
-            <div class="links"><a href="https://play.google.com/store/apps/details?id=com.acire.app">Google Play</a></div>
-          </div>
-          <div class="item">
-            <h3>Yachtall boat exchange <span class="where">Yachtino GmbH, DE · 2022–24</span></h3>
-            <p>Overhauled Europe's boat-marketplace app: API rebuild, seven languages, design fixes. 10K+ installs;
-              feature adoption up 30%.</p>
-            <div class="links"><a href="https://play.google.com/store/apps/details?id=com.yachtinogmbh.yachtall">Google Play</a><a href="https://apps.apple.com/app/yachtall-com/id977617537">App Store</a></div>
-          </div>
-          <div class="item">
-            <h3>MySlates <span class="where">Asataura · 2024–26</span></h3>
-            <p>Four-app school platform for students, parents, teachers and admins. Results, report cards and
-              gamified quizzes; completion up 40%. 5K+ installs, 4.1★.</p>
-            <div class="links"><a href="https://play.google.com/store/apps/details?id=com.ATS.MySlates">Google Play</a></div>
-          </div>
-          <div class="item">
-            <h3>Boote Yachten · Happycharter <span class="where">Yachtino GmbH · 2022–24</span></h3>
-            <p>Sister marketplace and worldwide charter search. Project setup, API framework, reusable components,
-              search and bookmarks.</p>
-            <div class="links"><a href="https://play.google.com/store/apps/details?id=com.yachtinogmbh.boote_yachten">Play</a><a href="https://apps.apple.com/app/boote-yachten/id1243371300">App Store</a><a href="https://apps.apple.com/app/happycharter/id6469506685">Happycharter iOS</a></div>
-          </div>
-          <div class="item">
-            <h3>SwaySpa · Limpiador <span class="where">Asataura · Limpiar</span></h3>
-            <p>Spa discovery and booking (4.6★, Play and App Store). Property-services agent app with guest mode,
-              task tracking and e-wallet payments.</p>
-            <div class="links"><a href="https://play.google.com/store/apps/details?id=com.ats.sway_spa">SwaySpa</a><a href="https://play.google.com/store/apps/details?id=com.limpiador.agent2">Limpiador</a></div>
-          </div>
-        </div>
-      </section>
-
-      <section class="allow-break">
-        <h2>Experience</h2>
-
-        <div class="job">
-          <div class="when">May 2025 – present<br>Remote</div>
-          <div>
-            <h3>Funkash <span class="role">Mobile App Developer</span></h3>
-            <ul>
-              <li>Build and run two enterprise Flutter apps, a corporate spend platform (cards, expenses, approvals,
-                KYC) and an EV-charging platform (customer and operator apps), at a 99% crash-free rate on Android
-                and iOS.</li>
-              <li>Clean architecture and reusable components lifted stability 35% and cut new-feature time 30%.</li>
-              <li>Payments and e-wallet integration, Firebase authentication (onboarding success up 40%), runtime
-                app protection and behavioural biometrics on sensitive flows.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="job">
-          <div class="when">Sep 2024 – Feb 2026<br>Remote · US</div>
-          <div>
-            <h3>Bitex Consultancy <span class="role">Mobile App Developer</span></h3>
-            <ul>
-              <li>Led the Acire23 user and provider apps end to end, from UI workflows to backend integration and
-                real-time notifications.</li>
-              <li>Built an events app for property launches; performance monitoring and systematic fixes cut
-                support tickets 30%.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="job">
-          <div class="when">Aug 2024 – Jan 2026<br>Remote · Kano</div>
-          <div>
-            <h3>Asataura <span class="role">Flutter Developer</span></h3>
-            <ul>
-              <li>MySlates student, parent, teacher and admin apps; gamified learning modules raised course
-                completion 40% and platform revenue 20%.</li>
-              <li>SwaySpa and FluxesSpark Parents: automated backend processes and content delivery, saving about
-                25% in operating cost.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="job">
-          <div class="when">May 2022 – Sep 2024<br>Remote · Germany</div>
-          <div>
-            <h3>Expectoo <span class="role">Flutter Developer</span></h3>
-            <ul>
-              <li>Modernised Yachtino's legacy Flutter apps (Yachtall, Boote Yachten, Happycharter): maintenance
-                cost down 20%, responsiveness up 30% across production releases.</li>
-              <li>Set coding milestones with project managers, shortening schedules 15% while meeting client
-                deadlines.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="job">
-          <div class="when">Apr – Jul 2021<br>Remote</div>
-          <div>
-            <h3>Helixgade <span class="role">Mobile App Developer</span></h3>
-            <ul>
-              <li>Secure electronic-voting app on Flutter and Firebase; marketplace rebuilt on Cloud Firestore;
-                real-time task manager.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="job">
-          <div class="when">Jan – Mar 2021<br>Remote</div>
-          <div>
-            <h3>Zebulon Developers <span class="role">Android Developer</span></h3>
-            <ul>
-              <li>Photography app with an image-processing pipeline and a redesigned event-discovery flow on native
-                Android.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="job">
-          <div class="when">May – Nov 2019</div>
-          <div>
-            <h3>Andela <span class="role">Mentor, Google Developers Program</span></h3>
-            <ul>
-              <li>Mentored an Android cohort with weekly tasks and code reviews; completion rates up 30%.</li>
-            </ul>
-          </div>
-        </div>
-      </section>
-
+    <div class="job">
+      <div class="job-head">
+        <h3>Funkash <span class="role">Mobile App Developer</span></h3>
+        <span class="when">May 2025 – Jan 2026 · Jun 2026 – present · Remote</span>
+      </div>
+      <ul>
+        <li>Build and run two enterprise Flutter apps, a corporate spend platform (cards, expenses, approvals, KYC)
+          and an EV-charging platform (customer and operator apps), at a 99% crash-free rate on Android and iOS.</li>
+        <li>Clean architecture and reusable components lifted stability 35% and cut new-feature time 30%.</li>
+        <li>Payments and e-wallet integration, Firebase authentication, runtime app protection and behavioural
+          biometrics on sensitive flows.</li>
+      </ul>
     </div>
 
-    <aside>
-      <section>
-        <div class="stats">
-          <div class="stat"><b>8</b><span>apps on Google Play</span></div>
-          <div class="stat"><b>4</b><span>also on the App Store</span></div>
-          <div class="stat"><b>10K+</b><span>installs, Yachtall</span></div>
-          <div class="stat"><b>6+</b><span>years mobile</span></div>
-        </div>
-      </section>
+    <div class="job">
+      <div class="job-head">
+        <h3>Bitex Consultancy <span class="role">Mobile App Developer</span></h3>
+        <span class="when">Sep 2024 – Feb 2026 · Remote, US</span>
+      </div>
+      <ul>
+        <li>Led the Acire23 user and provider apps end to end, from UI workflows to backend integration and
+          real-time notifications.</li>
+        <li>Built an events app for property launches. Performance monitoring and systematic fixes cut support
+          tickets 30%.</li>
+      </ul>
+    </div>
 
-      <section>
-        <h2>Skills</h2>
-        <div class="skills">
-          <div class="group"><b>Mobile</b><span>Flutter, Dart, Kotlin, Java, Jetpack Compose, Android SDK, iOS &amp; Xcode</span></div>
-          <div class="group"><b>Architecture</b><span>Clean architecture, Bloc, GetX, dependency injection (get_it, injectable), Kotlin Coroutines &amp; Flow, Dagger 2</span></div>
-          <div class="group"><b>Backend &amp; data</b><span>REST, WebSockets, Firebase (Auth, Firestore, Messaging, Crashlytics), Dio, offline sync</span></div>
-          <div class="group"><b>Security</b><span>Passkeys, biometrics, secure storage, root and hook detection (RASP), behavioural biometrics SDKs</span></div>
-          <div class="group"><b>Delivery</b><span>Git, GitHub, GitLab, CI/CD, Play Console, App Store Connect, Sentry, Figma, Agile with Jira</span></div>
-        </div>
-      </section>
+    <div class="job">
+      <div class="job-head">
+        <h3>Asataura <span class="role">Flutter Developer</span></h3>
+        <span class="when">Aug 2024 – Jan 2026 · Remote, Kano</span>
+      </div>
+      <ul>
+        <li>MySlates student, parent, teacher and admin apps. Gamified learning modules raised course completion
+          40% and platform revenue 20%.</li>
+        <li>SwaySpa and FluxesSpark Parents: automated backend processes and content delivery, saving about 25% in
+          operating cost.</li>
+      </ul>
+    </div>
 
-      <section>
-        <h2>Open source · pub.dev</h2>
-        <div class="pkg"><b><a href="https://pub.dev/packages/translation_manager">translation_manager</a></b><span>Locale detection and Bloc-friendly translations. 160/160 points.</span></div>
-        <div class="pkg"><b><a href="https://pub.dev/packages/solid_x">solid_x</a></b><span>Reactive state management, ViewModel + StateFlow style. 160/160.</span></div>
-        <div class="pkg"><b><a href="https://pub.dev/packages/getx_exten">getx_exten</a></b><span>Bloc-style listener and consumer widgets for GetX. 160/160.</span></div>
-      </section>
+    <div class="job">
+      <div class="job-head">
+        <h3>Expectoo <span class="role">Flutter Developer</span></h3>
+        <span class="when">May 2022 – Sep 2024 · Remote, Germany</span>
+      </div>
+      <ul>
+        <li>Modernised Yachtino's legacy Flutter apps: maintenance cost down 20%, responsiveness up 30% across
+          production releases.</li>
+        <li>Set coding milestones with project managers, shortening schedules 15% while meeting client deadlines.</li>
+      </ul>
+    </div>
 
-      <section>
-        <h2>Own products</h2>
-        <div class="pkg"><b><a href="https://github.com/edkluivert/crisp">Crisp</a></b><span>HD photo and video to WhatsApp Status. Open source.</span></div>
-        <div class="pkg"><b><a href="https://github.com/edkluivert/Shuttle">Shuttle</a></b><span>Local file transfer over LAN or USB. Open source.</span></div>
-        <div class="pkg"><b>Cordon</b><span>Android privacy guard that sandboxes data-harvesting apps.</span></div>
-      </section>
+    <div class="job">
+      <div class="job-head">
+        <h3>Helixgade <span class="role">Mobile App Developer</span></h3>
+        <span class="when">Apr – Jul 2021 · Remote</span>
+      </div>
+      <ul>
+        <li>Secure electronic-voting app on Flutter and Firebase, a marketplace rebuilt on Cloud Firestore, and a
+          real-time task manager.</li>
+      </ul>
+    </div>
 
-      <section>
-        <h2>Education</h2>
-        <div class="edu"><b>B.Sc. Mathematics and Statistics</b><span>University of Port Harcourt, Rivers, Nigeria</span></div>
-      </section>
-    </aside>
-  </div>
+    <div class="job">
+      <div class="job-head">
+        <h3>Zebulon Developers <span class="role">Android Developer</span></h3>
+        <span class="when">Jan – Mar 2021 · Remote</span>
+      </div>
+      <ul>
+        <li>Photography app with an image-processing pipeline and a redesigned event-discovery flow on native
+          Android.</li>
+      </ul>
+    </div>
 
-  <div class="foot">
-    <span>Kluivert Edegware · Mobile App Engineer</span>
-    <span>References and store links on request</span>
-  </div>
+    <div class="job">
+      <div class="job-head">
+        <h3>Andela <span class="role">Mentor, Google Developers Program</span></h3>
+        <span class="when">May – Nov 2019 · Remote</span>
+      </div>
+      <ul>
+        <li>Mentored an Android cohort with weekly tasks and code reviews. Completion rates up 30%.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Apps in production</h2>
+    <div class="apps">
+      <div class="app">
+        <div><b>Custovia</b><small>Concept Colony · 2025–26</small></div>
+        <p>Service marketplace built from scratch: passkey sign-in, wallet and payments, bookings, chat and
+          disputes.</p>
+        <div class="links"><a href="https://play.google.com/store/apps/details?id=com.conceptcolony.custovia">Google Play</a></div>
+      </div>
+      <div class="app">
+        <div><b>Acire23 Network</b><small>Bitex Consultancy · 2024–26</small></div>
+        <p>Two-sided real-estate platform, user and provider apps. Listing time halved, search engagement up 40%.</p>
+        <div class="links"><a href="https://play.google.com/store/apps/details?id=com.acire.app">Google Play</a></div>
+      </div>
+      <div class="app">
+        <div><b>MySlates</b><small>Asataura · 2024–26</small></div>
+        <p>School platform for students, parents, teachers and admins. Results, report cards, gamified quizzes.
+          5K+ installs, 4.1★.</p>
+        <div class="links"><a href="https://play.google.com/store/apps/details?id=com.ATS.MySlates">Google Play</a></div>
+      </div>
+      <div class="app">
+        <div><b>SwaySpa</b><small>Asataura · 2024–26</small></div>
+        <p>Spa discovery and booking. 4.6★ on Google Play.</p>
+        <div class="links"><a href="https://play.google.com/store/apps/details?id=com.ats.sway_spa">Google Play</a><a href="https://apps.apple.com/app/swayspa/id6759058782">App Store</a></div>
+      </div>
+      <div class="app">
+        <div><b>Yachtall</b><small>Yachtino GmbH · 2022–24</small></div>
+        <p>Europe's boat marketplace. API rebuild, seven languages, design fixes. 10K+ installs, feature adoption
+          up 30%.</p>
+        <div class="links"><a href="https://play.google.com/store/apps/details?id=com.yachtinogmbh.yachtall">Google Play</a><a href="https://apps.apple.com/app/yachtall-com/id977617537">App Store</a></div>
+      </div>
+      <div class="app">
+        <div><b>Boote Yachten</b><small>Yachtino GmbH · 2022–24</small></div>
+        <p>Sister marketplace for the German market. Reusable components and a tuned search.</p>
+        <div class="links"><a href="https://play.google.com/store/apps/details?id=com.yachtinogmbh.boote_yachten">Google Play</a><a href="https://apps.apple.com/app/boote-yachten/id1243371300">App Store</a></div>
+      </div>
+      <div class="app">
+        <div><b>Happycharter</b><small>Yachtino GmbH · 2022–24</small></div>
+        <p>Worldwide yacht-charter search. Project setup, API framework, search and bookmarks.</p>
+        <div class="links"><a href="https://apps.apple.com/app/happycharter/id6469506685">App Store</a></div>
+      </div>
+      <div class="app">
+        <div><b>Limpiador</b><small>Limpiar · 2024</small></div>
+        <p>Agent app for a property-services company. Guest mode, task tracking, analytics, e-wallet payments.</p>
+        <div class="links"><a href="https://play.google.com/store/apps/details?id=com.limpiador.agent2">Google Play</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <div class="rows">
+      <div class="row"><b>Mobile</b><span>Flutter, Dart, Kotlin, Java, Jetpack Compose, Android SDK, iOS and Xcode</span></div>
+      <div class="row"><b>Architecture</b><span>Clean architecture, Bloc, GetX, dependency injection (get_it, injectable), Kotlin Coroutines and Flow, Dagger 2</span></div>
+      <div class="row"><b>Backend and data</b><span>REST, WebSockets, Firebase (Auth, Firestore, Messaging, Crashlytics), Dio, offline sync</span></div>
+      <div class="row"><b>Security</b><span>Passkeys, biometrics, secure storage, root and hook detection (RASP), behavioural biometrics SDKs</span></div>
+      <div class="row"><b>Delivery</b><span>Git, GitHub, GitLab, CI/CD, Play Console, App Store Connect, Sentry, Figma, Agile with Jira</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Open source and personal projects</h2>
+    <div class="rows">
+      <div class="row"><b class="mono"><a href="https://pub.dev/packages/translation_manager">translation_manager</a></b><span>Locale detection and Bloc-friendly translations. 160/160 pub points.</span></div>
+      <div class="row"><b class="mono"><a href="https://pub.dev/packages/solid_x">solid_x</a></b><span>Reactive state management in the ViewModel and StateFlow style. 160/160.</span></div>
+      <div class="row"><b class="mono"><a href="https://pub.dev/packages/getx_exten">getx_exten</a></b><span>Bloc-style listener and consumer widgets for GetX. 160/160.</span></div>
+      <div class="row"><b><a href="https://github.com/edkluivert/crisp">Crisp</a></b><span>HD photo and video to WhatsApp Status without recompression. Flutter.</span></div>
+      <div class="row"><b><a href="https://github.com/edkluivert/Shuttle">Shuttle</a></b><span>Local file transfer over LAN or USB, no account, nothing leaves the network.</span></div>
+      <div class="row"><b>Cordon</b><span>Android privacy guard that sandboxes data-harvesting apps. Kotlin, in development.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p class="edu"><b>University of Port Harcourt</b> · B.Sc. Mathematics and Statistics · Rivers, Nigeria</p>
+  </section>
+
 
 </main>
 </body>
