@@ -593,41 +593,99 @@ section {
   color: var(--accent);
 }
 
-/* experience */
+/* experience: a rail with a dot per role, company first */
 .timeline {
   display: grid;
   gap: 0;
-  border-top: 1px solid var(--line);
 }
 
 .job {
   display: grid;
-  grid-template-columns: 170px minmax(0, 1fr);
+  grid-template-columns: 150px minmax(0, 1fr);
   gap: 20px;
-  padding: 22px 0;
-  border-bottom: 1px solid var(--line);
 }
 
 .job .when {
   font-family: var(--mono);
   font-size: 12.5px;
   color: var(--dim);
-  padding-top: 4px;
+  padding-top: 3px;
+  text-align: right;
+}
+
+.job-body {
+  position: relative;
+  padding: 0 0 30px 28px;
+  border-left: 1px solid var(--line);
+}
+
+.job:last-child .job-body {
+  padding-bottom: 6px;
+  border-left-color: transparent;
+}
+
+.job-body::before {
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 7px;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--dim);
+  box-shadow: 0 0 0 4px var(--bg);
+}
+
+.job.current .job-body::before {
+  background: var(--accent);
+  animation: pulse 2.4s ease-out infinite;
+}
+
+.job.edu .job-body::before {
+  background: transparent;
+  border: 2px solid var(--dim);
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 4px var(--bg), 0 0 0 4px color-mix(in srgb, var(--accent) 50%, transparent);
+  }
+  100% {
+    box-shadow: 0 0 0 4px var(--bg), 0 0 0 14px color-mix(in srgb, var(--accent) 0%, transparent);
+  }
 }
 
 .job h3 {
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 700;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 10px;
+}
+
+.job h3 .role {
+  font-family: var(--body);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink-2);
+  letter-spacing: 0;
+}
+
+.job h3 .role::before {
+  content: "·";
+  margin-right: 10px;
+  color: var(--dim);
 }
 
 .job .client {
   display: block;
-  margin: 2px 0 8px;
+  margin: 3px 0 8px;
 }
 
 .job p {
   color: var(--ink-2);
-  max-width: 68ch;
+  max-width: 62ch;
 }
 
 /* contact */
@@ -738,7 +796,12 @@ footer {
 
   .job {
     grid-template-columns: 1fr;
-    gap: 6px;
+    gap: 4px;
+  }
+
+  .job .when {
+    text-align: left;
+    padding-left: 28px;
   }
 
   .contact-box {
@@ -1099,7 +1162,8 @@ body {
   .card,
   .pkg,
   .job,
-  .sec-head {
+  .sec-head,
+  .job.current .job-body::before {
     animation: none !important;
   }
 
