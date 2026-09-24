@@ -215,7 +215,7 @@ p {
 .hero {
   padding: 72px 0 56px;
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 48px;
   align-items: center;
 }
@@ -267,10 +267,10 @@ p {
 /* the shelf: real launcher icons of shipped apps */
 .shelf {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
-  padding: 26px;
-  max-width: 420px;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  padding: 24px;
+  max-width: 540px;
   justify-self: end;
   width: 100%;
   background: var(--panel);
@@ -765,9 +765,9 @@ footer {
   }
 
   .shelf {
-    gap: 14px;
-    padding: 18px;
-    max-width: 380px;
+    gap: 12px;
+    padding: 16px;
+    max-width: none;
     justify-self: start;
   }
 
@@ -942,7 +942,7 @@ body {
   perspective: 1100px;
   justify-self: end;
   width: 100%;
-  max-width: 420px;
+  max-width: 540px;
   animation: reveal 1s cubic-bezier(0.2, 0.9, 0.2, 1) both;
   animation-delay: 260ms;
 }

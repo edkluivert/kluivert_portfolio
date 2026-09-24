@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kluivert Edegware</title>
-  <meta name="description" content="Kluivert Edegware — mobile app engineer. Six years of Flutter and native Android for fintech, EV charging, property, schools and boat marketplaces. Eight apps on Google Play.">
+  <meta name="description" content="Kluivert Edegware — mobile app engineer. Six years of Flutter and native Android for fintech, EV charging, property, schools and boat marketplaces. Ten apps live on Google Play and the App Store.">
   <meta property="og:title" content="Kluivert Edegware — apps that shipped">
-  <meta property="og:description" content="Mobile app engineer. Six years of Flutter and native Android, eight apps on Google Play.">
+  <meta property="og:description" content="Mobile app engineer. Six years of Flutter and native Android, ten apps live on Google Play and the App Store.">
   <meta property="og:type" content="website">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232451f5'/%3E%3Ctext x='32' y='43' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-weight='800' font-size='34' fill='white'%3EK%3C/text%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -48,7 +48,7 @@
         <a class="btn" href="assets/Kluivert-Edegware-Resume.pdf" target="_blank" rel="noopener">Résumé (PDF)</a>
       </div>
       <div class="facts reveal" style="--d:5">
-        <span><b data-count="8">8</b> apps on Google Play</span>
+        <span><b data-count="10">10</b> apps live on the stores</span>
         <span><b data-count="10" data-suffix="K+">10K+</b> installs on Yachtall</span>
         <span><b data-count="6" data-suffix="+">6+</b> years Flutter &amp; Android</span>
         <span><b data-count="3">3</b> packages on pub.dev</span>
@@ -56,6 +56,8 @@
     </div>
 
     <div class="shelf-wrap"><div class="shelf" aria-label="Launcher icons of apps I built">
+      <a href="#tharwa-ev" title="Tharwa EV"><img src="assets/apps/tharwa-ev.png" alt="Tharwa EV icon"></a>
+      <a href="#tharwa-operator" title="Tharwa EV Operator"><img src="assets/apps/tharwa-operator.png" alt="Tharwa EV Operator icon"></a>
       <a href="#custovia" title="Custovia"><img src="assets/apps/custovia.png" alt="Custovia icon"></a>
       <a href="#acire23" title="Acire23 Network"><img src="assets/apps/acire23.png" alt="Acire23 Network icon"></a>
       <a href="#myslates" title="MySlates"><img src="assets/apps/myslates.png" alt="MySlates icon"></a>
@@ -81,11 +83,47 @@
         <div class="eyebrow">Shipped</div>
         <h2>On the store, in people's hands.</h2>
       </div>
-      <p>Every app here is live on Google Play, four of them on the App Store too. Roles ranged from owning
+      <p>Every app here is live on Google Play, the App Store or both. Roles ranged from owning
         the whole build to taking over and overhauling an existing codebase.</p>
     </div>
 
     <div class="apps">
+
+      <article class="app" id="tharwa-ev">
+        <div class="icon"><img src="assets/apps/tharwa-ev.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Tharwa EV</h3><span class="client">Funkash · 2026</span></div>
+          <div class="meta"><span>com.funkash.tharwa</span><span class="stat">App Store</span><span>Driver app · Nigeria</span></div>
+          <p>Nigeria's multi-operator EV-charging app, one of the two enterprise apps I build and run at Funkash.
+            Drivers find stations near them or along a route with live connector, price and availability data,
+            fund a wallet once and pay any operator in-app, then start and follow a charging session in real time.
+            Payment flows are hardened with runtime app protection and behavioural biometrics.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Bloc</span><span class="tag">Clean architecture</span><span class="tag">Google Maps</span><span class="tag">Wallet &amp; payments</span><span class="tag">App protection</span></div>
+          <div class="links">
+            <a class="store apple" href="https://apps.apple.com/us/app/tharwa-ev/id6782017676" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.4.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.2zM13.9 4.9c.7-.9 1.2-2.1 1-3.3-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.2 1.2.1 2.4-.6 3.1-1.5z"/></svg>
+              App Store</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="app" id="tharwa-operator">
+        <div class="icon"><img src="assets/apps/tharwa-operator.png" alt=""></div>
+        <div>
+          <div class="app-head"><h3>Tharwa EV Operator</h3><span class="client">Funkash · 2026</span></div>
+          <div class="meta"><span>com.funkash.tharwaOperator</span><span class="stat">App Store</span><span>Operator companion app</span></div>
+          <p>The forecourt companion to the Tharwa EV Operator Portal, for the people running charging stations day
+            to day. A live queue of who is waiting, charging and up next, upcoming driver bookings, walk-in bookings
+            created on the spot, and operator profile and station details. Deliberately lean, and it shares its
+            architecture and design system with the driver app.</p>
+          <div class="tags"><span class="tag">Flutter</span><span class="tag">Bloc</span><span class="tag">Clean architecture</span><span class="tag">Queue management</span><span class="tag">Bookings</span><span class="tag">Shared design system</span></div>
+          <div class="links">
+            <a class="store apple" href="https://apps.apple.com/us/app/tharwa-ev-operator/id6799672248" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.4.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.2zM13.9 4.9c.7-.9 1.2-2.1 1-3.3-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.2 1.2.1 2.4-.6 3.1-1.5z"/></svg>
+              App Store</a>
+          </div>
+        </div>
+      </article>
 
       <article class="app" id="custovia">
         <div class="icon"><img src="assets/apps/custovia.png" alt=""></div>
@@ -221,7 +259,7 @@
         <div class="icon"><img src="assets/apps/limpiador.png" alt=""></div>
         <div>
           <div class="app-head"><h3>Limpiador: Property Service</h3><span class="client">Limpiar · 2024</span></div>
-          <div class="meta"><span>com.limpiador.agent2</span><span class="stat">Google Play</span></div>
+          <div class="meta"><span>com.limpiador.agent2</span><span class="stat">Google Play · App Store</span></div>
           <p>The agent-side app for a cleaning and property-services company. Secure sign-in with a guest mode,
             task tracking, analytics and e-wallet payments. Retention rose 25% and login support requests fell.</p>
           <div class="tags"><span class="tag">Flutter</span><span class="tag">Guest mode</span><span class="tag">E-wallet</span><span class="tag">Analytics</span></div>
@@ -229,6 +267,9 @@
             <a class="store" href="https://play.google.com/store/apps/details?id=com.limpiador.agent2" target="_blank" rel="noopener">
               <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 2.5v19l10.5-9.5L3 2.5zm12 8.1L6.4 3.6l9.9 5.7-1.3 1.3zm0 2.8 1.3 1.3-9.9 5.7 8.6-7zm1.7-1.4 3-1.7c.7-.4.7-1.2 0-1.6l-3-1.7L14.9 12l1.8 1.8v-.1z"/></svg>
               Google Play</a>
+            <a class="store apple" href="https://apps.apple.com/gb/app/limpiador/id6480585258" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.4.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.2zM13.9 4.9c.7-.9 1.2-2.1 1-3.3-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.2 1.2.1 2.4-.6 3.1-1.5z"/></svg>
+              App Store</a>
           </div>
         </div>
       </article>
