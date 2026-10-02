@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       command:
-        description: What
+        description: What to run
         type: choice
         default: scan
         options: [scan, digest]
@@ -21,13 +21,14 @@ on:
 permissions:
   contents: write
 
+# Runs that touch tracker/data/jobs.json must not overlap.
 concurrency:
   group: job-tracker
-  cancel-in-progress: fal
+  cancel-in-progress: false
 
 jobs:
   tracker:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
@@ -45,37 +46,38 @@ jobs:
       - name: Run tracker
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSW_PASSWORD }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          EVENT: ${{ gith
+          EVENT: ${{ github.event_name }}
           ACTION: ${{ github.event.action }}
-          INPUT_COMMAND:
+          INPUT_COMMAND: ${{ inputs.command }}
           INPUT_DRY_RUN: ${{ inputs.dry_run }}
-          JOB_ID: ${{ gitd }}
+          # Dashboard payload values are passed through env, never templated into the script.
+          JOB_ID: ${{ github.event.client_payload.id }}
           JOB_TO: ${{ github.event.client_payload.to }}
-          JOB_NOTE: ${{ g.note }}
+          JOB_NOTE: ${{ github.event.client_payload.note }}
           JOB_STATUS: ${{ github.event.client_payload.status }}
         run: |
           set -euo pipefail
           DRY=""
           [ "${INPUT_DRY_RUN:-false}" = "true" ] && DRY="--dry-run"
-          case "$EVENT:$A
+          case "$EVENT:$ACTION" in
             repository_dispatch:send_application)
-              args=(send
+              args=(send --id "$JOB_ID")
               [ -n "${JOB_TO:-}" ] && args+=(--to "$JOB_TO")
-              [ -n "${JOBte "$JOB_NOTE")
+              [ -n "${JOB_NOTE:-}" ] && args+=(--note "$JOB_NOTE")
               python tracker/tracker.py "${args[@]}"
               ;;
             repository_dispatch:set_status)
-              args=(statu"$JOB_STATUS")
+              args=(status --id "$JOB_ID" --status "$JOB_STATUS")
               [ -n "${JOB_NOTE:-}" ] && args+=(--note "$JOB_NOTE")
-              python trac"
+              python tracker/tracker.py "${args[@]}"
               ;;
-            repository_di
+            repository_dispatch:rescan)
               python tracker/tracker.py scan --no-digest
               ;;
             workflow_dispatch:*)
-              python tracUT_COMMAND:-scan}"
+              python tracker/tracker.py $DRY "${INPUT_COMMAND:-scan}"
               ;;
             *)
               python tracker/tracker.py scan
@@ -85,13 +87,15 @@ jobs:
       - name: Commit tracker state
         env:
           EVENT: ${{ github.event_name }}
-          ACTION: ${{ git
+          ACTION: ${{ github.event.action }}
         run: |
-          set -euo pipefa
+          set -euo pipefail
           git config user.name "job-tracker[bot]"
-          git config user"41898282+github-actions[bot]@users.noreply.github.com"
-          git add tracker
-          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
-          git commit -m "CTION:-} $(date -u+%Y-%m-%dT%H:%MZ)"
-          git pull --reba
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tracker/data/jobs.json
+          if git diff --cached --quiet; then
+            echo "no changes"; exit 0
+          fi
+          git commit -m "tracker: ${EVENT:-run} ${ACTION:-} $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
           git push origin HEAD:main
