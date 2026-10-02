@@ -39,6 +39,7 @@
     .sub { color: var(--dim); font-size: 13px; font-family: var(--mono); }
     .spacer { flex: 1; }
     .btn { border: 1px solid var(--line); background: var(--panel); border-radius: 10px; padding: 8px 14px; cursor: pointer; font-weight: 500; transition: transform .12s ease, background .12s ease, border-color .12s ease; }
+    a.btn { text-decoration: none; display: inline-block; }
     .btn:hover { border-color: var(--accent); transform: translateY(-1px); }
     .btn:active { transform: translateY(0); }
     .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
@@ -122,6 +123,7 @@
   <form class="dlg" method="dialog" id="sendForm">
     <h2>Send application</h2>
     <div class="hint" id="sendWho"></div>
+    <div class="hint" id="sendHow"></div>
     <label>Recipient
       <input type="email" id="to" placeholder="Leave empty to use the email found in the posting">
     </label>
@@ -130,7 +132,7 @@
     </label>
     <details><summary class="hint">Preview</summary><pre id="preview"></pre></details>
     <div class="row">
-      <button class="btn" value="cancel">Cancel</button>
+      <button class="btn" value="cancel" formnovalidate>Cancel</button>
       <button class="btn primary" id="sendBtn" value="send">Send with résumé</button>
     </div>
   </form>
@@ -144,8 +146,8 @@
       It is stored only in this browser.</p>
     <label>Token <input type="password" id="tokenInput" placeholder="github_pat_…" autocomplete="off"></label>
     <div class="row">
-      <button class="btn danger" value="clear">Forget</button>
-      <button class="btn" value="cancel">Cancel</button>
+      <button class="btn danger" value="clear" formnovalidate>Forget</button>
+      <button class="btn" value="cancel" formnovalidate>Cancel</button>
       <button class="btn primary" value="save">Save</button>
     </div>
   </form>
@@ -230,10 +232,13 @@
       const actions = terminal
         ? `<select data-act="status" data-id="${esc(j.id)}">${['sent', 'replied', 'interview', 'offer', 'rejected'].map(s => `<option ${j.status === s ? 'selected' : ''}>${s}</option>`).join('')}</select>
            ${j.sent_at ? `<span class="hint">sent ${ago(j.sent_at)}${j.sent_to_domain ? ' to @' + esc(j.sent_to_domain) : ''}</span>` : ''}`
-        : `<a class="btn sm" href="${esc(j.apply_url || j.url)}" target="_blank" rel="noopener">${j.has_email ? 'Open posting' : 'Apply on their site'}</a>
-           <button class="btn sm primary" data-act="send" data-id="${esc(j.id)}">${j.has_email ? 'Send application' : 'Send by email…'}</button>
-           ${j.status === 'ignored' ? `<button class="btn sm" data-act="status" data-status="matched" data-id="${esc(j.id)}">Restore</button>`
-             : `<button class="btn sm" data-act="status" data-status="ignored" data-id="${esc(j.id)}">Ignore</button>`}`;
+        : (j.has_email
+          ? `<button class="btn sm primary" data-act="send" data-id="${esc(j.id)}">Send application</button>
+             <a class="btn sm" href="${esc(j.apply_url || j.url)}" target="_blank" rel="noopener">Open posting</a>`
+          : `<a class="btn sm primary" href="${esc(j.apply_url || j.url)}" target="_blank" rel="noopener">Apply on their site</a>
+             <button class="btn sm" data-act="send" data-id="${esc(j.id)}" title="Only if you found an email for them">Know their email?</button>`)
+          + (j.status === 'ignored' ? `<button class="btn sm" data-act="status" data-status="matched" data-id="${esc(j.id)}">Restore</button>`
+             : `<button class="btn sm" data-act="status" data-status="ignored" data-id="${esc(j.id)}">Ignore</button>`);
       return `<article class="job" id="j-${esc(j.id)}">
         <div class="score ${score >= 55 ? 'hi' : ''}">${score}<small>${j.llm && j.llm.fit != null ? 'kw ' + j.score : 'kw'}</small></div>
         <div>
@@ -293,8 +298,12 @@
     if (!needToken()) return;
     current = state.jobs.find(j => j.id === id);
     if (!current) return;
-    $('#sendWho').textContent = `${current.title} · ${current.company}` + (current.has_email ? ' · the posting lists an application email, found again at send time' : ' · no email in the posting, enter one');
+    $('#sendWho').textContent = `${current.title} · ${current.company}`;
+    $('#sendHow').innerHTML = current.has_email
+      ? 'This posting lists an application email. Leave the recipient empty and the tracker uses it.'
+      : `This posting has <b>no application email</b>, so there is nobody to send to. Apply through <a href="${esc(current.apply_url || current.url)}" target="_blank" rel="noopener">their form</a> instead. Only fill the recipient if you found an email yourself.`;
     $('#to').value = ''; $('#to').required = !current.has_email; $('#note').value = '';
+    $('#to').placeholder = current.has_email ? 'Leave empty to use the email found in the posting' : 'Required: an email you found for this company';
     $('#preview').textContent = renderPreview(current, '');
     $('#sendDlg').showModal();
   }

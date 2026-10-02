@@ -141,15 +141,15 @@ email:
   digest_to: edkluivert@gmail.com
   digest_subject: "Job tracker: {count} new match(es)"
   application_subject: "Application for {title} - {name}"
-  # Fully automatic sending per source. Keep false until you trust the matches.
+  # Fully automatic sending per source (only where the posting lists an application email).
   auto_send:
-    remotive: false
-    remoteok: false
-    himalayas: false
-    jobicy: false
-    arbeitnow: false
-    weworkremotely: false
-    greenhouse: false
-    lever: false
+    remotive: true
+    remoteok: true
+    himalayas: true
+    jobicy: true
+    arbeitnow: true
+    weworkremotely: true
+    greenhouse: true
+    lever: true
   # Hard cap on automatic sends per run, even where auto_send is on.
   auto_send_max_per_run: 3
