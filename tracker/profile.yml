@@ -1,0 +1,155 @@
+# Job tracker profile. Edit freely; the scanner reads this on every run.
+# Scores are 0-100. A job becomes a "match" at min_score and goes in the digest.
+
+me:
+  name: Kluivert Edegware
+  headline: Senior Mobile Engineer (Flutter, Kotlin, iOS)
+  email: edkluivert@gmail.com
+  portfolio: https://edkluivert.github.io/kluivert_portfolio/
+  linkedin: https://www.linkedin.com/in/kluivert-edegware-913882172/
+  resume: assets/Kluivert-Edegware-Resume.pdf
+  # Used by the digest and by the LLM rerank to judge fit. Keep it honest and specific.
+  summary: >
+    Mobile engineer with 6+ years shipping production Flutter and native Android apps.
+    Ten apps live on Google Play and the App Store, including fintech and EV-charging products
+    with wallets, payments, passkeys, runtime app protection and behavioural biometrics.
+    Clean architecture, Bloc, dependency injection, CI/CD, App Store and Play Console releases.
+    Based in Nigeria (UTC+1), works remotely with teams in Europe, Africa and the Americas.
+
+matching:
+  min_score: 55          # digest + dashboard "match" threshold
+  llm_from_score: 40     # jobs at or above this get the optional Claude rerank
+  llm_max_per_run: 25    # cap on Claude calls per scan (cost control)
+  max_age_days: 21       # ignore postings older than this
+  keep_unmatched_days: 30  # prune unmatched jobs from the tracker after this
+
+  # Words in the TITLE. Weight is added once per keyword found.
+  title:
+    flutter: 45
+    dart: 35
+    mobile: 30
+    android: 30
+    ios: 22
+    kotlin: 20
+    swift: 10
+    "react native": 8
+    engineer: 5
+    developer: 5
+    senior: 5
+    lead: 5
+    staff: 3
+
+  # Words in the DESCRIPTION. Weight added once per keyword found.
+  body:
+    flutter: 15
+    dart: 8
+    bloc: 5
+    kotlin: 5
+    "jetpack compose": 4
+    swift: 3
+    firebase: 4
+    "clean architecture": 4
+    fintech: 4
+    payments: 4
+    wallet: 3
+    "app store": 3
+    "google play": 3
+    "play store": 3
+    "fully remote": 2
+
+  # Any of these in the title kills the job (score 0).
+  title_exclude:
+    - intern
+    - internship
+    - unpaid
+    - wordpress
+    - salesforce
+    - ".net"
+    - recruiter
+    - sales
+    - marketing
+    - "account executive"
+    - "customer success"
+    - "data entry"
+    - game
+
+  # Penalties (negative numbers) for words anywhere.
+  penalties:
+    "us only": -30
+    "usa only": -30
+    "u.s. only": -30
+    "must be located in the us": -30
+    "must reside in the united states": -30
+    "authorized to work in the united states": -25
+    "eu only": -25
+    "uk only": -25
+    "canada only": -25
+    "on-site": -15
+    "onsite": -15
+    "hybrid": -10
+    "junior": -15
+    "entry level": -15
+    "entry-level": -15
+    "security clearance": -30
+    "c++": -5
+    "unity": -10
+
+  # Bonuses for location text that suits you.
+  location_bonus:
+    "anywhere in the world": 15
+    "worldwide": 15
+    "global": 10
+    "africa": 15
+    "nigeria": 20
+    "emea": 8
+    "europe": 5
+    "utc": 5
+
+sources:
+  remotive:
+    enabled: true
+    searches: [flutter, "mobile developer", android]
+  remoteok:
+    enabled: true
+    tags: [flutter, mobile, android, ios]
+  himalayas:
+    enabled: true
+    searches: [flutter, "mobile engineer"]
+  jobicy:
+    enabled: true
+    tags: [flutter, mobile, android]
+  arbeitnow:
+    enabled: true
+    searches: [flutter, "mobile developer"]
+    remote_only: true
+  weworkremotely:
+    enabled: true
+    feeds:
+      - https://weworkremotely.com/categories/remote-programming-jobs.rss
+      - https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss
+  # Company career pages with public APIs. Add board slugs as you find them
+  # (the slug is the last path segment of boards.greenhouse.io/<slug> or jobs.lever.co/<slug>).
+  greenhouse:
+    enabled: true
+    boards: []
+  lever:
+    enabled: true
+    companies: []
+
+email:
+  # Who receives the digest. Falls back to me.email.
+  digest_to: edkluivert@gmail.com
+  digest_subject: "Job tracker: {count} new match(es)"
+  application_subject: "Application for {title} - {name}"
+  # Fully automatic sending per source. Keep false until you trust the matches.
+  auto_send:
+    remotive: false
+    remoteok: false
+    himalayas: false
+    jobicy: false
+    arbeitnow: false
+    weworkremotely: false
+    greenhouse: false
+    lever: false
+  # Hard cap on automatic sends per run, even where auto_send is on.
+  auto_send_max_per_run: 3

@@ -15,3 +15,10 @@ Plain static site — no framework, no build step.
   ```
 
 Deploy: push to `main`; GitHub Pages serves the repo root.
+
+## Job tracker
+
+`tracker/` holds a scheduled job tracker: a GitHub Action scans public job feeds,
+scores them against `tracker/profile.yml`, emails a digest, and sends the résumé
+when a match is approved on the dashboard at `/tracker/`. Setup and daily use are
+in [tracker/README.md](tracker/README.md).
