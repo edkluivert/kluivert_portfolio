@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:15:58+00:00",
+ "updated": "2026-10-10T18:07:29+00:00",
  "jobs": [
   {
    "id": "arbeitnow-remote-qa-engineer-mobile-berlin-166747",
@@ -65,7 +65,7 @@
    "has_email": false,
    "status": "matched",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": true
   },
   {
@@ -98,7 +98,7 @@
    "has_email": false,
    "status": "matched",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": true
   },
   {
@@ -130,7 +130,7 @@
    "has_email": false,
    "status": "matched",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": true
   },
   {
@@ -158,7 +158,7 @@
    "has_email": false,
    "status": "matched",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": true
   },
   {
@@ -325,7 +325,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T19:14:00+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -357,7 +357,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T19:09:11+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -416,7 +416,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -486,7 +486,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -513,7 +513,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -594,7 +594,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -620,7 +620,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -646,7 +646,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -706,56 +706,6 @@
    "digested": false
   },
   {
-   "id": "remotive-2091133",
-   "source": "remotive",
-   "title": "Senior React Full-stack Developer",
-   "company": "Lemon.io",
-   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-   "apply_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-   "location": "Europe, USA, Canada, APAC",
-   "posted": "2026-10-02T13:30:06+00:00",
-   "tags": [
-    ".net",
-    "ai/ml",
-    "android",
-    "angular",
-    "automation",
-    "aws",
-    "azure",
-    "blockchain",
-    "c",
-    "c#",
-    "c++",
-    "data analysis",
-    "data engineering",
-    "data science",
-    "electron",
-    "ethereum",
-    "firebase",
-    "flutter",
-    "fullstack",
-    "gcp"
-   ],
-   "score": 27,
-   "final": 27,
-   "reasons": [
-    "title +5 developer",
-    "title +5 senior",
-    "+15 flutter",
-    "+3 swift",
-    "+4 firebase",
-    "-5 c++",
-    "-10 unity",
-    "location +5 europe",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
-   "digested": false
-  },
-  {
    "id": "jobicy-152846",
    "source": "jobicy",
    "title": "Senior Product Manager",
@@ -781,7 +731,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -840,7 +790,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -945,7 +895,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -970,7 +920,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -998,7 +948,43 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-transperfect-jobs-qa-automation-engineer",
+   "source": "himalayas",
+   "title": "QA Automation Engineer",
+   "company": "TransPerfect",
+   "url": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer",
+   "apply_url": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer",
+   "location": "Worldwide",
+   "posted": "2026-10-10T16:43:02+00:00",
+   "tags": [
+    "automation-qa-analyst",
+    "automation-quality-engineer",
+    "automation-tester",
+    "automation-testing",
+    "mid-level",
+    "qa-automation-analyst",
+    "qa-automation-developer",
+    "qa-automation-engineer",
+    "qa-automation-specialist",
+    "qa-engineer",
+    "qa-test-automation-developer",
+    "software-qa-engineer"
+   ],
+   "score": 25,
+   "final": 25,
+   "reasons": [
+    "title +5 engineer",
+    "location +15 worldwide",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1153,7 +1139,56 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T18:48:59+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "remotive-2091133",
+   "source": "remotive",
+   "title": "Senior React Full-stack Developer",
+   "company": "Lemon.io",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+   "apply_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+   "location": "Europe, USA, Canada, APAC",
+   "posted": "2026-10-02T13:30:06+00:00",
+   "tags": [
+    ".net",
+    "ai/ml",
+    "android",
+    "angular",
+    "automation",
+    "aws",
+    "azure",
+    "blockchain",
+    "c",
+    "c#",
+    "c++",
+    "data analysis",
+    "data engineering",
+    "data science",
+    "electron",
+    "ethereum",
+    "firebase",
+    "flutter",
+    "fullstack",
+    "gcp"
+   ],
+   "score": 22,
+   "final": 22,
+   "reasons": [
+    "title +5 developer",
+    "title +5 senior",
+    "+15 flutter",
+    "+3 swift",
+    "+4 firebase",
+    "-5 c++",
+    "-10 unity",
+    "location +5 europe"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-04T12:09:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1330,7 +1365,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1358,7 +1393,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1472,6 +1507,41 @@
    "digested": false
   },
   {
+   "id": "himalayas-https-himalayas-app-companies-regional-finance-regional-management-corp-jobs-sta",
+   "source": "himalayas",
+   "title": "Staff Software Development Engineer",
+   "company": "Regional Finance (Regional Management Corp.)",
+   "url": "https://himalayas.app/companies/regional-finance-regional-management-corp/jobs/staff-software-development-engineer",
+   "apply_url": "https://himalayas.app/companies/regional-finance-regional-management-corp/jobs/staff-software-development-engineer",
+   "location": "United States",
+   "posted": "2026-10-10T16:45:18+00:00",
+   "tags": [
+    "backend-engineer",
+    "senior",
+    "software-architect",
+    "software-developer",
+    "software-engineer",
+    "staff-software-developer",
+    "staff-software-engineering"
+   ],
+   "score": 18,
+   "final": 18,
+   "reasons": [
+    "title +5 engineer",
+    "title +3 staff",
+    "+5 kotlin",
+    "+4 fintech",
+    "+4 payments",
+    "-8 location limited to 'United States'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
    "id": "remotive-2091129",
    "source": "remotive",
    "title": "Senior Data Scientist",
@@ -1543,7 +1613,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1608,7 +1678,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1881,7 +1951,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1907,7 +1977,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1933,7 +2003,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1959,7 +2029,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -1985,7 +2055,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2048,7 +2118,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2075,7 +2145,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2101,7 +2171,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2128,7 +2198,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2156,7 +2226,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2209,7 +2279,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2297,7 +2367,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2384,7 +2454,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2413,7 +2483,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2547,7 +2617,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2608,7 +2678,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2633,7 +2703,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2768,7 +2838,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2795,7 +2865,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2906,7 +2976,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2934,7 +3004,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -2992,7 +3062,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3233,7 +3303,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3286,7 +3356,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3340,7 +3410,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3377,7 +3447,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3561,7 +3631,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3623,7 +3693,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3653,7 +3723,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -3816,7 +3886,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4059,7 +4129,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4086,7 +4156,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4140,7 +4210,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-07T19:39:09+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4231,7 +4301,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4367,7 +4437,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4392,7 +4462,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4417,7 +4487,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4446,7 +4516,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4472,7 +4542,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4736,7 +4806,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -4778,7 +4848,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -6578,7 +6648,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -6602,7 +6672,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -6626,7 +6696,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -6651,7 +6721,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -6674,7 +6744,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -6699,7 +6769,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -6724,7 +6794,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -10402,7 +10472,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -12950,7 +13020,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -12975,7 +13045,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -13312,7 +13382,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -13939,7 +14009,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -13964,7 +14034,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -13990,7 +14060,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -14015,7 +14085,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -14040,7 +14110,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -14065,7 +14135,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -14830,7 +14900,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T19:14:00+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -14859,7 +14929,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T19:14:00+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -14884,7 +14954,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T19:14:00+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -16475,7 +16545,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -16504,7 +16574,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -17418,7 +17488,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -18073,7 +18143,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -18402,7 +18472,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -19018,7 +19088,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-08T19:34:27+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -19233,7 +19303,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T19:34:27+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20006,7 +20076,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20031,7 +20101,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20056,7 +20126,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20081,7 +20151,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20136,7 +20206,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20427,7 +20497,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20451,7 +20521,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20478,7 +20548,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20502,7 +20572,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20526,7 +20596,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20552,7 +20622,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20578,7 +20648,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20604,7 +20674,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20629,7 +20699,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20654,7 +20724,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20680,7 +20750,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20705,7 +20775,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20729,7 +20799,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20756,7 +20826,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20780,7 +20850,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20804,7 +20874,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -20902,7 +20972,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T12:58:19+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -21731,7 +21801,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -22366,7 +22436,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -22393,7 +22463,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-10T12:15:57+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   },
   {
@@ -22718,6 +22788,817 @@
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
    "last_seen": "2026-10-10T12:15:57+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-welo-global-jobs-andromeda-delta-audio-transcripti",
+   "source": "himalayas",
+   "title": "Andromeda Delta - Audio Transcription Adjudicator (India/Philippines)",
+   "company": "Welo Global",
+   "url": "https://himalayas.app/companies/welo-global/jobs/andromeda-delta-audio-transcription-adjudicator-india-philippines",
+   "apply_url": "https://himalayas.app/companies/welo-global/jobs/andromeda-delta-audio-transcription-adjudicator-india-philippines",
+   "location": "India, Philippines",
+   "posted": "2026-10-10T16:45:41+00:00",
+   "tags": [
+    "annotation-specialist",
+    "audio-transcription-reviewer",
+    "audio-transcription-specialist",
+    "audio-transcriptionist",
+    "data-annotator",
+    "entry-level",
+    "linguistic-qa-specialist",
+    "transcription-adjudicator"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 entry-level",
+    "-8 location limited to 'India, Philippines'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-honkmobile-jobs-account-director-enterprise-sales",
+   "source": "himalayas",
+   "title": "Account Director, Enterprise Sales",
+   "company": "HONK",
+   "url": "https://himalayas.app/companies/honkmobile/jobs/account-director-enterprise-sales",
+   "apply_url": "https://himalayas.app/companies/honkmobile/jobs/account-director-enterprise-sales",
+   "location": "United States",
+   "posted": "2026-10-10T16:45:34+00:00",
+   "tags": [
+    "account-director",
+    "b2b-sales",
+    "director",
+    "director-of-enterprise-accounts",
+    "director-of-enterprise-sales",
+    "enterprise-account-director",
+    "enterprise-sales",
+    "enterprise-sales-director",
+    "saas-sales",
+    "sales-director",
+    "strategic-enterprise-account-director"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'sales' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-the-team-builders-jobs-graphic-designer",
+   "source": "himalayas",
+   "title": "Graphic Designer",
+   "company": "The Team Builders",
+   "url": "https://himalayas.app/companies/the-team-builders/jobs/graphic-designer",
+   "apply_url": "https://himalayas.app/companies/the-team-builders/jobs/graphic-designer",
+   "location": "United Arab Emirates",
+   "posted": "2026-10-10T16:45:24+00:00",
+   "tags": [
+    "brand-designer",
+    "creative-designer",
+    "creative-graphic-designer",
+    "design",
+    "digital-designer",
+    "graphic-artist",
+    "graphic-design",
+    "graphic-design-specialist",
+    "graphic-designer",
+    "graphic-designer-illustrator",
+    "graphic-illustrator",
+    "mid-level",
+    "print-graphic-designer",
+    "visual-designer"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'United Arab Emirates'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-kis-solutions-jobs-senior-fullstack-developer",
+   "source": "himalayas",
+   "title": "Senior Fullstack Developer",
+   "company": "KIS Solutions",
+   "url": "https://himalayas.app/companies/kis-solutions/jobs/senior-fullstack-developer",
+   "apply_url": "https://himalayas.app/companies/kis-solutions/jobs/senior-fullstack-developer",
+   "location": "United States",
+   "posted": "2026-10-10T16:45:19+00:00",
+   "tags": [
+    "backend-engineer",
+    "front-end-developer",
+    "full-stack-developer",
+    "full-stack-engineer",
+    "senior",
+    "senior-full-stack-developer-(javascript-python)",
+    "senior-full-stack-developer-(react-node.js)",
+    "senior-full-stack-development",
+    "senior-full-stack-engineering",
+    "senior-fullstack-developer",
+    "senior-fullstack-web-application-developer",
+    "software-engineer"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 developer",
+    "title +5 senior",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-ttm-technologies-jobs-windows-server-administrator",
+   "source": "himalayas",
+   "title": "Windows Server Administrator",
+   "company": "TTM Technologies",
+   "url": "https://himalayas.app/companies/ttm-technologies/jobs/windows-server-administrator",
+   "apply_url": "https://himalayas.app/companies/ttm-technologies/jobs/windows-server-administrator",
+   "location": "United States",
+   "posted": "2026-10-10T16:45:18+00:00",
+   "tags": [
+    "administration-windows-server",
+    "it-infrastructure-administrator",
+    "microsoft-server-administration",
+    "mid-level",
+    "server-administrator",
+    "systems-administrator",
+    "windows-administration",
+    "windows-administrator",
+    "windows-server-administrator",
+    "windows-system-administration",
+    "windows-system-administrator",
+    "windows-systems-administration",
+    "windows-systems-administrator"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-10 hybrid",
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-mercor-jobs-finance-evaluator-fully-remote-upto-12",
+   "source": "himalayas",
+   "title": "Finance Evaluator - Fully Remote | Upto $120/hr",
+   "company": "mercor",
+   "url": "https://himalayas.app/companies/mercor/jobs/finance-evaluator-fully-remote-upto-120-hr-302558001",
+   "apply_url": "https://himalayas.app/companies/mercor/jobs/finance-evaluator-fully-remote-upto-120-hr-302558001",
+   "location": "United States",
+   "posted": "2026-10-10T16:45:18+00:00",
+   "tags": [
+    "ai-evaluation",
+    "contract-finance",
+    "corporate-finance",
+    "corporate-finance-evaluator",
+    "finance-evaluator",
+    "financial-evaluator",
+    "financial-planning-and-analysis",
+    "remote-finance-evaluator",
+    "senior"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-tusclasesparticulares-jobs-monitor-a-multideporte",
+   "source": "himalayas",
+   "title": "Monitor/a Multideporte",
+   "company": "Tusclasesparticulares",
+   "url": "https://himalayas.app/companies/tusclasesparticulares/jobs/monitor-a-multideporte",
+   "apply_url": "https://himalayas.app/companies/tusclasesparticulares/jobs/monitor-a-multideporte",
+   "location": "Spain",
+   "posted": "2026-10-10T16:45:07+00:00",
+   "tags": [
+    "entry-level",
+    "fitness-instructor",
+    "monitor",
+    "physical-education-instructor",
+    "sports-coach",
+    "sports-monitoring",
+    "youth-sports-instructor"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 entry-level",
+    "-8 location limited to 'Spain'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-stefanini-jobs-facilitador-agil-sr",
+   "source": "himalayas",
+   "title": "Facilitador Agil Sr.",
+   "company": "Stefanini",
+   "url": "https://himalayas.app/companies/stefanini/jobs/facilitador-agil-sr",
+   "apply_url": "https://himalayas.app/companies/stefanini/jobs/facilitador-agil-sr",
+   "location": "Dominican Republic",
+   "posted": "2026-10-10T16:45:07+00:00",
+   "tags": [
+    "agile-coach",
+    "facilitador-ágil",
+    "facilitator",
+    "kanban-project-manager",
+    "scrum-master",
+    "senior"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'Dominican Republic'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-ro-jobs-principal-product-designer",
+   "source": "himalayas",
+   "title": "Principal Product Designer",
+   "company": "Ro",
+   "url": "https://himalayas.app/companies/ro/jobs/principal-product-designer",
+   "apply_url": "https://himalayas.app/companies/ro/jobs/principal-product-designer",
+   "location": "United States",
+   "posted": "2026-10-10T16:44:57+00:00",
+   "tags": [
+    "design",
+    "principal-product-designer",
+    "principal-ux-designer",
+    "product-designer",
+    "senior",
+    "senior-staff-product-designer",
+    "ui-designer",
+    "ux-designer"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'United States'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-hrtx-inc-jobs-data-technical-lead",
+   "source": "himalayas",
+   "title": "Data Technical Lead",
+   "company": "HRTx, Inc.",
+   "url": "https://himalayas.app/companies/hrtx-inc/jobs/data-technical-lead",
+   "apply_url": "https://himalayas.app/companies/hrtx-inc/jobs/data-technical-lead",
+   "location": "Philippines",
+   "posted": "2026-10-10T16:44:53+00:00",
+   "tags": [
+    "cloud-data-engineer",
+    "data-and-ai-technical-lead",
+    "data-engineer",
+    "data-engineering-lead",
+    "data-solutions-architect",
+    "data-team-lead",
+    "data-tech-lead",
+    "lead-data-engineer",
+    "lead-data-engineering",
+    "senior",
+    "tech-lead-data-engineering",
+    "technical-lead"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 lead",
+    "-8 location limited to 'Philippines'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-atalnt-llc-jobs-sales-representative-commercial-pr",
+   "source": "himalayas",
+   "title": "Sales Representative – Commercial Printing",
+   "company": "ATALNT LLC",
+   "url": "https://himalayas.app/companies/atalnt-llc/jobs/sales-representative-commercial-printing",
+   "apply_url": "https://himalayas.app/companies/atalnt-llc/jobs/sales-representative-commercial-printing",
+   "location": "United States",
+   "posted": "2026-10-10T16:44:22+00:00",
+   "tags": [
+    "b2b-sales-representative",
+    "commercial-printing-sales",
+    "commercial-sales-representative",
+    "mid-level",
+    "outside-sales-representative",
+    "print-industry-account-manager",
+    "print-sales-representative",
+    "print-solutions-sales",
+    "sales"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'sales' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-telus-jobs-eap-affiliate-counsellors-psychologist-",
+   "source": "himalayas",
+   "title": "EAP Affiliate - Counsellors, Psychologist and Social Workers (Australia)-2026",
+   "company": "TELUS",
+   "url": "https://himalayas.app/companies/telus/jobs/eap-affiliate-counsellors-psychologist-and-social-workers-australia-2026",
+   "apply_url": "https://himalayas.app/companies/telus/jobs/eap-affiliate-counsellors-psychologist-and-social-workers-australia-2026",
+   "location": "Australia",
+   "posted": "2026-10-10T16:44:12+00:00",
+   "tags": [
+    "eap-counselling",
+    "eap-counsellor",
+    "mental-health-counselling",
+    "mid-level",
+    "psychology",
+    "remote-counselling",
+    "social-work"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-bluecross-blueshield-of-tennessee-jobs-sr-baw-soft",
+   "source": "himalayas",
+   "title": "Sr. BAW Software Engineer",
+   "company": "BlueCross BlueShield of Tennessee",
+   "url": "https://himalayas.app/companies/bluecross-blueshield-of-tennessee/jobs/sr-baw-software-engineer",
+   "apply_url": "https://himalayas.app/companies/bluecross-blueshield-of-tennessee/jobs/sr-baw-software-engineer",
+   "location": "United States",
+   "posted": "2026-10-10T16:44:03+00:00",
+   "tags": [
+    "bpm-developer",
+    "ibm-baw",
+    "ibm-baw-software-engineer",
+    "senior",
+    "software-engineer"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 engineer",
+    "-15 on-site",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-military-veterans-and-diverse-job-seekers-jobs-jun",
+   "source": "himalayas",
+   "title": "Junior IT Specialist",
+   "company": "Military, Veterans and Diverse Job Seekers",
+   "url": "https://himalayas.app/companies/military-veterans-and-diverse-job-seekers/jobs/junior-it-specialist",
+   "apply_url": "https://himalayas.app/companies/military-veterans-and-diverse-job-seekers/jobs/junior-it-specialist",
+   "location": "United States",
+   "posted": "2026-10-10T16:44:00+00:00",
+   "tags": [
+    "entry-level",
+    "entry-level-it-specialist",
+    "help-desk-technician",
+    "it-specialist",
+    "it-support-specialist",
+    "it-technician",
+    "junior-information-systems-specialist",
+    "junior-it",
+    "junior-it-consultant",
+    "junior-it-engineer",
+    "junior-it-positions",
+    "junior-it-professional",
+    "junior-it-specialist",
+    "junior-it-support",
+    "technical-support-specialist"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 junior",
+    "-15 entry-level",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-languageline-solutions-jobs-polish-freelance-remot",
+   "source": "himalayas",
+   "title": "Polish Freelance Remote Telephone Interpreters (Apply Here)",
+   "company": "LanguageLine Solutions",
+   "url": "https://himalayas.app/companies/languageline-solutions/jobs/polish-freelance-remote-telephone-interpreters-apply-here",
+   "apply_url": "https://himalayas.app/companies/languageline-solutions/jobs/polish-freelance-remote-telephone-interpreters-apply-here",
+   "location": "United Kingdom",
+   "posted": "2026-10-10T16:43:50+00:00",
+   "tags": [
+    "freelance-interpreter",
+    "freelance-telephone-interpreter",
+    "interpreters",
+    "mid-level",
+    "polish-english-interpreter",
+    "polish-interpreter",
+    "polish-language-interpreting",
+    "polish-remote-interpreter",
+    "polish-telephone-interpreter",
+    "remote-telephone-interpreter",
+    "telephone-interpreter",
+    "translation"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'United Kingdom'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-mci-career-services-jobs-remote-call-center-repres",
+   "source": "himalayas",
+   "title": "Remote Call Center Representative",
+   "company": "MCI Career Services",
+   "url": "https://himalayas.app/companies/mci-career-services/jobs/remote-call-center-representative-4829483610",
+   "apply_url": "https://himalayas.app/companies/mci-career-services/jobs/remote-call-center-representative-4829483610",
+   "location": "United States",
+   "posted": "2026-10-10T16:43:20+00:00",
+   "tags": [
+    "call-center-representative",
+    "customer-experience",
+    "customer-service",
+    "customer-support",
+    "entry-level",
+    "inbound-sales",
+    "remote-call-center",
+    "remote-call-center-agent",
+    "remote-call-center-representative",
+    "remote-call-centre-agent",
+    "remote-contact-centre-agent",
+    "remote-customer-experience-representative",
+    "remote-customer-service-representative",
+    "remote-customer-support-agent"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 on-site",
+    "-15 entry-level",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-nttdata-jobs-senior-aws-integration-developer-remo",
+   "source": "himalayas",
+   "title": "Senior AWS Integration Developer - Remote US Position (McKinney, TX, US)",
+   "company": "NTT DATA",
+   "url": "https://himalayas.app/companies/nttdata/jobs/senior-aws-integration-developer-remote-us-position-mckinney-tx-us",
+   "apply_url": "https://himalayas.app/companies/nttdata/jobs/senior-aws-integration-developer-remote-us-position-mckinney-tx-us",
+   "location": "United States",
+   "posted": "2026-10-10T16:41:56+00:00",
+   "tags": [
+    "aws-integration-specialist",
+    "cloud-integration-engineer",
+    "integration-developer",
+    "senior",
+    "senior-aws-developer",
+    "senior-aws-engineer",
+    "senior-aws-software-engineer",
+    "senior-cloud-integration-engineer",
+    "senior-integration-and-api-developer",
+    "senior-integration-developer",
+    "senior-integration-software-engineer",
+    "senior-software-developer",
+    "serverless-developer"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 developer",
+    "title +5 senior",
+    "-10 hybrid",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-optinizers-jobs-paralegal",
+   "source": "himalayas",
+   "title": "Paralegal",
+   "company": "OptiNizers",
+   "url": "https://himalayas.app/companies/optinizers/jobs/paralegal",
+   "apply_url": "https://himalayas.app/companies/optinizers/jobs/paralegal",
+   "location": "Philippines",
+   "posted": "2026-10-10T16:41:51+00:00",
+   "tags": [
+    "business-paralegal",
+    "civil-litigation-paralegal",
+    "court-paralegal",
+    "criminal-defense-paralegal",
+    "legal",
+    "legal-assistant",
+    "legal-paralegal",
+    "legal-support-specialist",
+    "litigation-paralegals",
+    "mid-level",
+    "paralegal",
+    "paralegal-assistant",
+    "paralegal-support",
+    "personal-injury-paralegal",
+    "real-estate-paralegal"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "+2 fully remote",
+    "-8 location limited to 'Philippines'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-werkstudentin-social-media-und-newsletter-remote-munchen-32254",
+   "source": "arbeitnow",
+   "title": "Werkstudent:in Social Media und Newsletter (m/w/d), remote",
+   "company": "Steuerberaterin Nadine Brandstätter",
+   "url": "https://www.arbeitnow.com/jobs/werkstudentin-social-media-und-newsletter-remote-munchen-32254",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/steuerberaterin-nadine-brandstatter/werkstudentin-social-media-und-newsletter-remote-munchen-32254",
+   "location": "München · Remote",
+   "posted": "2026-10-10T18:00:44+00:00",
+   "tags": [
+    "hilfstätigkeit / student",
+    "remote",
+    "social media manager",
+    "werkstudent",
+    "working student"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-381642",
+   "source": "arbeitnow",
+   "title": "Werkstudent (m/w/d) als Sprachdozent Deutsch/ Englisch",
+   "company": "Education Partners",
+   "url": "https://www.arbeitnow.com/jobs/remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-381642",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/education-partners/remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-381642",
+   "location": "Hessen BBI · Remote",
+   "posted": "2026-10-10T17:09:44+00:00",
+   "tags": [
+    "deutsch",
+    "englisch",
+    "entry",
+    "fachkommunikation",
+    "gesprächssituationen",
+    "hessen",
+    "intern",
+    "kassel",
+    "kommunikation",
+    "lehre",
+    "part time",
+    "remote",
+    "sprache",
+    "sprachförderung",
+    "sprachniveau",
+    "sprachtrainer",
+    "werkstudent"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-sap-drc-e-invoicing-delivery-lead-scrum-master-freelance-bonn-467175",
+   "source": "arbeitnow",
+   "title": "SAP DRC / E-Invoicing Delivery Lead / Scrum Master (Freelance)",
+   "company": "Sidekick Network GmbH & Co. KG",
+   "url": "https://www.arbeitnow.com/jobs/sap-drc-e-invoicing-delivery-lead-scrum-master-freelance-bonn-467175",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/sap-drc-e-invoicing-delivery-lead-scrum-master-freelance-bonn-467175",
+   "location": "Bonn · Remote",
+   "posted": "2026-10-10T17:00:44+00:00",
+   "tags": [
+    "freelance",
+    "freelancer / indepedent contractor",
+    "professional / experienced",
+    "project management",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 lead",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-werkstudent-praktikant-marketing-sales-hotel-tech-startup-munich-213982",
+   "source": "arbeitnow",
+   "title": "Werkstudent / Praktikant (m/w/d) Marketing & Sales – Hotel-Tech-Startup",
+   "company": "SUITEe Spectrum GmbH",
+   "url": "https://www.arbeitnow.com/jobs/werkstudent-praktikant-marketing-sales-hotel-tech-startup-munich-213982",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/suitee-spectrum-gmbh/werkstudent-praktikant-marketing-sales-hotel-tech-startup-munich-213982",
+   "location": "Munich · Remote",
+   "posted": "2026-10-10T15:00:56+00:00",
+   "tags": [
+    "hilfstätigkeit / student",
+    "marketing and communication",
+    "remote",
+    "werkstudent",
+    "working student"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'sales' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-machine-learning-scientist-berlin-216070",
+   "source": "arbeitnow",
+   "title": "Machine Learning Scientist",
+   "company": "Nucs AI",
+   "url": "https://www.arbeitnow.com/jobs/remote-machine-learning-scientist-berlin-216070",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-machine-learning-scientist-berlin-216070",
+   "location": "Remote job · Remote",
+   "posted": "2026-10-10T14:30:27+00:00",
+   "tags": [
+    "engineering",
+    "experienced",
+    "fulltime permanent",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-ta",
+   "source": "arbeitnow",
+   "title": "Partner(m/w/d): Für Interim Manager und Berater: Mandate im Retainer statt Projekte im Tagessatz",
+   "company": "thexton armstrong Nord und Ost Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-90415",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-90415",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-10T14:00:59+00:00",
+   "tags": [
+    "business consulting",
+    "geschäftsleitung",
+    "remote",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-10T18:07:28+00:00",
+   "last_seen": "2026-10-10T18:07:28+00:00",
    "digested": false
   }
  ]
