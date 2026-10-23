@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:12:58+00:00",
+ "updated": "2026-10-23T11:22:29+00:00",
  "jobs": [
   {
    "id": "jobicy-155305",
@@ -66,7 +66,7 @@
    "has_email": true,
    "status": "sent",
    "first_seen": "2026-10-19T19:34:05+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "sent_at": "2026-10-19T19:34:08+00:00",
    "sent_to_domain": "fanaticsinc.com",
    "digested": true
@@ -268,7 +268,7 @@
    "has_email": true,
    "status": "sent",
    "first_seen": "2026-10-17T10:27:27+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "sent_at": "2026-10-17T10:27:30+00:00",
    "sent_to_domain": "tripadvisor.com",
    "digested": true
@@ -679,7 +679,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T11:33:00+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -748,7 +748,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-17T10:27:27+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -845,7 +845,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T18:18:41+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -941,7 +941,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -999,7 +999,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -1030,7 +1030,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T19:14:00+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -1061,7 +1061,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-09T19:09:11+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -1123,6 +1123,38 @@
    "status": "new",
    "first_seen": "2026-10-15T17:56:18+00:00",
    "last_seen": "2026-10-15T17:56:18+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-153861",
+   "source": "jobicy",
+   "title": "Staff Product Security Engineer (Security)",
+   "company": "Phantom",
+   "url": "https://jobicy.com/jobs/153861-staff-product-security-engineer-security",
+   "apply_url": "https://jobicy.com/jobs/153861-staff-product-security-engineer-security",
+   "location": "Canada,  UK,  USA",
+   "posted": "2026-10-23T03:50:08+00:00",
+   "tags": [
+    "cybersecurity",
+    "full-time",
+    "senior"
+   ],
+   "score": 35,
+   "final": 35,
+   "reasons": [
+    "title +5 engineer",
+    "title +3 staff",
+    "+4 payments",
+    "+3 wallet",
+    "+3 google play",
+    "+2 fully remote",
+    "location +10 global",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -1190,6 +1222,38 @@
    "digested": false
   },
   {
+   "id": "jobicy-156465",
+   "source": "jobicy",
+   "title": "Senior Backend Engineer",
+   "company": "Tala",
+   "url": "https://jobicy.com/jobs/156465-senior-backend-engineer-11",
+   "apply_url": "https://jobicy.com/jobs/156465-senior-backend-engineer-11",
+   "location": "APAC",
+   "posted": "2026-10-22T20:38:14+00:00",
+   "tags": [
+    "full-time",
+    "senior",
+    "software engineering"
+   ],
+   "score": 34,
+   "final": 34,
+   "reasons": [
+    "title +5 engineer",
+    "title +5 senior",
+    "+5 kotlin",
+    "+4 fintech",
+    "-15 junior",
+    "location +10 global",
+    "location +15 africa",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
    "id": "wwr-lithic-senior-software-engineer-processing",
    "source": "wwr",
    "title": "Senior Software Engineer, Processing",
@@ -1216,7 +1280,37 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-18T10:46:22+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-144139",
+   "source": "jobicy",
+   "title": "Senior AI Engineer",
+   "company": "eMerchantPay",
+   "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
+   "apply_url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
+   "location": "Bulgaria",
+   "posted": "2026-10-23T03:45:07+00:00",
+   "tags": [
+    "full-time",
+    "senior",
+    "software engineering"
+   ],
+   "score": 33,
+   "final": 33,
+   "reasons": [
+    "title +5 engineer",
+    "title +5 senior",
+    "+4 fintech",
+    "+4 payments",
+    "location +10 global",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -1342,7 +1436,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -1372,7 +1466,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -1490,6 +1584,33 @@
    "digested": false
   },
   {
+   "id": "jobicy-156507",
+   "source": "jobicy",
+   "title": "Generative Content Creator",
+   "company": "Moon Active",
+   "url": "https://jobicy.com/jobs/156507-generative-content-creator",
+   "apply_url": "https://jobicy.com/jobs/156507-generative-content-creator",
+   "location": "Spain",
+   "posted": "2026-10-23T07:06:49+00:00",
+   "tags": [
+    "any",
+    "creative & design",
+    "full-time"
+   ],
+   "score": 30,
+   "final": 30,
+   "reasons": [
+    "location +15 worldwide",
+    "location +10 global",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
    "id": "jobicy-152380",
    "source": "jobicy",
    "title": "Payments Solutions Architect (US or EMEA)",
@@ -1544,40 +1665,6 @@
    "status": "new",
    "first_seen": "2026-10-12T15:03:33+00:00",
    "last_seen": "2026-10-15T17:56:18+00:00",
-   "digested": false
-  },
-  {
-   "id": "remoteok-1137523",
-   "source": "remoteok",
-   "title": "Sr REACT NATIVE",
-   "company": "Somnio Software",
-   "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-   "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-   "location": "",
-   "posted": "2026-10-15T00:00:19+00:00",
-   "tags": [
-    "c",
-    "dev",
-    "digital nomad",
-    "flutter",
-    "javascript",
-    "node",
-    "node.js",
-    "python",
-    "react",
-    "react native"
-   ],
-   "score": 28,
-   "final": 28,
-   "reasons": [
-    "title +8 react native",
-    "+15 flutter",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-16T11:08:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
    "digested": false
   },
   {
@@ -2099,7 +2186,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-17T16:45:05+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2153,7 +2240,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2178,7 +2265,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2203,7 +2290,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2265,6 +2352,39 @@
    "digested": false
   },
   {
+   "id": "remoteok-1137523",
+   "source": "remoteok",
+   "title": "Sr REACT NATIVE",
+   "company": "Somnio Software",
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+   "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+   "location": "",
+   "posted": "2026-10-15T00:00:19+00:00",
+   "tags": [
+    "c",
+    "dev",
+    "digital nomad",
+    "flutter",
+    "javascript",
+    "node",
+    "node.js",
+    "python",
+    "react",
+    "react native"
+   ],
+   "score": 23,
+   "final": 23,
+   "reasons": [
+    "title +8 react native",
+    "+15 flutter"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-16T11:08:25+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
    "id": "jobicy-151003",
    "source": "jobicy",
    "title": "Testing a Financial App for Italian Business Owners",
@@ -2288,7 +2408,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2463,7 +2583,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2670,7 +2790,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2774,7 +2894,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-16T17:45:01+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2852,7 +2972,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2923,7 +3043,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-11T12:31:15+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -2980,7 +3100,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -3213,7 +3333,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-18T10:46:22+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -4264,7 +4384,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-19T19:34:05+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -4382,7 +4502,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -4409,7 +4529,33 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156488",
+   "source": "jobicy",
+   "title": "Director, People Operations",
+   "company": "LaunchDarkly",
+   "url": "https://jobicy.com/jobs/156488-director-people-operations",
+   "apply_url": "https://jobicy.com/jobs/156488-director-people-operations",
+   "location": "USA",
+   "posted": "2026-10-23T06:19:36+00:00",
+   "tags": [
+    "director",
+    "full-time",
+    "hr & recruiting"
+   ],
+   "score": 15,
+   "final": 15,
+   "reasons": [
+    "location +10 global",
+    "+5 posted this week"
+   ],
+   "has_email": true,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -4437,7 +4583,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-19T12:47:03+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -4789,7 +4935,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-17T10:27:27+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -5223,59 +5369,6 @@
    "digested": false
   },
   {
-   "id": "wwr-lattice-senior-software-engineer-infrastructure-platform",
-   "source": "wwr",
-   "title": "Senior Software Engineer, Infrastructure Platform",
-   "company": "Lattice",
-   "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
-   "apply_url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
-   "location": "Anywhere in the World",
-   "posted": "2026-10-15T07:31:21+00:00",
-   "tags": [
-    "full-stack programming"
-   ],
-   "score": 10,
-   "final": 10,
-   "reasons": [
-    "title +5 engineer",
-    "title +5 senior",
-    "location +15 anywhere in the world",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-15T11:13:39+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
-   "digested": false
-  },
-  {
-   "id": "wwr-stockx-category-manager-apparel",
-   "source": "wwr",
-   "title": "Category Manager - Apparel",
-   "company": "StockX",
-   "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
-   "apply_url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
-   "location": "Anywhere in the World",
-   "posted": "2026-10-15T07:31:21+00:00",
-   "tags": [
-    "full-stack programming"
-   ],
-   "score": 10,
-   "final": 10,
-   "reasons": [
-    "location +15 anywhere in the world",
-    "location +10 global",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-15T11:13:39+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
-   "digested": false
-  },
-  {
    "id": "himalayas-https-himalayas-app-companies-affirm-jobs-senior-technical-account-manager-strat",
    "source": "himalayas",
    "title": "Senior Technical Account Manager (Strategic Alliances)",
@@ -5545,7 +5638,72 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-19T19:34:05+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-tabby-jobs-senior-database-administrator-postgresq",
+   "source": "himalayas",
+   "title": "Senior Database Administrator (PostgreSQL)",
+   "company": "Tabby",
+   "url": "https://himalayas.app/companies/tabby/jobs/senior-database-administrator-postgresql-2246392784?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/tabby/jobs/senior-database-administrator-postgresql-2246392784?utm_source=api",
+   "location": "Serbia",
+   "posted": "2026-10-23T10:06:44+00:00",
+   "tags": [
+    "database-administrator",
+    "database-engineer",
+    "database-platform-engineering",
+    "database-reliability-engineer",
+    "senior",
+    "senior-database-administration",
+    "senior-database-administrator",
+    "senior-database-administrator-(sql-nosql)"
+   ],
+   "score": 10,
+   "final": 10,
+   "reasons": [
+    "title +5 senior",
+    "+4 fintech",
+    "+4 payments",
+    "+2 fully remote",
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156425",
+   "source": "jobicy",
+   "title": "Staff Forward Deployed Engineer",
+   "company": "hims &#038; hers",
+   "url": "https://jobicy.com/jobs/156425-staff-forward-deployed-engineer",
+   "apply_url": "https://jobicy.com/jobs/156425-staff-forward-deployed-engineer",
+   "location": "USA",
+   "posted": "2026-10-22T15:45:47+00:00",
+   "tags": [
+    "full-time",
+    "senior",
+    "software engineering"
+   ],
+   "score": 10,
+   "final": 10,
+   "reasons": [
+    "title +5 engineer",
+    "title +3 staff",
+    "+5 kotlin",
+    "-8 location limited to 'USA'",
+    "+5 posted this week"
+   ],
+   "has_email": true,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -5709,7 +5867,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -5761,7 +5919,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-05T14:14:54+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -5918,7 +6076,36 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-151374",
+   "source": "jobicy",
+   "title": "Chief Architect",
+   "company": "Legion",
+   "url": "https://jobicy.com/jobs/151374-chief-architect",
+   "apply_url": "https://jobicy.com/jobs/151374-chief-architect",
+   "location": "USA",
+   "posted": "2026-10-23T03:45:18+00:00",
+   "tags": [
+    "director",
+    "full-time",
+    "software engineering"
+   ],
+   "score": 8,
+   "final": 8,
+   "reasons": [
+    "+5 kotlin",
+    "+4 fintech",
+    "+2 fully remote",
+    "-8 location limited to 'USA'",
+    "+5 posted this week"
+   ],
+   "has_email": true,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -6458,7 +6645,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -6542,7 +6729,35 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156446",
+   "source": "jobicy",
+   "title": "Senior ERP Solutions Consultant (German Fluency)",
+   "company": "Zip",
+   "url": "https://jobicy.com/jobs/156446-senior-erp-solutions-consultant-german-fluency",
+   "apply_url": "https://jobicy.com/jobs/156446-senior-erp-solutions-consultant-german-fluency",
+   "location": "Germany",
+   "posted": "2026-10-22T16:07:22+00:00",
+   "tags": [
+    "full-time",
+    "project & program management",
+    "senior"
+   ],
+   "score": 6,
+   "final": 6,
+   "reasons": [
+    "title +5 senior",
+    "+4 fintech",
+    "-8 location limited to 'Germany'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -6781,7 +6996,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -7174,6 +7389,57 @@
    "digested": false
   },
   {
+   "id": "wwr-lattice-senior-software-engineer-infrastructure-platform",
+   "source": "wwr",
+   "title": "Senior Software Engineer, Infrastructure Platform",
+   "company": "Lattice",
+   "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+   "apply_url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+   "location": "Anywhere in the World",
+   "posted": "2026-10-15T07:31:21+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 5,
+   "final": 5,
+   "reasons": [
+    "title +5 engineer",
+    "title +5 senior",
+    "location +15 anywhere in the world",
+    "-20 no mobile signal anywhere"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-15T11:13:39+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-stockx-category-manager-apparel",
+   "source": "wwr",
+   "title": "Category Manager - Apparel",
+   "company": "StockX",
+   "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+   "apply_url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+   "location": "Anywhere in the World",
+   "posted": "2026-10-15T07:31:21+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 5,
+   "final": 5,
+   "reasons": [
+    "location +15 anywhere in the world",
+    "location +10 global",
+    "-20 no mobile signal anywhere"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-15T11:13:39+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
    "id": "wwr-fivetran-global-alliance-lead-capgemini",
    "source": "wwr",
    "title": "Global Alliance Lead, Capgemini",
@@ -7196,7 +7462,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-16T11:08:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -7263,7 +7529,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-18T10:46:22+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -7416,7 +7682,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -7470,7 +7736,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -7606,7 +7872,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -7762,6 +8028,43 @@
    "digested": false
   },
   {
+   "id": "himalayas-https-himalayas-app-companies-caseware-jobs-software-developer-in-test-ii",
+   "source": "himalayas",
+   "title": "Software Developer in Test II",
+   "company": "CaseWare",
+   "url": "https://himalayas.app/companies/caseware/jobs/software-developer-in-test-ii?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/caseware/jobs/software-developer-in-test-ii?utm_source=api",
+   "location": "Romania",
+   "posted": "2026-10-23T10:10:09+00:00",
+   "tags": [
+    "automation-testing",
+    "developer-in-test",
+    "mid-level",
+    "quality-assurance-engineer",
+    "sdet",
+    "software-developer-engineer-in-test",
+    "software-developer-in-test",
+    "software-development-in-test",
+    "software-engineer-in-test",
+    "software-test-development-engineer",
+    "software-test-engineer"
+   ],
+   "score": 4,
+   "final": 4,
+   "reasons": [
+    "title +5 developer",
+    "+4 fintech",
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
    "id": "wwr-dremio-senior-staff-software-engineer-query-execution",
    "source": "wwr",
    "title": "Senior Staff Software Engineer - Query Execution",
@@ -7874,7 +8177,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-18T10:46:22+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -7902,7 +8205,35 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T18:18:41+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156448",
+   "source": "jobicy",
+   "title": "Business Development Representative",
+   "company": "Zip",
+   "url": "https://jobicy.com/jobs/156448-business-development-representative-19",
+   "apply_url": "https://jobicy.com/jobs/156448-business-development-representative-19",
+   "location": "Germany",
+   "posted": "2026-10-22T16:07:24+00:00",
+   "tags": [
+    "business development",
+    "director",
+    "full-time"
+   ],
+   "score": 3,
+   "final": 3,
+   "reasons": [
+    "+4 fintech",
+    "+2 fully remote",
+    "-8 location limited to 'Germany'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -8504,7 +8835,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -8530,7 +8861,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-11T12:31:15+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -8557,7 +8888,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-11T12:31:15+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -8616,7 +8947,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-12T15:03:33+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -8886,7 +9217,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-14T11:34:52+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9041,7 +9372,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-15T17:56:18+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9166,7 +9497,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-19T19:34:05+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9193,7 +9524,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9220,7 +9551,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T11:33:00+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9274,7 +9605,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T18:18:41+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9301,7 +9632,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9328,7 +9659,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9355,7 +9686,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9382,7 +9713,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9409,7 +9740,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9436,7 +9767,109 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-trideca-jobs-auth0-identity-platform-lead-sydney",
+   "source": "himalayas",
+   "title": "Auth0 Identity Platform Lead (Sydney)",
+   "company": "Trideca",
+   "url": "https://himalayas.app/companies/trideca/jobs/auth0-identity-platform-lead-sydney?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/trideca/jobs/auth0-identity-platform-lead-sydney?utm_source=api",
+   "location": "Australia",
+   "posted": "2026-10-23T10:17:20+00:00",
+   "tags": [
+    "iam-engineer",
+    "identity-and-access-management-lead",
+    "identity-engineer",
+    "identity-platform-lead",
+    "platform-engineer",
+    "principal-identity-and-access-management-engineer",
+    "principal-identity-engineer",
+    "security-engineer",
+    "senior",
+    "senior-cloud-identity-engineer",
+    "senior-identity-and-access-management-architect",
+    "senior-identity-and-access-management-engineer",
+    "senior-identity-engineering-specialist"
+   ],
+   "score": 2,
+   "final": 2,
+   "reasons": [
+    "title +5 lead",
+    "-8 location limited to 'Australia'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-wearekettle-jobs-product-design-lead-ai",
+   "source": "himalayas",
+   "title": "Product Design Lead, AI",
+   "company": "Kettle",
+   "url": "https://himalayas.app/companies/wearekettle/jobs/product-design-lead-ai?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/wearekettle/jobs/product-design-lead-ai?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:16:47+00:00",
+   "tags": [
+    "ai-product-design-lead",
+    "design-lead",
+    "interaction-designer",
+    "lead-ai-ml-product-designer",
+    "principal-ai-product-designer",
+    "product-designer",
+    "senior",
+    "senior-ai-product-designer",
+    "ui-ux-designer"
+   ],
+   "score": 2,
+   "final": 2,
+   "reasons": [
+    "title +5 lead",
+    "-8 location limited to 'United States'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-speechify-jobs-software-engineer-ai-data-prague-cz",
+   "source": "himalayas",
+   "title": "Software Engineer, AI Data - Prague, Czech Republic",
+   "company": "Speechify",
+   "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-ai-data-prague-czech-republic?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/speechify/jobs/software-engineer-ai-data-prague-czech-republic?utm_source=api",
+   "location": "Czechia",
+   "posted": "2026-10-23T10:16:26+00:00",
+   "tags": [
+    "ai-data-engineer",
+    "ai-ml-software-engineer",
+    "backend-engineer",
+    "data-engineer",
+    "machine-learning-engineer",
+    "senior",
+    "senior-software-ai-engineer",
+    "software-engineer"
+   ],
+   "score": 2,
+   "final": 2,
+   "reasons": [
+    "title +5 engineer",
+    "-8 location limited to 'Czechia'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -9705,6 +10138,33 @@
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
    "last_seen": "2026-10-22T11:33:21+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156452",
+   "source": "jobicy",
+   "title": "Solutions Integration Architect - SAP",
+   "company": "Zip",
+   "url": "https://jobicy.com/jobs/156452-solutions-integration-architect-sap",
+   "apply_url": "https://jobicy.com/jobs/156452-solutions-integration-architect-sap",
+   "location": "Germany",
+   "posted": "2026-10-22T16:07:24+00:00",
+   "tags": [
+    "any",
+    "full-time",
+    "software engineering"
+   ],
+   "score": 1,
+   "final": 1,
+   "reasons": [
+    "+4 fintech",
+    "-8 location limited to 'Germany'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -10012,13 +10472,12 @@
     "+4 fintech",
     "-10 hybrid",
     "-8 location limited to 'USA, Canada, USA timezones'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
+    "-20 no mobile signal anywhere"
    ],
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -10063,7 +10522,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -15764,7 +16223,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-04T12:09:28+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -18656,7 +19115,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -21890,7 +22349,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-07T13:04:35+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -22804,7 +23263,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -22840,7 +23299,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -22864,7 +23323,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -23848,7 +24307,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -27177,7 +27636,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -28999,7 +29458,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-11T12:31:15+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -30001,7 +30460,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-11T12:31:15+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -31513,7 +31972,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-12T21:55:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -32484,7 +32943,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-12T21:55:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -32507,7 +32966,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-12T21:55:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -32535,7 +32994,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-13T13:57:52+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -37460,7 +37919,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-14T11:34:52+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -41204,7 +41663,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-16T11:08:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -41230,7 +41689,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-16T11:08:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -41257,7 +41716,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-16T11:08:25+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -43248,7 +43707,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-17T10:27:27+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -43273,7 +43732,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-17T10:27:27+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -45613,7 +46072,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-18T10:46:22+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -46707,7 +47166,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-19T12:47:03+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -48353,7 +48812,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-19T12:47:03+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -48408,7 +48867,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-19T12:47:03+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -49740,7 +50199,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-19T19:34:05+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -51073,7 +51532,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -51518,7 +51977,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -51544,7 +52003,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -52620,7 +53079,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T18:11:52+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -52643,7 +53102,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T18:11:52+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -53316,7 +53775,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T11:33:00+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -53344,7 +53803,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T11:33:00+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -53989,7 +54448,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T11:33:00+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -54017,7 +54476,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T11:33:00+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -54648,7 +55107,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T18:18:41+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -54674,7 +55133,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T18:18:41+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -54701,7 +55160,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T18:18:41+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -54727,7 +55186,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T18:18:41+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56005,7 +56464,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56030,7 +56489,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56055,7 +56514,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56081,7 +56540,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56107,7 +56566,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56132,7 +56591,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56157,7 +56616,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56182,7 +56641,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56210,7 +56669,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56781,7 +57240,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -56992,7 +57451,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T11:33:21+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57636,7 +58095,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57661,7 +58120,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57686,7 +58145,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57713,7 +58172,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57742,7 +58201,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57768,7 +58227,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57796,7 +58255,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -57825,7 +58284,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-10-22T18:12:57+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   },
   {
@@ -58241,6 +58700,1376 @@
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
    "last_seen": "2026-10-22T18:12:57+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-viapath-technologies-jobs-corrections-technical-so",
+   "source": "himalayas",
+   "title": "Corrections Technical Solutions Sr Consultant",
+   "company": "ViaPath Technologies",
+   "url": "https://himalayas.app/companies/viapath-technologies/jobs/corrections-technical-solutions-sr-consultant?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/viapath-technologies/jobs/corrections-technical-solutions-sr-consultant?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:17:26+00:00",
+   "tags": [
+    "corrections-advisor",
+    "corrections-consultant",
+    "corrections-subject-matter-expert",
+    "sales-engineer",
+    "senior",
+    "senior-solutions-consultant",
+    "senior-technical-consultant",
+    "solutions-consultant",
+    "technical-solutions-consultant"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-connection-jobs-onboarding-iam",
+   "source": "himalayas",
+   "title": "Onboarding IAM",
+   "company": "Connection",
+   "url": "https://himalayas.app/companies/connection/jobs/onboarding-iam?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/connection/jobs/onboarding-iam?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:17:06+00:00",
+   "tags": [
+    "account-manager",
+    "client-experience-specialist",
+    "iam",
+    "iam-administration",
+    "iam-administrator",
+    "iam-implementation",
+    "iam-operations",
+    "iam-support",
+    "inside-account-manager",
+    "mid-level",
+    "onboarding",
+    "onboarding-specialist",
+    "technology-sales-representative"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-10 hybrid",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-rockwell-automation-jobs-digital-solutions-consult",
+   "source": "himalayas",
+   "title": "Digital Solutions Consultant",
+   "company": "Rockwell Automation",
+   "url": "https://himalayas.app/companies/rockwell-automation/jobs/digital-solutions-consultant?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/rockwell-automation/jobs/digital-solutions-consultant?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:17:03+00:00",
+   "tags": [
+    "digital-consultant",
+    "digital-services-consultant",
+    "digital-solution-consultant-analyst",
+    "digital-solutions-consultant",
+    "digital-solutions-specialist",
+    "it-solutions-consultant",
+    "mid-level",
+    "pre-sales-engineer",
+    "process-control-consultant",
+    "software-solutions-consultant",
+    "solutions-consultant",
+    "technical-sales-consultant",
+    "technology-solutions-consultant"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-cyber-managed-services-inc-cybermsi-jobs-ai-cybers",
+   "source": "himalayas",
+   "title": "AI Cybersecurity Analyst",
+   "company": "Cyber Managed Services Inc. (CyberMSI)",
+   "url": "https://himalayas.app/companies/cyber-managed-services-inc-cybermsi/jobs/ai-cybersecurity-analyst?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/cyber-managed-services-inc-cybermsi/jobs/ai-cybersecurity-analyst?utm_source=api",
+   "location": "India",
+   "posted": "2026-10-23T10:17:03+00:00",
+   "tags": [
+    "ai-cybersecurity",
+    "ai-cybersecurity-engineer",
+    "ai-data-security-analyst",
+    "ai-security-analyst",
+    "ai-security-engineer",
+    "ai-security-researcher",
+    "cybersecurity-ai",
+    "cybersecurity-ai-specialist",
+    "cybersecurity-analyst",
+    "mid-level",
+    "security-operations-analyst",
+    "soc-analyst",
+    "threat-validation-analyst"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'India'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-first-bank-trust-jobs-document-management-speciali",
+   "source": "himalayas",
+   "title": "Document Management Specialist",
+   "company": "First Bank & Trust",
+   "url": "https://himalayas.app/companies/first-bank-trust/jobs/document-management-specialist?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/first-bank-trust/jobs/document-management-specialist?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:16:49+00:00",
+   "tags": [
+    "accounts-receivable-specialist",
+    "administrative-and-document-specialist",
+    "billing-specialist",
+    "document-control-specialist",
+    "document-management-consultant",
+    "document-management-specialist",
+    "document-specialist",
+    "file-management-specialist",
+    "information-management-specialist",
+    "invoice-processing-specialist",
+    "mid-level",
+    "office-document-specialist",
+    "recording-clerk",
+    "records-management-specialist"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-cineverse-jobs-account-coordinator-on-call-temp-16",
+   "source": "himalayas",
+   "title": "Account Coordinator (On-Call Temp)",
+   "company": "Cineverse",
+   "url": "https://himalayas.app/companies/cineverse/jobs/account-coordinator-on-call-temp-1658490302?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/cineverse/jobs/account-coordinator-on-call-temp-1658490302?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:16:46+00:00",
+   "tags": [
+    "account-coordinator",
+    "account-management-coordinator",
+    "account-relations-coordinator",
+    "account-sales-coordinator",
+    "client-services-coordinator",
+    "entry-level",
+    "marketing-account-coordinator",
+    "media-coordinator",
+    "on-call-coordinator"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 entry-level",
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-avalere-health-jobs-senior-project-manager-medical",
+   "source": "himalayas",
+   "title": "Senior Project Manager - Medical Communications",
+   "company": "Avalere Health",
+   "url": "https://himalayas.app/companies/avalere-health/jobs/senior-project-manager-medical-communications?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/avalere-health/jobs/senior-project-manager-medical-communications?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:16:24+00:00",
+   "tags": [
+    "client-project-manager",
+    "medical-communications-project-manager",
+    "medical-project-manager",
+    "project-manager",
+    "senior"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 senior",
+    "-10 hybrid",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-sobi-jobs-werkstudent-in-m-w-d-field-force-support",
+   "source": "himalayas",
+   "title": "Werkstudent:in (m/w/d) – Field Force Support & CRM-Datenqualität (Veeva)",
+   "company": "Sobi",
+   "url": "https://himalayas.app/companies/sobi/jobs/werkstudent-in-m-w-d-field-force-support-crm-datenqualitat-veeva?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/sobi/jobs/werkstudent-in-m-w-d-field-force-support-crm-datenqualitat-veeva?utm_source=api",
+   "location": "Germany",
+   "posted": "2026-10-23T10:13:21+00:00",
+   "tags": [
+    "crm-operations-specialist",
+    "crm-quality-assurance-specialist",
+    "entry-level",
+    "field-support-specialist",
+    "praktikant-im-datenmanagement",
+    "veeva-crm-specialist",
+    "working-student"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 entry-level",
+    "-8 location limited to 'Germany'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-everwatch-jobs-software-engineer",
+   "source": "himalayas",
+   "title": "Software Engineer",
+   "company": "EverWatch",
+   "url": "https://himalayas.app/companies/everwatch/jobs/software-engineer?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/everwatch/jobs/software-engineer?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:12:09+00:00",
+   "tags": [
+    "backend-engineer",
+    "developer",
+    "devops-engineer",
+    "engineering-software-developer",
+    "full-stack-engineer",
+    "it-software-engineer",
+    "senior",
+    "software-design-engineer",
+    "software-developer",
+    "software-engineer",
+    "software-engineer-developer",
+    "software-engineer-jobs",
+    "software-engineering-jobs",
+    "software-systems-engineer",
+    "systems-software-engineer"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 engineer",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-paired-so-jobs-intake-specialist-for-us-based-law-",
+   "source": "himalayas",
+   "title": "Intake Specialist for US-Based Law Office ( Remote )",
+   "company": "Paired",
+   "url": "https://himalayas.app/companies/paired-so/jobs/intake-specialist-for-us-based-law-office-remote?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/paired-so/jobs/intake-specialist-for-us-based-law-office-remote?utm_source=api",
+   "location": "Colombia",
+   "posted": "2026-10-23T10:11:00+00:00",
+   "tags": [
+    "client-intake-specialist",
+    "client-services-coordinator",
+    "customer-service",
+    "intake-specialist",
+    "legal-intake-coordinator",
+    "legal-intake-specialist",
+    "mid-level",
+    "remote-client-intake-specialist",
+    "remote-legal-intake"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "+4 payments",
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-hunt-st-jobs-construction-admin-assistant-008-0141",
+   "source": "himalayas",
+   "title": "Construction Admin Assistant (008-01418)",
+   "company": "Hunt St",
+   "url": "https://himalayas.app/companies/hunt-st/jobs/construction-admin-assistant-008-01418?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/hunt-st/jobs/construction-admin-assistant-008-01418?utm_source=api",
+   "location": "Philippines",
+   "posted": "2026-10-23T10:10:59+00:00",
+   "tags": [
+    "administrative-assistant",
+    "administrative-support-construction-industry",
+    "construction-admin",
+    "construction-administrative-assistant",
+    "construction-administrative-support",
+    "construction-assistant",
+    "entry-level",
+    "project-administrator",
+    "project-coordinator"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 entry-level",
+    "-8 location limited to 'Philippines'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-alcanza-clinical-research-jobs-clinical-research-r",
+   "source": "himalayas",
+   "title": "Clinical Research Regulatory Specialist",
+   "company": "Alcanza Clinical Research",
+   "url": "https://himalayas.app/companies/alcanza-clinical-research/jobs/clinical-research-regulatory-specialist-1964242646?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/alcanza-clinical-research/jobs/clinical-research-regulatory-specialist-1964242646?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:10:33+00:00",
+   "tags": [
+    "clinical-research-associate",
+    "clinical-research-coordinator",
+    "clinical-research-regulatory-affairs",
+    "clinical-research-regulatory-coordinator",
+    "clinical-research-regulatory-specialist",
+    "clinical-trial-regulatory-affairs",
+    "clinical-trial-regulatory-specialist",
+    "clinical-trials-regulatory-affairs",
+    "mid-level",
+    "regulatory-affairs-specialist",
+    "regulatory-clinical-specialist",
+    "regulatory-specialist",
+    "research-regulatory-coordinator"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 on-site",
+    "-8 location limited to 'United States'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-oryx-group-jobs-business-development-manager-korea",
+   "source": "himalayas",
+   "title": "Business Development Manager - Korea Market",
+   "company": "Oryx Group",
+   "url": "https://himalayas.app/companies/oryx-group/jobs/business-development-manager-korea-market-6581333203?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/oryx-group/jobs/business-development-manager-korea-market-6581333203?utm_source=api",
+   "location": "South Korea",
+   "posted": "2026-10-23T10:08:32+00:00",
+   "tags": [
+    "business-development",
+    "business-development-executive",
+    "business-development-manager",
+    "korean-speaking-business-development-manager",
+    "manager",
+    "market-development-manager",
+    "sales-executive",
+    "sales-manager"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'South Korea'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-julia-goessler-jobs-operations-manager-m-w-d-leade",
+   "source": "himalayas",
+   "title": "Operations Manager (m/w/d) | Leader | Remote",
+   "company": "Julia Goessler",
+   "url": "https://himalayas.app/companies/julia-goessler/jobs/operations-manager-m-w-d-leader-remote?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/julia-goessler/jobs/operations-manager-m-w-d-leader-remote?utm_source=api",
+   "location": "Germany",
+   "posted": "2026-10-23T10:07:08+00:00",
+   "tags": [
+    "business-operations-manager",
+    "management",
+    "manager",
+    "operations",
+    "operations-lead",
+    "operations-manager",
+    "operations-supervisor-remote",
+    "operations-team-lead",
+    "remote-operations-manager"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'Germany'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "himalayas-https-himalayas-app-companies-easy-outsource-jobs-customer-success-manager",
+   "source": "himalayas",
+   "title": "Customer Success Manager",
+   "company": "Easy Outsource",
+   "url": "https://himalayas.app/companies/easy-outsource/jobs/customer-success-manager?utm_source=api",
+   "apply_url": "https://himalayas.app/companies/easy-outsource/jobs/customer-success-manager?utm_source=api",
+   "location": "United States",
+   "posted": "2026-10-23T10:06:44+00:00",
+   "tags": [
+    "account-manager",
+    "client-services-manager",
+    "crm-administrator",
+    "customer-success",
+    "customer-success-account-manager",
+    "customer-success-and-implementation-manager",
+    "customer-success-manager",
+    "customer-success-manager-emea",
+    "manager",
+    "sales-operations-manager"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'customer success' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156503",
+   "source": "jobicy",
+   "title": "Senior Product Designer",
+   "company": "Nextiva",
+   "url": "https://jobicy.com/jobs/156503-senior-product-designer-16",
+   "apply_url": "https://jobicy.com/jobs/156503-senior-product-designer-16",
+   "location": "USA",
+   "posted": "2026-10-23T07:05:34+00:00",
+   "tags": [
+    "full-time",
+    "senior",
+    "web, ui & ux design"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 senior",
+    "-15 onsite",
+    "-8 location limited to 'USA'",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156492",
+   "source": "jobicy",
+   "title": "Engineering Manager, Cloud Engineering",
+   "company": "LaunchDarkly",
+   "url": "https://jobicy.com/jobs/156492-engineering-manager-cloud-engineering",
+   "apply_url": "https://jobicy.com/jobs/156492-engineering-manager-cloud-engineering",
+   "location": "USA",
+   "posted": "2026-10-23T06:19:35+00:00",
+   "tags": [
+    "devops & infrastructure",
+    "full-time",
+    "senior"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-8 location limited to 'USA'",
+    "+5 posted this week"
+   ],
+   "has_email": true,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156427",
+   "source": "jobicy",
+   "title": "Senior Marketing Design Manager",
+   "company": "Imprint",
+   "url": "https://jobicy.com/jobs/156427-senior-marketing-design-manager",
+   "apply_url": "https://jobicy.com/jobs/156427-senior-marketing-design-manager",
+   "location": "USA",
+   "posted": "2026-10-22T15:45:51+00:00",
+   "tags": [
+    "creative & design",
+    "full-time",
+    "senior"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'marketing' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "jobicy-156423",
+   "source": "jobicy",
+   "title": "Sr. Marketing Designer",
+   "company": "Imprint",
+   "url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
+   "apply_url": "https://jobicy.com/jobs/156423-sr-marketing-designer",
+   "location": "USA",
+   "posted": "2026-10-22T15:45:49+00:00",
+   "tags": [
+    "any",
+    "contract",
+    "creative & design"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'marketing' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-social-media-ai-manager-tiktok-instagram-quereinsteiger-berlin-135663",
+   "source": "arbeitnow",
+   "title": "Social Media & AI Manager TikTok, Instagram, Quereinsteiger (m/w/d)",
+   "company": "Digital Evolution",
+   "url": "https://www.arbeitnow.com/jobs/social-media-ai-manager-tiktok-instagram-quereinsteiger-berlin-135663",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-ai-manager-tiktok-instagram-quereinsteiger-berlin-135663",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-23T10:31:31+00:00",
+   "tags": [
+    "berufseinstieg",
+    "remote",
+    "social media manager",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-lead-business-development-manager-berlin-291904",
+   "source": "arbeitnow",
+   "title": "Lead Business Development Manager (m/w/d)",
+   "company": "bits&birds GmbH",
+   "url": "https://www.arbeitnow.com/jobs/lead-business-development-manager-berlin-291904",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/lead-business-development-manager-berlin-291904",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-23T10:31:31+00:00",
+   "tags": [
+    "business development",
+    "remote",
+    "teamleitung",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 lead",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-projekt-manager-remote-gross-gerau-673",
+   "source": "arbeitnow",
+   "title": "Projekt Manager (m/w/d) – Remote",
+   "company": "Toptaner - Office Dienstleistung",
+   "url": "https://www.arbeitnow.com/jobs/projekt-manager-remote-gross-gerau-673",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/toptaner-office-dienstleistung/projekt-manager-remote-gross-gerau-673",
+   "location": "Groß-Gerau · Remote",
+   "posted": "2026-10-23T10:31:31+00:00",
+   "tags": [
+    "berufserfahren",
+    "nebentätigkeit",
+    "project management",
+    "remote",
+    "side"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-virtuelle-assistenz-recruiting-personalgewinnung-remote-gross-gerau-395608",
+   "source": "arbeitnow",
+   "title": "Virtuelle Assistenz (m/w/d) Recruiting / Personalgewinnung – Remote",
+   "company": "Toptaner - Office Dienstleistung",
+   "url": "https://www.arbeitnow.com/jobs/virtuelle-assistenz-recruiting-personalgewinnung-remote-gross-gerau-395608",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/toptaner-office-dienstleistung/virtuelle-assistenz-recruiting-personalgewinnung-remote-gross-gerau-395608",
+   "location": "Groß-Gerau · Remote",
+   "posted": "2026-10-23T10:01:31+00:00",
+   "tags": [
+    "berufserfahren",
+    "nebentätigkeit",
+    "recruitment and selection",
+    "remote",
+    "side"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474",
+   "source": "arbeitnow",
+   "title": "Backend Software Engineer (m/f/d), Rust – AI-first E-commerce Tech",
+   "company": "adstrong",
+   "url": "https://www.arbeitnow.com/jobs/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-23T09:31:34+00:00",
+   "tags": [
+    "permanent employment",
+    "professional / experienced",
+    "remote",
+    "software development"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 engineer",
+    "-5 c++",
+    "location +5 europe",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-commercial-strategy-project-manager-berlin-435738",
+   "source": "arbeitnow",
+   "title": "Commercial Strategy & Project Manager (m/w/d)",
+   "company": "emotion GmbH",
+   "url": "https://www.arbeitnow.com/jobs/commercial-strategy-project-manager-berlin-435738",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/emotion-gmbh/commercial-strategy-project-manager-berlin-435738",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-23T09:00:56+00:00",
+   "tags": [
+    "berufserfahren",
+    "business development",
+    "remote",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-partner-managerin-lernprogramme-berlin-452784",
+   "source": "arbeitnow",
+   "title": "Partner-Manager:in Lernprogramme",
+   "company": "Teachlume GmbH",
+   "url": "https://www.arbeitnow.com/jobs/partner-managerin-lernprogramme-berlin-452784",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/teachlume-gmbh/partner-managerin-lernprogramme-berlin-452784",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-23T09:00:54+00:00",
+   "tags": [
+    "berufserfahren",
+    "development",
+    "remote",
+    "training",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-junior-e-commerce-manager-berlin-283360",
+   "source": "arbeitnow",
+   "title": "(Junior) E-Commerce Manager (w/m/d)",
+   "company": "NETSHAKE",
+   "url": "https://www.arbeitnow.com/jobs/junior-e-commerce-manager-berlin-283360",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/netshake/junior-e-commerce-manager-berlin-283360",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-23T09:00:54+00:00",
+   "tags": [
+    "befristeter arbeitsvertrag",
+    "marketing and communication",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 junior",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-978",
+   "source": "arbeitnow",
+   "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+   "company": "Kevin Kehr",
+   "url": "https://www.arbeitnow.com/jobs/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-97832",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-97832",
+   "location": "Homeoffice · Remote",
+   "posted": "2026-10-23T08:31:27+00:00",
+   "tags": [
+    "entry",
+    "fulltime permanent",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-selbststandiger-handelsvertreter-vertrieb-landwirtschaftliche-software-mu",
+   "source": "arbeitnow",
+   "title": "selbstständiger Handelsvertreter (m/w/d) Vertrieb landwirtschaftliche Software",
+   "company": "Wimex-Gruppe",
+   "url": "https://www.arbeitnow.com/jobs/remote-selbststandiger-handelsvertreter-vertrieb-landwirtschaftliche-software-munchen-233979",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-selbststandiger-handelsvertreter-vertrieb-landwirtschaftliche-software-munchen-233979",
+   "location": "Homeoffice · Remote",
+   "posted": "2026-10-23T08:31:25+00:00",
+   "tags": [
+    "entry",
+    "freelance",
+    "geo-konzept gmbh",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-senior-performance-marketing-manager-all-genders-d2c-beauty-berlin-44558",
+   "source": "arbeitnow",
+   "title": "Senior Performance Marketing Manager (all genders) – D2C Beauty",
+   "company": "Maniko Nails GmbH",
+   "url": "https://www.arbeitnow.com/jobs/remote-senior-performance-marketing-manager-all-genders-d2c-beauty-berlin-44558",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-senior-performance-marketing-manager-all-genders-d2c-beauty-berlin-44558",
+   "location": "Homeoffice · Remote",
+   "posted": "2026-10-23T08:31:23+00:00",
+   "tags": [
+    "experienced",
+    "fulltime permanent",
+    "marketing",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'marketing' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-werkstudent-marketing-content-video-creation-eschborn-348901",
+   "source": "arbeitnow",
+   "title": "Werkstudent Marketing - Content & Video Creation (m/w/d)",
+   "company": "Jamorie Consulting GmbH",
+   "url": "https://www.arbeitnow.com/jobs/werkstudent-marketing-content-video-creation-eschborn-348901",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/werkstudent-marketing-content-video-creation-eschborn-348901",
+   "location": "Eschborn · Remote",
+   "posted": "2026-10-23T08:31:11+00:00",
+   "tags": [
+    "marketing and communication",
+    "remote",
+    "werkstudent",
+    "working student"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'marketing' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-senior-ai-platform-engineer-llm-agents-berlin-491116",
+   "source": "arbeitnow",
+   "title": "Senior AI Platform Engineer- LLM & Agents (m/w/d)",
+   "company": "Neurawork GmbH & Co. KG",
+   "url": "https://www.arbeitnow.com/jobs/senior-ai-platform-engineer-llm-agents-berlin-491116",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-platform-engineer-llm-agents-berlin-491116",
+   "location": "Berlin · Remote",
+   "posted": "2026-10-23T08:01:16+00:00",
+   "tags": [
+    "berufserfahren",
+    "remote",
+    "software development",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 engineer",
+    "title +5 senior",
+    "-10 hybrid",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-research-analyst-london-48301",
+   "source": "arbeitnow",
+   "title": "Research Analyst",
+   "company": "BeInCrypto",
+   "url": "https://www.arbeitnow.com/jobs/research-analyst-london-48301",
+   "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/beincrypto/research-analyst-london-48301",
+   "location": "London · Remote",
+   "posted": "2026-10-23T11:01:08+00:00",
+   "tags": [
+    "analysis",
+    "freelance",
+    "freelancer / indepedent contractor",
+    "market research",
+    "professional / experienced",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "+4 fintech",
+    "location +10 global",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-senior-geospatial-consultant-fme-cambridge-455045",
+   "source": "arbeitnow",
+   "title": "Senior Geospatial Consultant (FME)",
+   "company": "VertiGIS GmbH",
+   "url": "https://www.arbeitnow.com/jobs/remote-senior-geospatial-consultant-fme-cambridge-455045",
+   "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/vertigis-gmbh/remote-senior-geospatial-consultant-fme-cambridge-455045",
+   "location": "Homeoffice · Remote",
+   "posted": "2026-10-23T05:31:24+00:00",
+   "tags": [
+    "fulltime permanent",
+    "mid",
+    "professional service",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 senior",
+    "-10 hybrid",
+    "-30 security clearance",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
+   "source": "arbeitnow",
+   "title": "Cyber Security Consultant (UK) - Dionach by Nomios",
+   "company": "Nomios",
+   "url": "https://www.arbeitnow.com/jobs/remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
+   "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-cyber-security-consultant-uk-dionach-by-nomios-scotland-274544",
+   "location": "Remote job · Remote",
+   "posted": "2026-10-23T02:31:11+00:00",
+   "tags": [
+    "advisory services",
+    "fulltime permanent",
+    "mid",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-15 on-site",
+    "-10 hybrid",
+    "-30 security clearance",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+   "source": "arbeitnow",
+   "title": "Lead Cyber Security Consultant (CHECK) (UK) - Dionach by Nomios",
+   "company": "Nomios",
+   "url": "https://www.arbeitnow.com/jobs/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+   "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/nomios/remote-lead-cyber-security-consultant-check-uk-dionach-by-nomios-england-228849",
+   "location": "Remote job · Remote",
+   "posted": "2026-10-23T02:31:11+00:00",
+   "tags": [
+    "advisory services",
+    "experienced",
+    "fulltime permanent",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 lead",
+    "-15 on-site",
+    "-15 onsite",
+    "-10 hybrid",
+    "-30 security clearance",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-participate-in-the-openai-experience-lab-ai-enthusiasts-wanted-location-l",
+   "source": "arbeitnow",
+   "title": "Participate in the OpenAI Experience Lab – AI Enthusiasts Wanted! Location: London, UK (In-Person) Date: 9 November",
+   "company": "Tester Work",
+   "url": "https://www.arbeitnow.com/jobs/remote-participate-in-the-openai-experience-lab-ai-enthusiasts-wanted-location-london-uk-in-person-date-9-november-183782",
+   "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/tester-work/remote-participate-in-the-openai-experience-lab-ai-enthusiasts-wanted-location-london-uk-in-person-date-9-november-183782",
+   "location": "Remote job · Remote",
+   "posted": "2026-10-23T02:31:08+00:00",
+   "tags": [
+    "entry",
+    "parttime permanent",
+    "remote",
+    "usability research"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-test-automation-engineer-strasbourg-449366",
+   "source": "arbeitnow",
+   "title": "Test Automation Engineer",
+   "company": "European Dynamics",
+   "url": "https://www.arbeitnow.com/jobs/remote-test-automation-engineer-strasbourg-449366",
+   "apply_url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
+   "location": "Strasbourg, France · Remote",
+   "posted": "2026-10-23T10:20:08+00:00",
+   "tags": [
+    "computer software",
+    "full time",
+    "prd",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 engineer",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-stage-ia-generative-creation-de-videos-dactivite-physique-adaptee-apa-bor",
+   "source": "arbeitnow",
+   "title": "Stage – IA générative & création de vidéos d’Activité Physique Adaptée (APA)",
+   "company": "RH Partners",
+   "url": "https://www.arbeitnow.com/jobs/remote-stage-ia-generative-creation-de-videos-dactivite-physique-adaptee-apa-bordeaux-274381",
+   "apply_url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/remote-stage-ia-generative-creation-de-videos-dactivite-physique-adaptee-apa-bordeaux-274381",
+   "location": "Poste à distance · Remote",
+   "posted": "2026-10-23T08:31:28+00:00",
+   "tags": [
+    "entry",
+    "informatique",
+    "internship",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-seo-digital-marketing-specialist-france-101137",
+   "source": "arbeitnow",
+   "title": "SEO & Digital Marketing Specialist",
+   "company": "Pavago",
+   "url": "https://www.arbeitnow.com/jobs/remote-seo-digital-marketing-specialist-france-101137",
+   "apply_url": "https://www.arbeitnow.fr/jobs/companies/pavago/remote-seo-digital-marketing-specialist-france-101137",
+   "location": "France · Remote",
+   "posted": "2026-10-23T07:20:16+00:00",
+   "tags": [
+    "remote",
+    "staffing and recruiting"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'marketing' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-senior-sales-manager-saas-mwd-bern-115360",
+   "source": "arbeitnow",
+   "title": "(Senior) Sales Manager SaaS (m|w|d)",
+   "company": "ANGEHEUERT GmbH",
+   "url": "https://www.arbeitnow.com/jobs/remote-senior-sales-manager-saas-mwd-bern-115360",
+   "apply_url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-sales-manager-saas-mwd-bern-115360",
+   "location": "Homeoffice · Remote",
+   "posted": "2026-10-23T08:31:24+00:00",
+   "tags": [
+    "fulltime permanent",
+    "mid",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'sales' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-seo-digital-marketing-specialist-netherlands-5151",
+   "source": "arbeitnow",
+   "title": "SEO & Digital Marketing Specialist",
+   "company": "Pavago",
+   "url": "https://www.arbeitnow.com/jobs/remote-seo-digital-marketing-specialist-netherlands-5151",
+   "apply_url": "https://www.arbeitnow.nl/jobs/companies/pavago/remote-seo-digital-marketing-specialist-netherlands-5151",
+   "location": "Netherlands · Remote",
+   "posted": "2026-10-23T09:20:14+00:00",
+   "tags": [
+    "remote",
+    "staffing and recruiting"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'marketing' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-solution-architect-remote-from-eu-the-hague-200819",
+   "source": "arbeitnow",
+   "title": "Solution Architect - Remote from EU",
+   "company": "AlmavivA de Belgique",
+   "url": "https://www.arbeitnow.com/jobs/solution-architect-remote-from-eu-the-hague-200819",
+   "apply_url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/solution-architect-remote-from-eu-the-hague-200819",
+   "location": "Remote job · Remote",
+   "posted": "2026-10-23T02:31:10+00:00",
+   "tags": [
+    "europol",
+    "experienced",
+    "freelance",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+   "source": "arbeitnow",
+   "title": "Backend Developer .Net - Remote from EU - Deadline 27/10/26",
+   "company": "AlmavivA de Belgique",
+   "url": "https://www.arbeitnow.com/jobs/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+   "apply_url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/backend-developer-net-remote-from-eu-deadline-27-10-26-the-hague-434774",
+   "location": "Remote job · Remote",
+   "posted": "2026-10-23T02:31:10+00:00",
+   "tags": [
+    "experienced",
+    "freelance",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: '.net' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+   "source": "wwr",
+   "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
+   "company": "Toptal",
+   "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+   "apply_url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+   "location": "EMEA Only",
+   "posted": "2026-10-22T18:59:03+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 engineer",
+    "title +5 senior",
+    "-15 onsite",
+    "location +8 emea",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-toptal-ai-engineer-agentic-systems",
+   "source": "wwr",
+   "title": "AI Engineer - Agentic Systems",
+   "company": "Toptal",
+   "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+   "apply_url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+   "location": "USA Only",
+   "posted": "2026-10-22T18:54:42+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "title +5 engineer",
+    "+2 fully remote",
+    "-30 usa only",
+    "-8 location limited to 'USA Only'",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-10-23T11:22:28+00:00",
+   "last_seen": "2026-10-23T11:22:28+00:00",
    "digested": false
   }
  ]
