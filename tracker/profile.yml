@@ -3,7 +3,7 @@
 
 me:
   name: Kluivert Edegware
-  headline: Senior Mobile Engineer (Flutter, Kotlin, iOS)
+  headline: Senior Mobile Engineer (Flutter, Android/Kotlin)
   email: edkluivert@gmail.com
   portfolio: https://edkluivert.github.io/kluivert_portfolio/
   linkedin: https://www.linkedin.com/in/kluivert-edegware-913882172/
@@ -31,8 +31,7 @@ matching:
     android: 30
     ios: 22
     kotlin: 20
-    swift: 10
-    "react native": 8
+    swift: 5
     engineer: 5
     developer: 5
     senior: 5
@@ -72,21 +71,80 @@ matching:
     - "customer success"
     - "data entry"
     - game
+    - "product manager"
+    - designer
+
+  # Hard location gate: a job scores 0 unless it is fully remote AND open to someone in Nigeria.
+  location:
+    country: Nigeria
+    # If the job's location names any place, one of these must appear in it.
+    # A bare "Remote" with no place named passes, and the phrases below are checked instead.
+    allow: [nigeria, africa, emea, worldwide, anywhere, global, "utc+1", "gmt+1"]
+    # In the title or location field, any of these means it isn't fully remote.
+    not_remote: [hybrid, on-site, onsite, in-office, "in office"]
+    # Anywhere in the posting. Ignored when an allowed place follows within ~80 characters
+    # (so "must be based in Africa or Europe" passes, "must be based in the US" doesn't).
+    restricted_phrases:
+      - us only
+      - usa only
+      - u.s. only
+      - eu only
+      - uk only
+      - canada only
+      - must be located in
+      - must reside in
+      - must be based in
+      - must live in
+      - must be a resident of
+      - authorized to work in
+      - authorised to work in
+      - right to work in
+      - eligible to work in
+      - work authorization
+      - visa sponsorship is not available
+      - us-based
+      - uk-based
+      - eu-based
+      - based in the us
+      - based in the uk
+      - within the us
+      - within the united states
+      - security clearance
+      - office-based
+      - hybrid role
+      - hybrid position
+      - hybrid work
+      - hybrid model
+      - hybrid schedule
+      - on-site role
+      - onsite role
+      - work on-site
+      - work onsite
+      - days in the office
+      - days a week in the office
+      - days per week in the office
+
+  # Roles on another cross-platform stack. Applied only when the posting never mentions Flutter,
+  # so "Flutter or React Native" still scores normally. First hit wins (title checked before body).
+  other_stacks_title:
+    "react native": -60
+    expo: -50
+    ionic: -60
+    xamarin: -60
+    maui: -60
+    cordova: -60
+    capacitor: -50
+    swiftui: -40
+    swift: -35
+  other_stacks_body:
+    "react native": -30
+    expo: -20
+    ionic: -30
+    xamarin: -30
+    maui: -30
 
   # Penalties (negative numbers) for words anywhere.
   penalties:
-    "us only": -30
-    "usa only": -30
-    "u.s. only": -30
-    "must be located in the us": -30
-    "must reside in the united states": -30
-    "authorized to work in the united states": -25
-    "eu only": -25
-    "uk only": -25
-    "canada only": -25
-    "on-site": -15
-    "onsite": -15
-    "hybrid": -10
     "junior": -15
     "entry level": -15
     "entry-level": -15
@@ -114,7 +172,7 @@ sources:
     tags: [flutter, mobile, android, ios]
   himalayas:
     enabled: true
-    searches: [flutter, "mobile engineer"]
+    searches: [flutter, "mobile engineer", android]
   jobicy:
     enabled: true
     tags: [flutter, mobile, android]

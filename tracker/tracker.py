@@ -193,7 +193,8 @@ def fetch_remoteok(cfg):
 def fetch_himalayas(cfg):
     out = []
     for q in cfg.get("searches", []) or [""]:
-        r = HTTP.get("https://himalayas.app/jobs/api", params={"limit": 50, "search": q}, timeout=TIMEOUT)
+        # /jobs/api ignores search terms and returns the latest jobs on the board; /jobs/api/search filters.
+        r = HTTP.get("https://himalayas.app/jobs/api/search", params={"q": q, "limit": 50}, timeout=TIMEOUT)
         r.raise_for_status()
         for j in r.json().get("jobs", []):
             loc = ", ".join(j.get("locationRestrictions") or []) or "Worldwide"
@@ -341,6 +342,54 @@ def _hits(text: str, weights: dict) -> tuple[int, list[str]]:
     return total, reasons
 
 
+_LOC_FILLER = {"remote", "job", "jobs", "fully", "work", "from", "home", "wfh", "only", "position", "role"}
+
+
+def location_block(title: str, loc: str, body: str, cfg: dict) -> str | None:
+    """Why this job can't be done fully remote from the candidate's country, or None if it can."""
+    allow = [a.lower() for a in cfg.get("allow", [])]
+    # "South Africa" must not count as "Africa".
+    allowed = lambda text: any(kw_in(a, text.replace("south africa", "south_za")) for a in allow)
+
+    for kw in cfg.get("not_remote", []) or []:
+        if kw_in(kw, title) or kw_in(kw, loc):
+            return f"not fully remote ('{kw}')"
+
+    # A location naming specific places must include one of the allowed ones.
+    named = [w for w in re.sub(r"[^a-z]+", " ", loc).split() if w not in _LOC_FILLER]
+    if named and not allowed(loc):
+        return f"not open to {cfg.get('country', 'your country')} (location: {loc[:50]})"
+
+    # Restrictions written into the posting, unless an allowed region follows the phrase.
+    text = title + " " + body
+    for phrase in cfg.get("restricted_phrases", []) or []:
+        k = phrase.lower()
+        start = text.find(k)
+        while start != -1:
+            window = text[start + len(k): start + len(k) + 80]
+            if not allowed(window):
+                return f"restricted: '{phrase}'"
+            start = text.find(k, start + 1)
+    return None
+
+
+def stack_conflict(title: str, body: str, m: dict) -> tuple[int, list[str]]:
+    """Penalise roles built on another stack. A title naming that stack counts unless the title also names
+    Flutter ("Flutter is a plus" in the body doesn't rescue a React Native role); a body mention counts only
+    when Flutter appears nowhere."""
+    if kw_in("flutter", title):
+        return 0, []
+    for kw, w in (m.get("other_stacks_title") or {}).items():
+        if kw_in(kw, title):
+            return int(w), [f"{w} {kw} role (title)"]
+    if kw_in("flutter", body):
+        return 0, []
+    for kw, w in (m.get("other_stacks_body") or {}).items():
+        if kw_in(kw, body):
+            return int(w), [f"{w} {kw} in description, no Flutter"]
+    return 0, []
+
+
 def score_job(job: dict, profile: dict) -> tuple[int, list[str]]:
     m = profile["matching"]
     title = job["title"].lower()
@@ -352,7 +401,12 @@ def score_job(job: dict, profile: dict) -> tuple[int, list[str]]:
         if kw_in(bad, title):
             return 0, [f"excluded: '{bad}' in title"]
 
+    blocked = location_block(title, loc, body, m.get("location") or {})
+    if blocked:
+        return 0, [f"excluded: {blocked}"]
+
     score, reasons = 0, []
+    s, r = stack_conflict(title, body, m); score += s; reasons += r
     s, r = _hits(title, m.get("title")); score += s; reasons += [f"title {x}" for x in r]
     s, r = _hits(body, m.get("body")); score += s; reasons += r
     s, r = _hits(everything, m.get("penalties")); score += s; reasons += r
@@ -412,7 +466,11 @@ def llm_rerank(jobs: list[dict], profile: dict) -> int:
         "You screen job postings for one candidate and answer only with the JSON schema requested. "
         "Judge fit on the actual requirements: stack, seniority, and whether the candidate's location "
         "(Nigeria, UTC+1, remote) is acceptable for the role. Be strict: a 'Flutter is a plus' mention on a "
-        "backend role is a skip. 'apply' means you would send the resume today.\n\n"
+        "backend role is a skip, and so is a React Native, Ionic or native-iOS role that does not use Flutter. "
+        "location_ok is true only if the role is fully remote and a person living in Nigeria can be hired for it "
+        "(as an employee or contractor); any country, region or time-zone restriction that excludes Nigeria, "
+        "any hybrid or on-site requirement, or a work-authorisation requirement makes it false. "
+        "'apply' means you would send the resume today.\n\n"
         f"Candidate: {me['name']}, {me['headline']}.\n{me['summary']}"
     )
     calls = 0
