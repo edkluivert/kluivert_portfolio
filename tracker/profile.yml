@@ -79,7 +79,7 @@ matching:
     country: Nigeria
     # If the job's location names any place, one of these must appear in it.
     # A bare "Remote" with no place named passes, and the phrases below are checked instead.
-    allow: [nigeria, africa, emea, worldwide, anywhere, global, "utc+1", "gmt+1"]
+    allow: [nigeria, africa, emea, worldwide, anywhere, global, "the world", "utc+1", "gmt+1"]
     # In the title or location field, any of these means it isn't fully remote.
     not_remote: [hybrid, on-site, onsite, in-office, "in office"]
     # Anywhere in the posting. Ignored when an allowed place follows within ~80 characters
@@ -108,6 +108,17 @@ matching:
       - based in the us
       - based in the uk
       - within the us
+      # "Work from anywhere in the Netherlands" style: remote, but only inside one country.
+      - from anywhere in
+      - work anywhere in
+      - remote anywhere in
+      - remote within
+      - reside in
+      - residing in
+      - resident in
+      - living in
+      - work permit
+      - no visa sponsorship
       - within the united states
       - security clearance
       - office-based
@@ -180,6 +191,9 @@ sources:
     enabled: true
     searches: [flutter, "mobile developer"]
     remote_only: true
+    # EU board: "remote" there nearly always means remote inside one country,
+    # so a job only passes if the posting itself says Nigeria/Africa/EMEA/worldwide.
+    strict_location: true
   weworkremotely:
     enabled: true
     feeds:

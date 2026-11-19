@@ -401,7 +401,14 @@ def score_job(job: dict, profile: dict) -> tuple[int, list[str]]:
         if kw_in(bad, title):
             return 0, [f"excluded: '{bad}' in title"]
 
-    blocked = location_block(title, loc, body, m.get("location") or {})
+    loc_cfg = m.get("location") or {}
+    blocked = location_block(title, loc, body, loc_cfg)
+    src_cfg = (profile.get("sources") or {}).get(job.get("source")) or {}
+    if not blocked and src_cfg.get("strict_location"):
+        allow = [a.lower() for a in loc_cfg.get("allow", [])]
+        text = (loc + " " + body).replace("south africa", "south_za")
+        if not any(kw_in(a, text) for a in allow):
+            blocked = f"{job.get('source')} job doesn't say it's open to {loc_cfg.get('country', 'your country')}"
     if blocked:
         return 0, [f"excluded: {blocked}"]
 
