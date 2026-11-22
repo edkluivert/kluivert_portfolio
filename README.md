@@ -1,11 +1,16 @@
 # kluivert.dev portfolio
 
-Plain static site — no framework, no build step.
+Plain static site, no framework. A boot screen, then an interactive phone (iOS or Android) whose
+app icons open into store-style pages with real screenshots, plus terminal-styled sections and a ⌘K palette.
 
-- `index.html` — all content. Add an app by copying one `<article class="app">` block in the **Shipped** section (and, if you want it on the hero shelf, one `<a>` in `.shelf`).
-- `styles.css` — design tokens at the top (`:root`), light and dark themes.
-- `main.js` — theme toggle, shelf animation, and a one-time cleanup of the old Flutter service worker.
-- `assets/apps/` — launcher icons (192px). `assets/shots/` — screenshots (~900px tall).
+- `data.js`: all content (apps, side projects, packages, jobs, screenshot counts). Add an app here and it
+  appears on the phone, in the `ls` list, the palette and the shell. Then run `node build-fallback.js`
+  to refresh the no-JavaScript fallback in `index.html`.
+- `index.html`: page shell. `styles.css`: tokens at the top, dark/light and iOS/Android styles.
+- `app.js`: boot, phone, app pages, palette, shell; also clears the old Flutter service worker.
+- `assets/apps/`: launcher icons (192px). `assets/store/<id>/`: store screenshots (640px WebP).
+  Optional screen recording: `assets/store/<id>/demo.mp4`, listed in `VIDEOS` in `data.js`.
+- `assets/og.png`: link-preview image. Deep links: `#app/<id>` opens that app on the phone.
 - `resume.html` — print-first résumé (A4, two pages). Edit it, then regenerate the PDF the hero links to:
 
   ```sh

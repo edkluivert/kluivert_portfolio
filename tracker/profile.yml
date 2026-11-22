@@ -6,6 +6,14 @@ me:
   headline: Senior Mobile Engineer (Flutter, Android/Kotlin)
   email: edkluivert@gmail.com
   portfolio: https://edkluivert.github.io/kluivert_portfolio/
+  # Deep-link application emails to the app closest to the role (#app/<id>).
+  portfolio_deeplinks: true
+  featured_apps:
+    tharwa-ev: [ev, charging, energy, mobility, wallet, fintech, payments, maps, real-time]
+    custovia: [marketplace, escrow, passkey, kyc, gig, services, chat]
+    myslates: [edtech, education, school, learning, students, e-learning]
+    acire23: [real estate, property, proptech, housing, listings]
+    yachtall: [travel, booking, localisation, localization, multilingual, e-commerce]
   linkedin: https://www.linkedin.com/in/kluivert-edegware-913882172/
   resume: assets/Kluivert-Edegware-Resume.pdf
   # Used by the digest and by the LLM rerank to judge fit. Keep it honest and specific.

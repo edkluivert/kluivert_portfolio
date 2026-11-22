@@ -562,10 +562,29 @@ def dashboard_url(profile: dict) -> str:
     return profile["me"]["portfolio"].rstrip("/") + "/tracker/"
 
 
+def portfolio_link(job: dict, profile: dict) -> str:
+    """Portfolio URL, deep-linked to the most relevant app when enabled.
+
+    The redesigned portfolio opens `#app/<id>` straight into that app on the
+    phone. Off until the redesign is the live site (me.portfolio_deeplinks).
+    """
+    me = profile["me"]
+    base = me["portfolio"]
+    if not me.get("portfolio_deeplinks"):
+        return base
+    text = f'{job.get("title", "")} {job.get("description", "")}'.lower()
+    best, hits = None, 0
+    for app_id, words in (me.get("featured_apps") or {}).items():
+        n = sum(1 for w in words if re.search(rf"\b{re.escape(w.lower())}\b", text))
+        if n > hits:
+            best, hits = app_id, n
+    return f"{base.rstrip('/')}/#app/{best}" if best else base
+
+
 def build_application(job: dict, profile: dict, to: str, note: str | None) -> EmailMessage:
     me = profile["me"]
     body = render("application.txt", name=me["name"], headline=me["headline"], title=job["title"],
-                  company=job["company"] or "your team", portfolio=me["portfolio"], linkedin=me.get("linkedin", ""),
+                  company=job["company"] or "your team", portfolio=portfolio_link(job, profile), linkedin=me.get("linkedin", ""),
                   email=me["email"], summary=me["summary"].strip(), note=(note or "").strip(), url=job["url"])
     body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
     msg = EmailMessage()
