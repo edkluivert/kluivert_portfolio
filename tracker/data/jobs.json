@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:00:26+00:00",
+ "updated": "2026-11-25T22:52:18+00:00",
  "jobs": [
   {
    "id": "himalayas-https-himalayas-app-companies-triads-entertainment-jobs-flutter-developer",
@@ -34,7 +34,7 @@
    "has_email": false,
    "status": "matched",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": true
   },
   {
@@ -69,7 +69,7 @@
    "has_email": false,
    "status": "matched",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": true
   },
   {
@@ -132,7 +132,7 @@
    "has_email": true,
    "status": "matched",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": true
   },
   {
@@ -802,7 +802,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -830,7 +830,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -1067,7 +1067,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -1342,33 +1342,6 @@
    "digested": false
   },
   {
-   "id": "jobicy-151003",
-   "source": "jobicy",
-   "title": "Testing a Financial App for Italian Business Owners",
-   "company": "Testlio",
-   "url": "https://jobicy.com/jobs/151003-testing-a-financial-app-for-italian-business-owners",
-   "apply_url": "https://jobicy.com/jobs/151003-testing-a-financial-app-for-italian-business-owners",
-   "location": "EMEA",
-   "posted": "2026-10-20T03:25:20+00:00",
-   "tags": [
-    "any",
-    "full-time",
-    "qa & testing"
-   ],
-   "score": 23,
-   "final": 23,
-   "reasons": [
-    "location +10 global",
-    "location +8 emea",
-    "+5 posted this week"
-   ],
-   "has_email": true,
-   "status": "new",
-   "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
    "id": "jobicy-161752",
    "source": "jobicy",
    "title": "Senior Data Scientist (m/f/d)",
@@ -1394,33 +1367,6 @@
    "status": "new",
    "first_seen": "2026-11-13T14:23:18+00:00",
    "last_seen": "2026-11-16T15:26:54+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-remote-integration-engineer-french-speaker-444069",
-   "source": "arbeitnow",
-   "title": "Integration Engineer (French Speaker)",
-   "company": "Constructor",
-   "url": "https://www.arbeitnow.com/jobs/remote-integration-engineer-french-speaker-444069",
-   "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-integration-engineer-french-speaker-444069",
-   "location": "Remote · Remote",
-   "posted": "2026-10-26T18:40:13+00:00",
-   "tags": [
-    "engineering",
-    "full time"
-   ],
-   "score": 22,
-   "final": 22,
-   "reasons": [
-    "title +5 engineer",
-    "+2 fully remote",
-    "location +10 global",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
    "digested": false
   },
   {
@@ -1631,7 +1577,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -1661,7 +1607,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -1998,7 +1944,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2021,7 +1967,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-16T15:26:54+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2049,7 +1995,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2135,7 +2081,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2163,7 +2109,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2246,36 +2192,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-remote-senior-gtm-systems-ai-and-automation-engineer-436740",
-   "source": "arbeitnow",
-   "title": "Senior GTM Systems AI and Automation Engineer",
-   "company": "Camunda",
-   "url": "https://www.arbeitnow.com/jobs/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
-   "location": "Remote · Remote",
-   "posted": "2026-10-26T15:40:12+00:00",
-   "tags": [
-    "full time",
-    "revenue operations"
-   ],
-   "score": 12,
-   "final": 12,
-   "reasons": [
-    "title +5 engineer",
-    "title +5 senior",
-    "+2 fully remote",
-    "location +15 worldwide",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2517,7 +2434,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2545,7 +2462,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2853,7 +2770,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2880,7 +2797,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2906,7 +2823,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2933,7 +2850,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -2987,7 +2904,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3100,7 +3017,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3127,7 +3044,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-22T14:24:21+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3466,7 +3383,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3521,7 +3438,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3548,7 +3465,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3575,7 +3492,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3602,7 +3519,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3629,33 +3546,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
-   "digested": false
-  },
-  {
-   "id": "wwr-webflow-senior-infrastructure-engineer",
-   "source": "wwr",
-   "title": "Senior Infrastructure Engineer",
-   "company": "Webflow",
-   "url": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
-   "apply_url": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
-   "location": "Anywhere in the World",
-   "posted": "2026-10-06T07:31:05+00:00",
-   "tags": [
-    "full-stack programming"
-   ],
-   "score": 5,
-   "final": 5,
-   "reasons": [
-    "title +5 engineer",
-    "title +5 senior",
-    "location +15 anywhere in the world",
-    "-20 no mobile signal anywhere"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3911,7 +3802,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-06T14:03:06+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -3993,7 +3884,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T01:23:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -4021,7 +3912,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T01:23:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -4047,7 +3938,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -4187,7 +4078,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T14:24:21+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -4213,7 +4104,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -4482,7 +4373,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-07T12:46:47+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -4917,7 +4808,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -4958,7 +4849,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-02T08:34:57+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -5547,33 +5438,6 @@
    "digested": false
   },
   {
-   "id": "wwr-pagerduty-senior-director-field-enablement",
-   "source": "wwr",
-   "title": "Senior Director, Field Enablement",
-   "company": "PagerDuty",
-   "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
-   "apply_url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
-   "location": "Anywhere in the World",
-   "posted": "2026-10-06T07:31:16+00:00",
-   "tags": [
-    "full-stack programming"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "title +5 senior",
-    "-10 hybrid",
-    "location +15 anywhere in the world",
-    "location +10 global",
-    "-20 no mobile signal anywhere"
-   ],
-   "has_email": true,
-   "status": "new",
-   "first_seen": "2026-10-06T13:09:31+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
    "id": "jobicy-154652",
    "source": "jobicy",
    "title": "Strategic Account Executive",
@@ -5923,7 +5787,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-08T13:11:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -6221,7 +6085,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-10T12:15:57+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -6747,33 +6611,6 @@
    "status": "new",
    "first_seen": "2026-10-13T13:57:52+00:00",
    "last_seen": "2026-11-17T21:57:46+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-nebenjob-als-online-testbenutzer-studien-fur-apps-websites-digitale-produkte-lei",
-   "source": "arbeitnow",
-   "title": "Nebenjob als Online-Testbenutzer (m/w/d) - Studien für Apps, Websites & digitale Produkte",
-   "company": "TPnet Marktforschung",
-   "url": "https://www.arbeitnow.com/jobs/nebenjob-als-online-testbenutzer-studien-fur-apps-websites-digitale-produkte-leipzig-230691",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/tpnet-marktforschung/nebenjob-als-online-testbenutzer-studien-fur-apps-websites-digitale-produkte-leipzig-230691",
-   "location": "Leipzig · Remote",
-   "posted": "2026-10-26T14:01:16+00:00",
-   "tags": [
-    "marketing and communication",
-    "minijob (geringfügige beschäftigung)",
-    "remote",
-    "side"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-13T13:57:52+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
    "digested": false
   },
   {
@@ -7348,31 +7185,6 @@
    "digested": false
   },
   {
-   "id": "wwr-maven-clinic-care-coach",
-   "source": "wwr",
-   "title": "Care Coach",
-   "company": "Maven Clinic",
-   "url": "https://weworkremotely.com/remote-jobs/maven-clinic-care-coach",
-   "apply_url": "https://weworkremotely.com/remote-jobs/maven-clinic-care-coach",
-   "location": "Anywhere in the World",
-   "posted": "2026-10-16T07:30:50+00:00",
-   "tags": [
-    "full-stack programming"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-10 hybrid",
-    "location +15 anywhere in the world",
-    "-20 no mobile signal anywhere"
-   ],
-   "has_email": true,
-   "status": "new",
-   "first_seen": "2026-10-16T11:08:25+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
    "id": "wwr-askable-software-engineer-ai-coding-tasks-contract",
    "source": "wwr",
    "title": "Software Engineer, AI Coding Tasks (Contract)",
@@ -7655,31 +7467,6 @@
    "status": "new",
    "first_seen": "2026-10-17T10:27:27+00:00",
    "last_seen": "2026-11-06T20:10:16+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarte",
-   "source": "arbeitnow",
-   "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-   "company": "Auralis Group",
-   "url": "https://www.arbeitnow.com/jobs/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-212802",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-212802",
-   "location": "Berlin · Remote",
-   "posted": "2026-10-26T16:30:51+00:00",
-   "tags": [
-    "remote",
-    "software development",
-    "unbefristeter arbeitsvertrag"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "excluded: not open to Nigeria (location: berlin · remote) (rescored after profile update)"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-17T16:45:05+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
    "digested": false
   },
   {
@@ -8106,7 +7893,7 @@
    "has_email": true,
    "status": "sent",
    "first_seen": "2026-10-19T19:34:05+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "sent_at": "2026-10-19T19:34:08+00:00",
    "sent_to_domain": "fanaticsinc.com",
    "digested": true
@@ -8233,7 +8020,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-20T11:17:11+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": true
   },
   {
@@ -8486,7 +8273,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-21T11:33:00+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -8994,7 +8781,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-22T18:12:57+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -9318,7 +9105,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-10-24T10:41:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": true
   },
   {
@@ -9343,7 +9130,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-24T10:41:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -9368,7 +9155,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-10-24T10:41:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -9394,56 +9181,6 @@
    "status": "new",
    "first_seen": "2026-10-24T10:41:25+00:00",
    "last_seen": "2026-10-27T11:55:49+00:00",
-   "digested": false
-  },
-  {
-   "id": "jobicy-156674",
-   "source": "jobicy",
-   "title": "Principal Product Manager, HTS API Marketplace",
-   "company": "Hopper",
-   "url": "https://jobicy.com/jobs/156674-principal-product-manager-hts-api-marketplace",
-   "apply_url": "https://jobicy.com/jobs/156674-principal-product-manager-hts-api-marketplace",
-   "location": "Brazil",
-   "posted": "2026-10-23T18:01:19+00:00",
-   "tags": [
-    "full-time",
-    "product & operations",
-    "senior"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "excluded: 'product manager' in title (rescored after profile update)"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-24T10:41:25+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "jobicy-156673",
-   "source": "jobicy",
-   "title": "Senior Product Designer (Fully Remote - anywhere in South America)",
-   "company": "PadSplit",
-   "url": "https://jobicy.com/jobs/156673-senior-product-designer-fully-remote-anywhere-in-south-america",
-   "apply_url": "https://jobicy.com/jobs/156673-senior-product-designer-fully-remote-anywhere-in-south-america",
-   "location": "LATAM",
-   "posted": "2026-10-23T18:01:17+00:00",
-   "tags": [
-    "contract",
-    "senior",
-    "web, ui & ux design"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "excluded: 'designer' in title (rescored after profile update)"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-24T10:41:25+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
    "digested": false
   },
   {
@@ -10522,40 +10259,6 @@
    "digested": false
   },
   {
-   "id": "himalayas-https-himalayas-app-companies-seamless-assist-jobs-gohighlevel-ghl-specialist-au",
-   "source": "himalayas",
-   "title": "GoHighLevel (GHL) Specialist — Automation & Customer Support (Gym Business) — Ph",
-   "company": "Seamless Assist",
-   "url": "https://himalayas.app/companies/seamless-assist/jobs/gohighlevel-ghl-specialist-automation-customer-support-gym-business-ph?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/seamless-assist/jobs/gohighlevel-ghl-specialist-automation-customer-support-gym-business-ph?utm_source=api",
-   "location": "Philippines",
-   "posted": "2026-10-26T17:25:11+00:00",
-   "tags": [
-    "crm-automation-specialist",
-    "customer-support-specialist",
-    "ghl-automation-specialist",
-    "gohighlevel-crm-expert",
-    "gohighlevel-specialist",
-    "marketing-automation-specialist",
-    "mid-level",
-    "technical-support-specialist"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "+4 payments",
-    "+2 fully remote",
-    "-8 location limited to 'Philippines'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T12:39:58+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
    "id": "jobicy-151644",
    "source": "jobicy",
    "title": "Staff Design Engineer - Americas",
@@ -10661,61 +10364,6 @@
    "digested": false
   },
   {
-   "id": "arbeitnow-partnerin-fur-social-media-budgetierung-mit-unternehmensbeteiligung-berlin-30508",
-   "source": "arbeitnow",
-   "title": "Partner:in für Social Media & Budgetierung (m/w/d) mit Unternehmensbeteiligung",
-   "company": "BeginnerBudget",
-   "url": "https://www.arbeitnow.com/jobs/partnerin-fur-social-media-budgetierung-mit-unternehmensbeteiligung-berlin-305081",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/beginnerbudget/partnerin-fur-social-media-budgetierung-mit-unternehmensbeteiligung-berlin-305081",
-   "location": "Berlin · Remote",
-   "posted": "2026-10-26T11:30:47+00:00",
-   "tags": [
-    "freelance",
-    "freiberufler / selbstständiger",
-    "remote",
-    "social media manager",
-    "teamleitung"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T12:39:58+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-junior-marketing-manager-london-44573",
-   "source": "arbeitnow",
-   "title": "Junior Marketing Manager (m/f/d)",
-   "company": "Mammutmarsch UG",
-   "url": "https://www.arbeitnow.com/jobs/junior-marketing-manager-london-44573",
-   "apply_url": "https://www.arbeitnow.co.uk/jobs/companies/mammutmarsch-ug/junior-marketing-manager-london-44573",
-   "location": "London · Remote",
-   "posted": "2026-10-26T09:30:48+00:00",
-   "tags": [
-    "entry",
-    "freelance",
-    "marketing manager",
-    "remote",
-    "self-employed contractor (freelancer)"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "excluded: 'marketing' in title"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T12:39:58+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
    "id": "arbeitnow-remote-analyst-investor-relations-marketing-switzerland-434020",
    "source": "arbeitnow",
    "title": "Analyst, Investor Relations & Marketing",
@@ -10794,690 +10442,6 @@
    "digested": false
   },
   {
-   "id": "arbeitnow-remote-product-designer-builder-stellartech-47148",
-   "source": "arbeitnow",
-   "title": "Product Designer-Builder | StellarTech",
-   "company": "Hirehire",
-   "url": "https://www.arbeitnow.com/jobs/remote-product-designer-builder-stellartech-47148",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-builder-stellartech-47148",
-   "location": "Remote · Remote",
-   "posted": "2026-10-26T18:40:13+00:00",
-   "tags": [
-    "full time",
-    "product design"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "excluded: 'designer' in title (rescored after profile update)"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-green-ocean-property-management-jobs-director-of-m",
-   "source": "himalayas",
-   "title": "Director of Maintenance",
-   "company": "Green Ocean Property Management",
-   "url": "https://himalayas.app/companies/green-ocean-property-management/jobs/director-of-maintenance?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/green-ocean-property-management/jobs/director-of-maintenance?utm_source=api",
-   "location": "Philippines",
-   "posted": "2026-10-26T17:47:32+00:00",
-   "tags": [
-    "director",
-    "director-of-facilities",
-    "director-of-facilities-engineering",
-    "facilities-director",
-    "facilities-maintenance-manager",
-    "facility-management-director",
-    "field-operations-director",
-    "maintenance-director",
-    "operations-and-maintenance-director",
-    "property-maintenance-director"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-8 location limited to 'Philippines'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-vanderbilt-university-medical-center-jobs-revenue-",
-   "source": "himalayas",
-   "title": "Revenue Cycle Billing Coordinator (Payment Posting and Cash Application Reconcil",
-   "company": "Vanderbilt University Medical Center",
-   "url": "https://himalayas.app/companies/vanderbilt-university-medical-center/jobs/revenue-cycle-billing-coordinator-payment-posting-and-cash-application-reconcil?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/vanderbilt-university-medical-center/jobs/revenue-cycle-billing-coordinator-payment-posting-and-cash-application-reconcil?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:36:44+00:00",
-   "tags": [
-    "accounts-receivable-specialist",
-    "billing-coordinator",
-    "medical-billing-specialist",
-    "mid-level",
-    "patient-billing-coordinator",
-    "payment-posting-specialist",
-    "revenue-cycle-associate",
-    "revenue-cycle-coordinator",
-    "revenue-cycle-management-coordinator",
-    "revenue-cycle-specialist"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "+4 payments",
-    "-8 location limited to 'United States'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-carnelian-ventures-jobs-full-stack-software-engine",
-   "source": "himalayas",
-   "title": "Full-Stack Software Engineer",
-   "company": "Carnelian Ventures",
-   "url": "https://himalayas.app/companies/carnelian-ventures/jobs/full-stack-software-engineer?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/carnelian-ventures/jobs/full-stack-software-engineer?utm_source=api",
-   "location": "Mexico",
-   "posted": "2026-10-26T17:35:24+00:00",
-   "tags": [
-    "backend-engineer",
-    "frontend-engineer",
-    "full-stack-developer",
-    "full-stack-engineer",
-    "full-stack-engineering",
-    "full-stack-javascript-engineer",
-    "full-stack-product-engineer",
-    "full-stack-software-developer",
-    "full-stack-software-engineering",
-    "full-stack-web-developer",
-    "fullstack-software-engineering",
-    "senior",
-    "software-engineer",
-    "web-application-developer"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "title +5 engineer",
-    "-8 location limited to 'Mexico'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-icf-jobs-gis-analyst-developer-remote-us",
-   "source": "himalayas",
-   "title": "GIS Analyst/Developer (Remote US)",
-   "company": "ICF",
-   "url": "https://himalayas.app/companies/icf/jobs/gis-analyst-developer-remote-us?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/icf/jobs/gis-analyst-developer-remote-us?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:35:18+00:00",
-   "tags": [
-    "developer",
-    "geographic-data-analyst",
-    "geographic-information-systems-analyst",
-    "geospatial-analyst",
-    "geospatial-data-analyst",
-    "geospatial-software-engineer",
-    "gis-analyst",
-    "gis-data-analyst",
-    "gis-developer",
-    "gis-technical-analyst",
-    "mid-level",
-    "remote-gis-professional"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "title +5 developer",
-    "-25 authorized to work in the united states",
-    "-8 location limited to 'United States'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-driven-brands-inc-jobs-media-analyst",
-   "source": "himalayas",
-   "title": "Media Analyst",
-   "company": "Driven Brands Inc.",
-   "url": "https://himalayas.app/companies/driven-brands-inc/jobs/media-analyst?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/driven-brands-inc/jobs/media-analyst?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:32:50+00:00",
-   "tags": [
-    "advertising-analytics",
-    "digital-marketing-analyst",
-    "digital-media-analyst",
-    "marketing-analyst",
-    "media-analysis",
-    "media-analyst",
-    "media-assessment-analyst",
-    "media-data-analyst",
-    "media-evaluation-analyst",
-    "media-intelligence-analyst",
-    "media-measurement-analyst",
-    "media-research-analyst",
-    "mid-level"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-8 location limited to 'United States'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-cognizant-jobs-workday-integrations-consultant",
-   "source": "himalayas",
-   "title": "Workday Integrations Consultant",
-   "company": "Cognizant",
-   "url": "https://himalayas.app/companies/cognizant/jobs/workday-integrations-consultant?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/cognizant/jobs/workday-integrations-consultant?utm_source=api",
-   "location": "United Kingdom",
-   "posted": "2026-10-26T17:28:18+00:00",
-   "tags": [
-    "erp-integration-consultant",
-    "integration-consultant",
-    "mid-level",
-    "systems-integration-consultant",
-    "workday-consultant",
-    "workday-hcm-integration-consultant",
-    "workday-integration-consultant",
-    "workday-integration-consulting",
-    "workday-integration-developer",
-    "workday-integration-engineer",
-    "workday-integration-specialist",
-    "workday-integrations-consultant",
-    "workday-integrations-specialist"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-15 on-site",
-    "-8 location limited to 'United Kingdom'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-summa-linguae-technologies-jobs-handwritten-text-l",
-   "source": "himalayas",
-   "title": "Handwritten Text Live Photo Collection (India)",
-   "company": "Summa Linguae Technologies",
-   "url": "https://himalayas.app/companies/summa-linguae-technologies/jobs/handwritten-text-live-photo-collection-india?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/summa-linguae-technologies/jobs/handwritten-text-live-photo-collection-india?utm_source=api",
-   "location": "India",
-   "posted": "2026-10-26T17:28:14+00:00",
-   "tags": [
-    "data-annotator",
-    "data-collection",
-    "data-collection-specialist",
-    "data-collector",
-    "entry-level",
-    "handwriting-data-entry",
-    "image-data-analyst"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-15 entry-level",
-    "-8 location limited to 'India'",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-languageline-solutions-jobs-gen-interpreter-368027",
-   "source": "himalayas",
-   "title": "Gen Interpreter",
-   "company": "LanguageLine Solutions",
-   "url": "https://himalayas.app/companies/languageline-solutions/jobs/gen-interpreter-3680277056?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/languageline-solutions/jobs/gen-interpreter-3680277056?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:27:28+00:00",
-   "tags": [
-    "bilingual-interpreter",
-    "entry-level",
-    "general-interpreter",
-    "interpreters",
-    "language-services",
-    "phone-interpreter",
-    "remote-interpreter"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-25 authorized to work in the united states",
-    "-15 entry-level",
-    "-8 location limited to 'United States'",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-crowdstrike-jobs-solution-architect-integration-pa",
-   "source": "himalayas",
-   "title": "Solution Architect, Integration Partners GTM",
-   "company": "Crowdstrike",
-   "url": "https://himalayas.app/companies/crowdstrike/jobs/solution-architect-integration-partners-gtm-2211487157?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/crowdstrike/jobs/solution-architect-integration-partners-gtm-2211487157?utm_source=api",
-   "location": "Italy",
-   "posted": "2026-10-26T17:27:22+00:00",
-   "tags": [
-    "gtm-systems-architect",
-    "integration-architect",
-    "integration-solutions-architect",
-    "partner-integration",
-    "partner-solution-architect",
-    "partner-solutions-architect",
-    "sales-engineering",
-    "security-integration",
-    "senior",
-    "senior-integration-architect",
-    "solutions-architect",
-    "technical-alliances"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-5 c++",
-    "location +10 global",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-scientific-games-jobs-tech-ops-engineer",
-   "source": "himalayas",
-   "title": "Tech Ops Engineer",
-   "company": "Scientific Games",
-   "url": "https://himalayas.app/companies/scientific-games/jobs/tech-ops-engineer?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/scientific-games/jobs/tech-ops-engineer?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:27:21+00:00",
-   "tags": [
-    "devops",
-    "it-operations",
-    "senior",
-    "senior-techops-engineer",
-    "systems-administrator",
-    "technical-operations",
-    "windows-administration"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "title +5 engineer",
-    "location +10 global",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-prometeo-talent-jobs-brand-lift-project-manager-us",
-   "source": "himalayas",
-   "title": "Brand Lift - Project Manager  | US company | Remote 📍",
-   "company": "Prometeo Talent",
-   "url": "https://himalayas.app/companies/prometeo-talent/jobs/brand-lift-project-manager-us-company-remote?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/prometeo-talent/jobs/brand-lift-project-manager-us-company-remote?utm_source=api",
-   "location": "Panama",
-   "posted": "2026-10-26T17:27:06+00:00",
-   "tags": [
-    "brand-project-manager",
-    "market-research-project-manager",
-    "marketing-measurement-manager",
-    "mid-level",
-    "project-manager",
-    "remote-project-manager",
-    "research-project-manager"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "+2 fully remote",
-    "location +5 europe",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-nielseniq-jobs-associate-client-director-insights",
-   "source": "himalayas",
-   "title": "Associate Client Director - Insights",
-   "company": "NielsenIQ",
-   "url": "https://himalayas.app/companies/nielseniq/jobs/associate-client-director-insights?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/nielseniq/jobs/associate-client-director-insights?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:26:31+00:00",
-   "tags": [
-    "associate-director-commercial-insights",
-    "client-account-director",
-    "client-director",
-    "consumer-insights-manager",
-    "director",
-    "insights-director",
-    "manager",
-    "market-research-director"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-15 onsite",
-    "-8 location limited to 'United States'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-acciona-it-jobs-linux-specialist-sr-chile-l",
-   "source": "himalayas",
-   "title": "Linux Specialist Sr. - Chile (L)",
-   "company": "Acciona IT",
-   "url": "https://himalayas.app/companies/acciona-it/jobs/linux-specialist-sr-chile-l?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/acciona-it/jobs/linux-specialist-sr-chile-l?utm_source=api",
-   "location": "Chile",
-   "posted": "2026-10-26T17:21:29+00:00",
-   "tags": [
-    "cloud-infrastructure-engineer",
-    "infrastructure-support-engineer",
-    "linux-engineer",
-    "linux-infrastructure-specialist",
-    "linux-system-engineer",
-    "linux-systems-administrator",
-    "linux-systems-engineer",
-    "linux-systems-specialist",
-    "senior",
-    "senior-linux-systems-administration",
-    "senior-linux-systems-administrator",
-    "senior-unix-linux-engineer",
-    "systems-administrator",
-    "unix-system-administration"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-8 location limited to 'Chile'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-summa-linguae-technologies-jobs-hmong-voice-record",
-   "source": "himalayas",
-   "title": "Hmong Voice recording and Transcription",
-   "company": "Summa Linguae Technologies",
-   "url": "https://himalayas.app/companies/summa-linguae-technologies/jobs/hmong-voice-recording-and-transcription?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/summa-linguae-technologies/jobs/hmong-voice-recording-and-transcription?utm_source=api",
-   "location": "Lao People's Democratic Republic",
-   "posted": "2026-10-26T17:17:48+00:00",
-   "tags": [
-    "audio-transcriber",
-    "hmong-audio-transcriptionist",
-    "hmong-language-services",
-    "hmong-language-specialist",
-    "hmong-voice-recording-specialist",
-    "mid-level",
-    "speech-data-annotator",
-    "transcriptionist",
-    "voice-recording-specialist"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-8 location limited to 'Lao People's Democratic Republic'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-revizto-jobs-security-operations-engineer",
-   "source": "himalayas",
-   "title": "Security Operations Engineer",
-   "company": "Revizto",
-   "url": "https://himalayas.app/companies/revizto/jobs/security-operations-engineer?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/revizto/jobs/security-operations-engineer?utm_source=api",
-   "location": "Germany",
-   "posted": "2026-10-26T17:13:49+00:00",
-   "tags": [
-    "cyber-operations-engineer",
-    "cybersecurity-engineer",
-    "cybersecurity-operations-engineer",
-    "detection-engineer",
-    "incident-response-engineer",
-    "mid-level",
-    "secops-engineer",
-    "security-engineering-and-operations",
-    "security-operations-center-analyst",
-    "security-operations-engineer",
-    "security-operations-engineering",
-    "soc-analyst"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "title +5 engineer",
-    "-8 location limited to 'Germany'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-recruityard-jobs-german-customer-care-advisor-remo",
-   "source": "himalayas",
-   "title": "German Customer Care Advisor - Remote in Portugal",
-   "company": "Recruityard",
-   "url": "https://himalayas.app/companies/recruityard/jobs/german-customer-care-advisor-remote-in-portugal?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/recruityard/jobs/german-customer-care-advisor-remote-in-portugal?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:08:48+00:00",
-   "tags": [
-    "bilingual-german-english-customer-support-consultant",
-    "customer-care-advisors",
-    "customer-service",
-    "customer-service-advisor",
-    "customer-support-specialist",
-    "entry-level",
-    "german-speaking-customer-service-representative",
-    "german-speaking-customer-support-jobs",
-    "remote-german-customer-support-specialist",
-    "technical-support-specialist"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-15 entry-level",
-    "location +10 global",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-orion-placement-jobs-remote-employment-litigation-",
-   "source": "himalayas",
-   "title": "Remote - Employment Litigation Attorney (California Bar)",
-   "company": "Orion Placement",
-   "url": "https://himalayas.app/companies/orion-placement/jobs/remote-employment-litigation-attorney-california-bar?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/orion-placement/jobs/remote-employment-litigation-attorney-california-bar?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T17:03:24+00:00",
-   "tags": [
-    "employment-lawyer",
-    "employment-litigation-attorney",
-    "litigation-attorney",
-    "mid-level",
-    "remote-employment-attorney",
-    "remote-labor-and-employment-attorney",
-    "trial-lawyer"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "+2 fully remote",
-    "-8 location limited to 'United States'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-eventmobi-jobs-event-success-manager-canada-remote",
-   "source": "himalayas",
-   "title": "Event Success Manager - Canada Remote",
-   "company": "EventMobi",
-   "url": "https://himalayas.app/companies/eventmobi/jobs/event-success-manager-canada-remote?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/eventmobi/jobs/event-success-manager-canada-remote?utm_source=api",
-   "location": "Canada",
-   "posted": "2026-10-26T17:02:53+00:00",
-   "tags": [
-    "customer-experience-manager",
-    "customer-success-manager",
-    "event-manager",
-    "event-operations-manager",
-    "event-success-management",
-    "event-success-manager",
-    "manager"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "+2 fully remote",
-    "-15 on-site",
-    "-10 hybrid",
-    "-8 location limited to 'Canada'",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "himalayas-https-himalayas-app-companies-autoscribe-jobs-controller",
-   "source": "himalayas",
-   "title": "Controller",
-   "company": "Autoscribe",
-   "url": "https://himalayas.app/companies/autoscribe/jobs/controller?utm_source=api",
-   "apply_url": "https://himalayas.app/companies/autoscribe/jobs/controller?utm_source=api",
-   "location": "United States",
-   "posted": "2026-10-26T16:59:31+00:00",
-   "tags": [
-    "accounting-manager",
-    "controller",
-    "controller-services",
-    "controlling",
-    "director-of-finance",
-    "emea-controller",
-    "financial-controller",
-    "senior",
-    "us-controller"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "+4 fintech",
-    "-8 location limited to 'United States'",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
    "id": "jobicy-157232",
    "source": "jobicy",
    "title": "Director, Paid Marketing - Subscription (US Remote)",
@@ -11550,196 +10514,6 @@
    "status": "new",
    "first_seen": "2026-10-26T19:39:45+00:00",
    "last_seen": "2026-10-29T19:21:05+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstar",
-   "source": "arbeitnow",
-   "title": "DevOps Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-   "company": "Auralis Group",
-   "url": "https://www.arbeitnow.com/jobs/devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-373151",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/auralis-group/devops-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-373151",
-   "location": "Berlin · Remote",
-   "posted": "2026-10-26T16:30:51+00:00",
-   "tags": [
-    "remote",
-    "software development",
-    "unbefristeter arbeitsvertrag"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-5 c++",
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-performance-marketing-manager-paid-social-munich-171243",
-   "source": "arbeitnow",
-   "title": "Performance Marketing Manager – Paid Social (m/w/d)",
-   "company": "Alphapet Ventures GmbH",
-   "url": "https://www.arbeitnow.com/jobs/performance-marketing-manager-paid-social-munich-171243",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/alphapet-ventures-gmbh/performance-marketing-manager-paid-social-munich-171243",
-   "location": "Munich · Remote",
-   "posted": "2026-10-26T16:30:50+00:00",
-   "tags": [
-    "marketing and communication",
-    "remote",
-    "unbefristeter arbeitsvertrag"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "excluded: 'marketing' in title"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-closer-senior-sales-manager-high-ticket-b2b-berlin-412075",
-   "source": "arbeitnow",
-   "title": "Closer / Senior Sales Manager High-Ticket B2B (m/w/d)",
-   "company": "Roemer Capital GmbH",
-   "url": "https://www.arbeitnow.com/jobs/closer-senior-sales-manager-high-ticket-b2b-berlin-412075",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/roemer-capital-gmbh/closer-senior-sales-manager-high-ticket-b2b-berlin-412075",
-   "location": "Berlin · Remote",
-   "posted": "2026-10-26T16:01:01+00:00",
-   "tags": [
-    "berufserfahren",
-    "management",
-    "remote",
-    "team leader",
-    "unbefristeter arbeitsvertrag"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "excluded: 'sales' in title"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-it-administrator-mirosoft-365-berlin-72864",
-   "source": "arbeitnow",
-   "title": "IT-Administrator Mirosoft 365 (m/w/d)",
-   "company": "Neurawork GmbH & Co. KG",
-   "url": "https://www.arbeitnow.com/jobs/it-administrator-mirosoft-365-berlin-72864",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/it-administrator-mirosoft-365-berlin-72864",
-   "location": "Berlin · Remote",
-   "posted": "2026-10-26T15:31:03+00:00",
-   "tags": [
-    "berufserfahren",
-    "remote",
-    "system and network administration",
-    "unbefristeter arbeitsvertrag"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-media-buyer-paid-social-berlin-122902",
-   "source": "arbeitnow",
-   "title": "Media Buyer Paid Social (m/w/d)",
-   "company": "RocketAds",
-   "url": "https://www.arbeitnow.com/jobs/media-buyer-paid-social-berlin-122902",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/rocketads/media-buyer-paid-social-berlin-122902",
-   "location": "Berlin · Remote",
-   "posted": "2026-10-26T14:01:12+00:00",
-   "tags": [
-    "berufserfahren",
-    "online marketing",
-    "remote",
-    "unbefristeter arbeitsvertrag"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-   "source": "arbeitnow",
-   "title": "Trainer/Dozent (m/w/x) für ITIL 5® Foundation Kurse (remote)",
-   "company": "GFN GmbH",
-   "url": "https://www.arbeitnow.com/jobs/trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-   "location": "Heidelberg · Remote",
-   "posted": "2026-10-26T13:31:01+00:00",
-   "tags": [
-    "berufserfahren",
-    "development",
-    "freelance",
-    "freiberufler / selbstständiger",
-    "remote",
-    "training"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
-   "digested": false
-  },
-  {
-   "id": "arbeitnow-business-mentor-partner-berlin-332713",
-   "source": "arbeitnow",
-   "title": "Business Mentor & Partner (m/w/d)",
-   "company": "thexton armstrong Nord und Ost Deutschland",
-   "url": "https://www.arbeitnow.com/jobs/business-mentor-partner-berlin-332713",
-   "apply_url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/business-mentor-partner-berlin-332713",
-   "location": "Berlin · Remote",
-   "posted": "2026-10-26T13:30:59+00:00",
-   "tags": [
-    "berufserfahren",
-    "business consulting",
-    "freelance",
-    "freiberufler / selbstständiger",
-    "remote"
-   ],
-   "score": 0,
-   "final": 0,
-   "reasons": [
-    "-20 no mobile signal anywhere",
-    "+5 posted this week"
-   ],
-   "has_email": false,
-   "status": "new",
-   "first_seen": "2026-10-26T19:39:45+00:00",
-   "last_seen": "2026-10-26T19:39:45+00:00",
    "digested": false
   },
   {
@@ -34869,7 +33643,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-05T14:26:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -34892,7 +33666,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-05T14:26:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -35898,7 +34672,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-05T20:53:40+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -37221,7 +35995,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-06T14:03:06+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -37292,7 +36066,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-06T20:10:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -38474,7 +37248,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-07T12:46:47+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -40419,7 +39193,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-07T18:24:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -43033,7 +41807,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-08T18:35:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -44381,7 +43155,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-09T15:50:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -44404,7 +43178,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-09T15:50:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -45331,7 +44105,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-10T14:40:48+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -48452,7 +47226,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -48475,7 +47249,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -49869,7 +48643,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -49892,7 +48666,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -49915,7 +48689,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -49938,7 +48712,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -49961,7 +48735,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-11T20:57:52+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50058,7 +48832,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50100,7 +48874,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50129,7 +48903,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50160,7 +48934,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50189,7 +48963,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50219,7 +48993,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50281,7 +49055,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50311,7 +49085,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50369,7 +49143,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50430,7 +49204,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50525,7 +49299,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50552,7 +49326,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50648,7 +49422,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -50829,7 +49603,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-12T14:57:22+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -53079,7 +51853,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-13T20:42:05+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -53561,7 +52335,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-13T20:42:05+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -53584,7 +52358,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-13T20:42:05+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -53607,7 +52381,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-13T20:42:05+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -53676,7 +52450,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-13T20:42:05+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -53699,7 +52473,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-13T20:42:05+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54092,7 +52866,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T13:18:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54115,7 +52889,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T13:18:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54138,7 +52912,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T13:18:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54163,7 +52937,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T18:54:23+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54195,7 +52969,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T18:54:23+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54394,7 +53168,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T18:54:23+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54417,7 +53191,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T18:54:23+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54463,7 +53237,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T18:54:23+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54578,7 +53352,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T18:54:23+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54601,7 +53375,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-14T18:54:23+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54652,7 +53426,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-15T13:46:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -54921,7 +53695,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-15T19:29:56+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -55119,7 +53893,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-15T19:29:56+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -55269,7 +54043,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-16T15:26:54+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -56479,7 +55253,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-16T23:07:17+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -56525,7 +55299,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-16T23:07:17+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -56553,7 +55327,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-17T15:48:27+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -56924,7 +55698,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-17T21:57:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -56957,7 +55731,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-17T21:57:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -56991,7 +55765,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-17T21:57:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -57024,7 +55798,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-17T21:57:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -57657,7 +56431,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-17T21:57:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -57680,7 +56454,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-17T21:57:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58299,7 +57073,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58322,7 +57096,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58345,7 +57119,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58391,7 +57165,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58414,7 +57188,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58506,7 +57280,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58529,7 +57303,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58621,7 +57395,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T15:27:45+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58651,7 +57425,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T21:39:58+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -58691,7 +57465,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-18T21:39:58+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -59532,7 +58306,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -59557,7 +58331,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -59632,7 +58406,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60022,7 +58796,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60045,7 +58819,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60070,7 +58844,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T15:33:51+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60099,7 +58873,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60128,7 +58902,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60161,7 +58935,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60189,7 +58963,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60223,7 +58997,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60257,7 +59031,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60572,7 +59346,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60595,7 +59369,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60618,7 +59392,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60641,7 +59415,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60664,7 +59438,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60687,7 +59461,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60710,7 +59484,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60733,7 +59507,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60756,7 +59530,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60779,7 +59553,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60802,7 +59576,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60831,7 +59605,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-19T21:55:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60921,7 +59695,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60953,7 +59727,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -60984,7 +59758,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -61134,7 +59908,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -61184,7 +59958,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -61259,7 +60033,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62051,7 +60825,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62074,7 +60848,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62097,7 +60871,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62120,7 +60894,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62143,7 +60917,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62171,7 +60945,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62196,7 +60970,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T15:12:59+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62225,7 +60999,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62875,7 +61649,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62898,7 +61672,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62921,7 +61695,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62946,7 +61720,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62969,7 +61743,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -62992,7 +61766,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63015,7 +61789,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63038,7 +61812,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63084,7 +61858,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63132,7 +61906,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63178,7 +61952,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63201,7 +61975,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63224,7 +61998,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63247,7 +62021,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63270,7 +62044,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63293,7 +62067,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63316,7 +62090,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63362,7 +62136,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63385,7 +62159,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63408,7 +62182,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63431,7 +62205,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-20T21:37:50+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63469,7 +62243,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63717,7 +62491,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63740,7 +62514,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63763,7 +62537,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63786,7 +62560,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63809,7 +62583,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63832,7 +62606,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63855,7 +62629,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T14:28:46+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -63996,7 +62770,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64019,7 +62793,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64042,7 +62816,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64067,7 +62841,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64090,7 +62864,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64115,7 +62889,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64138,7 +62912,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64163,7 +62937,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64209,7 +62983,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64234,7 +63008,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64257,7 +63031,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64280,7 +63054,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64303,7 +63077,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -64326,7 +63100,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-21T20:18:36+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -65066,7 +63840,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-22T14:24:21+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -65135,7 +63909,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-22T14:24:21+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -65185,7 +63959,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -65235,7 +64009,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -65260,7 +64034,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66473,7 +65247,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66498,7 +65272,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66521,7 +65295,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66544,7 +65318,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66567,7 +65341,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66590,7 +65364,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66613,7 +65387,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-22T20:31:16+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66645,7 +65419,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66670,7 +65444,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66695,7 +65469,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -66720,7 +65494,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67229,7 +66003,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67252,7 +66026,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67275,7 +66049,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67300,7 +66074,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67323,7 +66097,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67346,7 +66120,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67369,7 +66143,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67392,7 +66166,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-23T17:50:38+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67754,7 +66528,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T01:23:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67777,7 +66551,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-24T01:23:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67800,7 +66574,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T01:23:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67823,7 +66597,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T01:23:24+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67852,7 +66626,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67886,7 +66660,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67917,7 +66691,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67944,7 +66718,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -67976,7 +66750,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -68508,7 +67282,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -68531,7 +67305,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -68554,7 +67328,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -68577,7 +67351,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -68600,7 +67374,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -68623,7 +67397,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -68646,7 +67420,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T17:23:20+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69724,7 +68498,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69747,7 +68521,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69774,7 +68548,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69797,7 +68571,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69820,7 +68594,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69847,7 +68621,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69870,7 +68644,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69893,7 +68667,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69919,7 +68693,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-24T23:19:42+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69945,7 +68719,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -69978,7 +68752,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70012,7 +68786,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70046,7 +68820,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70080,7 +68854,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70107,7 +68881,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70132,7 +68906,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70368,7 +69142,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70394,7 +69168,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70526,7 +69300,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70552,7 +69326,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70578,7 +69352,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70606,7 +69380,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70634,7 +69408,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70662,7 +69436,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70690,7 +69464,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70717,7 +69491,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70744,7 +69518,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70772,7 +69546,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70799,7 +69573,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70827,7 +69601,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70854,7 +69628,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70882,7 +69656,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70910,7 +69684,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70938,7 +69712,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70961,7 +69735,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -70984,7 +69758,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71009,7 +69783,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71032,7 +69806,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71055,7 +69829,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71078,7 +69852,7 @@
    "has_email": true,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71101,7 +69875,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71126,7 +69900,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71149,7 +69923,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71174,7 +69948,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71197,7 +69971,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71220,7 +69994,7 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   },
   {
@@ -71243,7 +70017,274 @@
    "has_email": false,
    "status": "new",
    "first_seen": "2026-11-25T17:00:25+00:00",
-   "last_seen": "2026-11-25T17:00:25+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-strategy-ops-lead-applied-ai-berlin-333117",
+   "source": "arbeitnow",
+   "title": "Strategy & Ops Lead, Applied AI",
+   "company": "Clipboard",
+   "url": "https://www.arbeitnow.com/jobs/strategy-ops-lead-applied-ai-berlin-333117",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/clipboard/strategy-ops-lead-applied-ai-berlin-333117",
+   "location": "Remote · Remote",
+   "posted": "2026-11-25T18:40:17+00:00",
+   "tags": [
+    "full time",
+    "operations"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: arbeitnow job doesn't say it's open to Nigeria"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-linguist-somali-ui-technical-marketing-remote-247010",
+   "source": "arbeitnow",
+   "title": "Linguist - Somali - UI Technical / Marketing - Remote",
+   "company": "LILT (Production)",
+   "url": "https://www.arbeitnow.com/jobs/linguist-somali-ui-technical-marketing-remote-247010",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-247010",
+   "location": "Remote · Remote",
+   "posted": "2026-11-25T18:40:11+00:00",
+   "tags": [
+    "contract",
+    "liltlancer community"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'marketing' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-founders-associate-hamburg-204338",
+   "source": "arbeitnow",
+   "title": "Founder’s Associate (m/w/d)",
+   "company": "ProviPanda GmbH",
+   "url": "https://www.arbeitnow.com/jobs/founders-associate-hamburg-204338",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/founders-associate-hamburg-204338",
+   "location": "Berlin · Remote",
+   "posted": "2026-11-25T22:47:30+00:00",
+   "tags": [
+    "berufseinstieg",
+    "business operations",
+    "remote",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: not open to Nigeria (location: berlin · remote)"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-senior-leadership-ai-enablement-consultant-berlin-186615",
+   "source": "arbeitnow",
+   "title": "Senior Leadership & AI Enablement Consultant (w/d/m)",
+   "company": "WEBUILDAI GmbH",
+   "url": "https://www.arbeitnow.com/jobs/senior-leadership-ai-enablement-consultant-berlin-186615",
+   "apply_url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-leadership-ai-enablement-consultant-berlin-186615",
+   "location": "Berlin · Remote",
+   "posted": "2026-11-25T17:00:55+00:00",
+   "tags": [
+    "berufserfahren",
+    "business consulting",
+    "remote",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: not open to Nigeria (location: berlin · remote)"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "arbeitnow-remote-senior-frontend-developer-switzerland-292678",
+   "source": "arbeitnow",
+   "title": "Senior Frontend Developer",
+   "company": "Divio",
+   "url": "https://www.arbeitnow.com/jobs/remote-senior-frontend-developer-switzerland-292678",
+   "apply_url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
+   "location": "Switzerland · Remote",
+   "posted": "2026-11-25T21:20:04+00:00",
+   "tags": [
+    "computer software",
+    "engineering",
+    "full time",
+    "mid-senior",
+    "remote"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: not open to Nigeria (location: switzerland · remote)"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-coinbase-engineering-manager-finhub-financial-intelligence-platform",
+   "source": "wwr",
+   "title": "Engineering Manager, FinHub - Financial Intelligence (Platform)",
+   "company": "Coinbase",
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-engineering-manager-finhub-financial-intelligence-platform",
+   "apply_url": "https://weworkremotely.com/remote-jobs/coinbase-engineering-manager-finhub-financial-intelligence-platform",
+   "location": "Anywhere in the World",
+   "posted": "2026-11-25T18:32:53+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "location +15 anywhere in the world",
+    "-20 no mobile signal anywhere",
+    "+5 posted this week"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-celonis-senior-ai-applied-value-architect",
+   "source": "wwr",
+   "title": "Senior AI Applied Value Architect",
+   "company": "Celonis",
+   "url": "https://weworkremotely.com/remote-jobs/celonis-senior-ai-applied-value-architect",
+   "apply_url": "https://weworkremotely.com/remote-jobs/celonis-senior-ai-applied-value-architect",
+   "location": "Anywhere in the World",
+   "posted": "2026-11-25T18:32:00+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: restricted: 'authorized to work in'"
+   ],
+   "has_email": true,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-hasbro-sr-editor-contract-temporary-d-d-universes-beyond",
+   "source": "wwr",
+   "title": "Sr. Editor (Contract/Temporary) - D&D Universes Beyond",
+   "company": "Hasbro",
+   "url": "https://weworkremotely.com/remote-jobs/hasbro-sr-editor-contract-temporary-d-d-universes-beyond",
+   "apply_url": "https://weworkremotely.com/remote-jobs/hasbro-sr-editor-contract-temporary-d-d-universes-beyond",
+   "location": "USA Only",
+   "posted": "2026-11-25T18:20:10+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: not open to Nigeria (location: usa only)"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-sumo-logic-principal-software-engineer",
+   "source": "wwr",
+   "title": "Principal Software Engineer",
+   "company": "Sumo Logic",
+   "url": "https://weworkremotely.com/remote-jobs/sumo-logic-principal-software-engineer",
+   "apply_url": "https://weworkremotely.com/remote-jobs/sumo-logic-principal-software-engineer",
+   "location": "USA Only",
+   "posted": "2026-11-25T18:00:10+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: not open to Nigeria (location: usa only)"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-d2b-electrical-estimator",
+   "source": "wwr",
+   "title": "Electrical Estimator",
+   "company": "D2B",
+   "url": "https://weworkremotely.com/remote-jobs/d2b-electrical-estimator",
+   "apply_url": "https://weworkremotely.com/remote-jobs/d2b-electrical-estimator",
+   "location": "Asia Only",
+   "posted": "2026-11-25T17:40:08+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: not open to Nigeria (location: asia only)"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
+   "digested": false
+  },
+  {
+   "id": "wwr-american-society-of-anesthesiologists-summer-intern-quality-health-policy-econom",
+   "source": "wwr",
+   "title": "Summer Intern - Quality (Health Policy / Economics) - Remote",
+   "company": "American Society of Anesthesiologists®",
+   "url": "https://weworkremotely.com/remote-jobs/american-society-of-anesthesiologists-summer-intern-quality-health-policy-economics-remote",
+   "apply_url": "https://weworkremotely.com/remote-jobs/american-society-of-anesthesiologists-summer-intern-quality-health-policy-economics-remote",
+   "location": "USA Only",
+   "posted": "2026-11-25T17:20:10+00:00",
+   "tags": [
+    "full-stack programming"
+   ],
+   "score": 0,
+   "final": 0,
+   "reasons": [
+    "excluded: 'intern' in title"
+   ],
+   "has_email": false,
+   "status": "new",
+   "first_seen": "2026-11-25T22:52:17+00:00",
+   "last_seen": "2026-11-25T22:52:17+00:00",
    "digested": false
   }
  ]
